@@ -4,3 +4,4 @@
 # Profesor: 
 
 ### 1.1 Startup Profile
+### 1.2 Solution Profile
