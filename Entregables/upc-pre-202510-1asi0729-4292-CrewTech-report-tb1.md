@@ -10,8 +10,8 @@
   <h2>Ingienería de Software - 2025 - 1</h2>
 </div>
 
-### Desarrollo de Aplicaciones Open Source - 4294
-### Sección: 1ASI0729
+### Desarrollo de Aplicaciones Open Source - 1ASI0729
+### Sección: 4294
 ### Profesor: Angel Augusto Velasquez Nuñez
 ### "Informe de Trabajo Final"
 ### Startup: CrewTech
