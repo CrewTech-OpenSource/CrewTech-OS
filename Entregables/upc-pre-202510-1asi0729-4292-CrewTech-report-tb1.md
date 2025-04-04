@@ -1,8 +1,15 @@
-# UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
-<div>
-  <img width = "33%" src="https://github.com/user-attachments/assets/8dfc74cc-4c2d-4ec4-b6e4-46c61ddcc0fc">
+<div align="center">
+  <h1>UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS</h1>
 </div>
-## Ingienería de Software - 2025 - 1
+
+<div align="center">
+  <img width = "15%" src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png">
+</div>
+
+<div align="center">
+  <h2>Ingienería de Software - 2025 - 1</h2>
+</div>
+
 ### Sección: 4294
 ### Profesor: Angel Augusto Velasquez Nuñez
 ### "Informe de Trabajo Final"
@@ -15,6 +22,10 @@
 | Julca Minaya, Sergio Gino      |   u202318274    |
 | Antonio      |  Cell 8    |
 | Dayro      |  Cell 8    |
-# Abril, 2025
+
+<div align="center">
+    <h1>Abril, 2025</h1>
+</div>
+
 ### 1.1 Startup Profile
 ### 1.2 Solution Profile
