@@ -18,7 +18,7 @@
 ### Nombre del producto: DriveCare
 | Estudiante |   Código   |
 |------------|------------|
-| Vitaly      |  Cell 2    |
+| Baca Camargo, Vitaly Arturo    |   u20231c426    |
 | Moises      |  Cell 5    |
 | Julca Minaya, Sergio Gino      |   u202318274    |
 | Navarro Chinga, Antonio Jhair  |   u202314101    |
