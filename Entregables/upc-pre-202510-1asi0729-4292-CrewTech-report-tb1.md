@@ -30,8 +30,8 @@
 
 # ÍNDICE
 # Capítulo I: Introducción
-  ## [_1.1. Startup Profile_] (#11-startup-profile)
-  ### 1.1.1. Descripción de la Startup
+  ## [_1.1. Startup Profile_](#11-startup-profile)
+  ### [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
   ### 1.1.2. Perfiles de integrantes del equipo
   ## _1.2. Solution Profile_
   ### 1.2.1. Antecedentes y problemática
