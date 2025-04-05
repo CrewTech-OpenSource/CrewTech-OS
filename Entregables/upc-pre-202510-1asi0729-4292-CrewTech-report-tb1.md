@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <h2>Ingienería de Software - 2025 - 1</h2>
+  <h2>INGIENERÍA DE SOFTWARE - 2025 - 10</h2>
 </div>
 
 ### Desarrollo de Aplicaciones Open Source - 1ASI0729
