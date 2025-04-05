@@ -21,7 +21,7 @@
 | Vitaly      |  Cell 2    |
 | Moises      |  Cell 5    |
 | Julca Minaya, Sergio Gino      |   u202318274    |
-| Antonio      |  Cell 8    |
+| Navarro Chinga, Antonio Jhair  |   u202314101    |
 | Rios Piñan, Dayro Richard      |   u202315283    |
 
 <div align="center">
@@ -40,6 +40,7 @@
     - [1.2.2.3. Lean UX Hypothesis Statements.](#1223-lean-ux-hypothesis-statements)
     - [1.2.2.4. Lean UX Canvas.](#1224-lean-ux-canvas)
 - [1.3. Segmentos objetivo.](#13-segmentos-objetivo)
+
 
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
@@ -104,3 +105,9 @@ En resumen, a través del sensor, instalado en el carro, se leen los datos, que 
 
 
 ## 1.2 Solution Profile
+Nuestro producto se centra en realizar una aplicación diseñada para poder conectar a las personas interesadas que buscan prevenir el deterioro de sus vehículos y optimizar su mantenimiento mediante un sistema de monitoreo avanzado.
+El desafío surge ya que muchos propietarios de vehículos enfrentan fallas mecánicas imprevistas, mantenimientos costosos y pérdida de rendimiento debido a la falta de información en tiempo real sobre el estado del automóvil y los hábitos de conducción. Esta problemática, común en usuarios con rutinas exigentes o poco conocimiento técnico, conlleva riesgos innecesarios, altos gastos y una reducción significativa en la durabilidad del vehículo. 
+Con el objetivo de brindar una solución efectiva, surge DRIVECARE, una innovadora aplicación que, en conjunto con un sensor instalado en el vehículo, analiza constantemente datos como el comportamiento del conductor, el estado técnico del auto y las tendencias de uso. Mediante inteligencia artificial, la plataforma identifica malas prácticas, recomienda acciones correctivas y anticipa posibles fallos, permitiendo una intervención temprana antes de que surjan problemas mayores.
+Este servicio opera bajo un modelo de suscripción mensual. Al estar activo, el usuario tiene acceso completo a todas las funcionalidades de la app. En caso de cancelación o falta de pago, el acceso queda suspendido, garantizando así la continuidad del servicio solo para clientes activos.
+Nuestra misión es transformar la manera en que los conductores cuidan sus vehículos, ofreciendo una herramienta tecnológica que promueve una conducción responsable, reduce costos por reparaciones y maximiza el tiempo de vida del automóvil. Con DRIVECARE, conducir no solo será más seguro, sino también más inteligente.
+
