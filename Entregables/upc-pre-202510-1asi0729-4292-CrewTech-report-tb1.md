@@ -21,7 +21,7 @@
 | Vitaly      |  Cell 2    |
 | Moises      |  Cell 5    |
 | Julca Minaya, Sergio Gino      |   u202318274    |
-| Antonio      |  Cell 8    |
+| Navarro Chinga, Antonio Jhair  |   u202314101    |
 | Rios Piñan, Dayro Richard      |   u202315283    |
 
 <div align="center">
