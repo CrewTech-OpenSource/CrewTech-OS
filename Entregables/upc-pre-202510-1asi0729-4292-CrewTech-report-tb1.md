@@ -67,3 +67,18 @@ Con el objetivo de brindar una solución efectiva, surge DriveCare, una innovado
 Este servicio opera bajo un modelo de suscripción mensual. Al estar activo, el usuario tiene acceso completo a todas las funcionalidades de la app. En caso de cancelación o falta de pago, el acceso queda suspendido, garantizando así la continuidad del servicio solo para clientes activos.
 Nuestra misión es transformar la manera en que los conductores cuidan sus vehículos, ofreciendo una herramienta tecnológica que promueve una conducción responsable, reduce costos por reparaciones y maximiza el tiempo de vida del automóvil. Con DriveCare, conducir no solo será más seguro, sino también más inteligente.
 
+### 1.2.2. Leam UX Process
+
+#### 1.2.2.1. Lean UX Problem Statements.
+
+##### Problem Statements 1: 
+A pesar de que los propietarios de vehículos son conscientes de la importancia del mantenimiento preventivo, muchos de ellos olvidan o descuidan realizar las acciones necesarias para evitar fallas en sus vehículos. Esto provoca un aumento en las reparaciones inesperadas y en los costos asociados, además de generar inconvenientes y preocupaciones para los propietarios de los vehículos.
+
+***¿Cómo podemos ayudar a los propietarios de vehículos a llevar un control más eficiente del mantenimiento preventivo para evitar fallas inesperadas y reducir los costos de reparación?***
+
+#### Problem Statements 2:
+Los vehículos modernos están equipados con tecnologías avanzadas, pero los propietarios a menudo carecen de una forma sencilla y accesible de monitorear el estado de su vehículo en tiempo real. Esto crea incertidumbre sobre el funcionamiento del vehículo y aumenta el riesgo de que se pasen por alto posibles fallas que podrían haberse pre*venido.
+
+***¿Cómo podemos brindar a los propietarios de vehículos información en tiempo real sobre el estado de su vehículo, permitiéndoles tomar decisiones informadas y oportunas sobre su mantenimiento?***
+
+
