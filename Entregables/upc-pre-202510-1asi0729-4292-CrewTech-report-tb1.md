@@ -57,7 +57,7 @@
   #### [2.3.4. Empathy Mapping](#234-empathy-mapping)
   #### [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
 ### [2.4. Ubiquitous Language](#24-ubiquitous-language)
-
+---
 
 <h3 id="11-startup-profile">1.1. Startup Profile</h3>
 lorem
