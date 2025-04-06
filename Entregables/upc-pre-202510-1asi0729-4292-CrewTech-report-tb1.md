@@ -30,44 +30,43 @@
 
 # CONTENIDO
 ## Capítulo 1
-### [1.1. Startup Profile](#11-startup-profile)
-  #### [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
-  #### [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
-### [1.2. Solution Profile](#12-solution-profile)
-  #### [1.2.1. Antecedentes y problemática](#121-antecedentes-y-problemática)
-  #### [1.2.2. Lean UX Process](#122-lean-ux-process)
-  ##### [1.2.2.1. Lean UX Problem Statements](#12221-lean-ux-problem-statements)
-  ##### [1.2.2.2. Lean UX Assumptions](#12222-lean-ux-assumptions)
-  ##### [1.2.2.3. Lean UX Hypothesis Statements](#12223-lean-ux-hypothesis-statements)
-  ##### [1.2.2.4. Lean UX Canvas](#12224-lean-ux-canvas)
-### [1.3. Segmentos objetivo](#13-segmentos-objetivo)
+### [1.1. Startup Profile](#startup-profile)
+  #### [1.1.1. Descripción de la Startup](#descripción-de-la-startup)
+  #### [1.1.2. Perfiles de integrantes del equipo](#perfiles-de-integrantes-del-equipo)
+### [1.2. Solution Profile](#solution-profile)
+  #### [1.2.1. Antecedentes y problemática](#antecedentes-y-problemática)
+  #### [1.2.2. Lean UX Process](#lean-ux-process)
+  ##### [1.2.2.1. Lean UX Problem Statements](#lean-ux-problem-statements)
+  ##### [1.2.2.2. Lean UX Assumptions](#lean-ux-assumptions)
+  ##### [1.2.2.3. Lean UX Hypothesis Statements](#lean-ux-hypothesis-statements)
+  ##### [1.2.2.4. Lean UX Canvas](#lean-ux-canvas)
+### [1.3. Segmentos objetivo](#segmentos-objetivo)
 
 ## Capítulo 2
-### [2.1. Competidores](#21-competidores)
-  #### [2.1.1. Análisis competitivo](#211-análisis-competitivo)
-  #### [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
+### [2.1. Competidores](#competidores)
+  #### [2.1.1. Análisis competitivo](#análisis-competitivo)
+  #### [2.1.2. Estrategias y tácticas frente a competidores](#estrategias-y-tácticas-frente-a-competidores)
 ### [2.2. Entrevistas](#22-entrevistas)
-  #### [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
-  #### [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
-  #### [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
-### [2.3. Solution Profile](#23-solution-profile)
-  #### [2.3.1. User Personas](#231-user-personas)
-  #### [2.3.2. User Task Matrix](#232-user-task-matrix)
-  #### [2.3.3. User Journey Mapping](#233-user-journey-mapping)
-  #### [2.3.4. Empathy Mapping](#234-empathy-mapping)
-  #### [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
-### [2.4. Ubiquitous Language](#24-ubiquitous-language)
+  #### [2.2.1. Diseño de entrevistas](#diseño-de-entrevistas)
+  #### [2.2.2. Registro de entrevistas](#registro-de-entrevistas)
+  #### [2.2.3. Análisis de entrevistas](#análisis-de-entrevistas)
+### [2.3. Solution Profile](#solution-profile)
+  #### [2.3.1. User Personas](#user-personas)
+  #### [2.3.2. User Task Matrix](#user-task-matrix)
+  #### [2.3.3. User Journey Mapping](#user-journey-mapping)
+  #### [2.3.4. Empathy Mapping](#empathy-mapping)
+  #### [2.3.5. As-is Scenario Mapping](#as-is-scenario-mapping)
+### [2.4. Ubiquitous Language](#ubiquitous-language)
 ---
 
-<h3 id="11-startup-profile">1.1. Startup Profile</h3>
-lorem
+## Startup Profile
 
-### 1.1.1. Descripción de la Startup
+### Descripción de la Startup
 DriveCare es una aplicación innovadora diseñada para supervisar constantemente el estado de un vehículo, ayudando así a preservar y prolongar su vida útil. Muchas personas que utilizan su auto tanto de forma personal como profesional enfrentan un problema frecuente: desconocen las condiciones reales de su vehículo. Esto suele llevar a descuidos en el mantenimiento y, eventualmente, a reparaciones costosas cuando los problemas ya se han agravado. 
 Por ello, nuestro servicio ofrece la instalación de un sensor en el vehículo, el cual el cliente deberá pagar su uso de manera mensual, que estudia las estadísticas, tendencias y todo tipo de datos. A partir de lo mencionado, nuestra aplicación mostrará, por medio de la app, todo tipo de mala praxis por parte del conductor, correciones, entre otros. Asimismo, recién instalada la aplicación, la aplicación hara una serie de preguntas, para poder leer los datos y tener una mejora en sus predicciones o resultados.
 En resumen, a través del sensor, instalado en el carro, se leen los datos, que viajan hacia la aplicación, que se obtiene pagando una suscripción, la cual deja de funcionar en caso el cliente deja de pagar la suscripción.
 
-### 1.1.2. Perfiles de integrantes del equipo
+### Perfiles de integrantes del equipo
 |  |   Descripción   |
 |------------|------------|
 |<img src="https://github.com/user-attachments/assets/1fd3f295-3f6b-4755-9b15-d71a228ac64e" alt="Dayro imagen" style="width: 300px; margin-right: 20px;"/>|Mi nombre es Dayro Ríos, tengo 18 años, estoy cursando el tercer ciclo de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Tengo conocimientos en los lenguajes de programación c++, python, html y css, además gestores de base de datos como mssql. Cuando trabajo en equipo soy comunicativo, responsable y trato de realizar el trabajo lo mejor posible|
@@ -76,17 +75,17 @@ En resumen, a través del sensor, instalado en el carro, se leen los datos, que 
 | <img src="https://github.com/user-attachments/assets/97bad99c-cdc5-4efc-bbd7-6875d42cbf56" alt="Moises imagen" style="width: 250px; margin-right: 20px;"/> | Mi nombre es Moisés Espinoza Chávez, estoy estudiando la carrera de Ingeniería de Software y actualmente me encuentro cursando el quinto ciclo. Me gusta el deporte y mantenerme en constante aprendizaje, a menudo disfruto pasar tiempo con amigos, escuchar música o leer algo, considero que tengo habilidades para la adaptabilidad, así como la responsabilidad. |
 |<img src="https://github.com/user-attachments/assets/135bcaa9-9c65-4918-ac1f-1e78052c668b" alt="Sergio imagen" style="width: 250px; margin-right: 20px;"/> | Mi nombre es Sergio Gino Julca Minaya, con código u202318274. Actualmente soy estudiante del 5to ciclo de la carrera de Ingienería de Software, con conocimiento de html, css, desarrollo agile, método scrum, entre otros. Asimismo, me considero una persona constante, autodidacta, responsable y me gusta trabajar en equipo, de esta manera apoyaré a mi grupo en todo momento. |
 
-## 1.2 Solution Profile
+## Solution Profile
 Nuestro producto se centra en realizar una aplicación diseñada para poder conectar a las personas interesadas que buscan prevenir el deterioro de sus vehículos y optimizar su mantenimiento mediante un sistema de monitoreo avanzado.
 El desafío surge ya que muchos propietarios de vehículos enfrentan fallas mecánicas imprevistas, mantenimientos costosos y pérdida de rendimiento debido a la falta de información en tiempo real sobre el estado del automóvil y los hábitos de conducción. Esta problemática, común en usuarios con rutinas exigentes o poco conocimiento técnico, conlleva riesgos innecesarios, altos gastos y una reducción significativa en la durabilidad del vehículo. 
 Con el objetivo de brindar una solución efectiva, surge DriveCare, una innovadora aplicación que, en conjunto con un sensor instalado en el vehículo, analiza constantemente datos como el comportamiento del conductor, el estado técnico del auto y las tendencias de uso. Mediante inteligencia artificial, la plataforma identifica malas prácticas, recomienda acciones correctivas y anticipa posibles fallos, permitiendo una intervención temprana antes de que surjan problemas mayores.
 Este servicio opera bajo un modelo de suscripción mensual. Al estar activo, el usuario tiene acceso completo a todas las funcionalidades de la app. En caso de cancelación o falta de pago, el acceso queda suspendido, garantizando así la continuidad del servicio solo para clientes activos.
 Nuestra misión es transformar la manera en que los conductores cuidan sus vehículos, ofreciendo una herramienta tecnológica que promueve una conducción responsable, reduce costos por reparaciones y maximiza el tiempo de vida del automóvil. Con DriveCare, conducir no solo será más seguro, sino también más inteligente.
 
-### 1.2.2. Leam UX Process
+### Leam UX Process
 lorem
 
-#### 1.2.2.1. Lean UX Problem Statements.
+#### Lean UX Problem Statements.
 1. A pesar de que los propietarios de vehículos son conscientes de la importancia del mantenimiento preventivo, muchos de ellos olvidan o descuidan realizar las acciones necesarias para evitar fallas en sus vehículos. Esto provoca un aumento en las reparaciones inesperadas y en los costos asociados, además de generar inconvenientes y preocupaciones para los propietarios de los vehículos.
 
 ***¿Cómo podemos ayudar a los propietarios de vehículos a llevar un control más eficiente del mantenimiento preventivo para evitar fallas inesperadas y reducir los costos de reparación?***
@@ -95,37 +94,37 @@ lorem
 
 ***¿Cómo podemos brindar a los propietarios de vehículos información en tiempo real sobre el estado de su vehículo, permitiéndoles tomar decisiones informadas y oportunas sobre su mantenimiento?***
 
-## 2.1. Competidores
-### 2.1.1. Análisis competitivo
+## Competidores
+### Análisis competitivo
 lorem
 
-### 2.1.2. Estrategias y tácticas frente a competidores
+### Estrategias y tácticas frente a competidores
 lorem
 
-## 2.2. Entrevistas
-### 2.2.1. Diseño de entrevistas
+## Entrevistas
+### Diseño de entrevistas
 lorem
 
-### 2.2.2. Registro de entrevistas
+### Registro de entrevistas
 lorem
 
-### 2.2.3. Análisis de entrevistas
+### Análisis de entrevistas
 lorem
 
-## 2.3. Solution Profile
-### 2.3.1. User Personas
+## Solution Profile
+### User Personas
 lorem
 
-### 2.3.2. User Task Matrix
+### User Task Matrix
 lorem
 
-### 2.3.3. User Journey Mapping
+### User Journey Mapping
 lorem
 
-### 2.3.4. Empathy Mapping
+### Empathy Mapping
 lorem
 
-### 2.3.5. As-is Scenario Mapping
+### As-is Scenario Mapping
 lorem
 
 ## 2.4. Ubiquitous Language
