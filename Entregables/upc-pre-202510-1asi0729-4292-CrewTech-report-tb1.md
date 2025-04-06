@@ -56,6 +56,10 @@
   #### [2.3.4. Empathy Mapping](#234-empathy-mapping)
   #### [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
 ### [_2.4. Ubiquitous Language_](#24-ubiquitous-language)
+
+## 2.1. Competidores
+
+
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
 
@@ -94,7 +98,4 @@ A pesar de que los propietarios de vehículos son conscientes de la importancia 
 Los vehículos modernos están equipados con tecnologías avanzadas, pero los propietarios a menudo carecen de una forma sencilla y accesible de monitorear el estado de su vehículo en tiempo real. Esto crea incertidumbre sobre el funcionamiento del vehículo y aumenta el riesgo de que se pasen por alto posibles fallas que podrían haberse pre*venido.
 
 ***¿Cómo podemos brindar a los propietarios de vehículos información en tiempo real sobre el estado de su vehículo, permitiéndoles tomar decisiones informadas y oportunas sobre su mantenimiento?***
-
-## 2.1. Competidores
-
 
