@@ -19,7 +19,7 @@
 <div align="center"> <h1>Abril, 2025</h1> </div>
 
 # CONTENIDO 
-## Capítulo I
+## Capítulo I: Introducción
 ### [1.1. Startup Profile](#startup-profile)
   #### [1.1.1. Descripción de la Startup](#descripción-de-la-startup)
   #### [1.1.2. Perfiles de integrantes del equipo](#perfiles-de-integrantes-del-equipo)
@@ -32,7 +32,7 @@
   ##### [1.2.2.4. Lean UX Canvas](#lean-ux-canvas)
 ### [1.3. Segmentos objetivos](#segmentos-objetivos)
 
-## Capítulo II
+## Capítulo II: Requirements Elicitation & Analysis
 ### [2.1. Competidores](#competidores)
   #### [2.1.1. Análisis competitivo](#análisis-competitivo)
   #### [2.1.2. Estrategias y tácticas frente a competidores](#estrategias-y-tácticas-frente-a-competidores)
