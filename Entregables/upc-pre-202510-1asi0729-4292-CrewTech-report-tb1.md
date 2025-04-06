@@ -18,12 +18,15 @@
 
 <div align="center"> <h1>Abril, 2025</h1> </div>
 
-# REGISTRO DE VERSIONES DEL INFOERME
-
+# REGISTRO DE VERSIONES DEL INFORME
+| Versión | Fecha | Autor | Descripción de modificación |
+|---------|-------|-------|-----------------------------|
+| TB1 | 00/00/0000 |Lorem lorem, lorem lorem | lorem lorem lorem lorem lorem lorem |
+ 
 # PROJECT REPORT COLLABORATION INSIGHTS
 
 # CONTENIDO 
-## [Capítulo I: Introducción](#capitulo-1)
+## [Capítulo I: Introducción](#capítulo-1)
 ### [1.1. Startup Profile](#startup-profile)
   #### [1.1.1. Descripción de la Startup](#descripción-de-la-startup)
   #### [1.1.2. Perfiles de integrantes del equipo](#perfiles-de-integrantes-del-equipo)
@@ -36,7 +39,7 @@
   ##### [1.2.2.4. Lean UX Canvas](#lean-ux-canvas)
 ### [1.3. Segmentos objetivos](#segmentos-objetivos)
 
-## [Capítulo II: Requirements Elicitation & Analysis](#capitulo-2)
+## [Capítulo II: Requirements Elicitation & Analysis](#capítulo-2)
 ### [2.1. Competidores](#competidores)
   #### [2.1.1. Análisis competitivo](#análisis-competitivo)
   #### [2.1.2. Estrategias y tácticas frente a competidores](#estrategias-y-tácticas-frente-a-competidores)
@@ -52,13 +55,13 @@
   #### [2.3.5. As-is Scenario Mapping](#as-is-scenario-mapping)
 ### [2.4. Ubiquitous Language](#ubiquitous-language)
 
-## [Capítulo III: Requirements Specification](#capitulo-3)
+## [Capítulo III: Requirements Specification](#capítulo-3)
 ### [3.1. To-Be Scenario Mapping](#to-be-scenario-mapping)
 ### [3.2. User Stories](#user-stories)
 ### [3.3. Impact Mapping](#impact-mapping)
 ### [3.4. Product Backlog](#product-backlog)
   
-## [Capítulo IV: Product Design](#capitulo-4)
+## [Capítulo IV: Product Design](#capítulo-4)
 ### [4.1. Style Guidelines](#style-guidelines)
   #### [4.1.1. General Style Guidelines](#general-style-guidelines)
   #### [4.1.2. Web Style Guidelines](#web-style-guidelines)
@@ -87,7 +90,7 @@
 ### [4.8. Database Design](#database-design)
   #### [4.8.1. Database Diagram](#database-diagram)
   
-## [Capítulo V: Product Implementation, Validation & Deployment](#capitulo-5)
+## [Capítulo V: Product Implementation, Validation & Deployment](#capítulo-5)
 
 ## Conclusiones
 
@@ -97,7 +100,7 @@
 
 # STUDENT OUTCOME
 
-# CAPITULO 1
+# CAPÍTULO 1
 ## Startup Profile
 
 ### Descripción de la Startup
@@ -141,7 +144,7 @@ lorem
 
 ## Segmentos objetivos
 
-# CAPITULO 2
+# CAPÍTULO 2
 ## Competidores
 ### Análisis competitivo
 lorem
@@ -178,7 +181,7 @@ lorem
 ## Ubiquitous Language
 lorem
 
-# CAPITULO 3
+# CAPÍTULO 3
 ## To-Be Scenario Mapping
 Contenido aquí...
 
@@ -191,7 +194,7 @@ Contenido aquí...
 ## Product Backlog
 Contenido aquí...
 
-# CAPITULO 4
+# CAPÍTULO 4
 ## Style Guidelines
 Contenido aquí...
 
@@ -273,5 +276,5 @@ Contenido aquí...
 ### Database Diagram
 Contenido aquí...
 
-# CAPITULO 5
+# CAPÍTULO 5
 
