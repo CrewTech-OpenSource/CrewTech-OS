@@ -41,7 +41,6 @@
   ###### [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
   ###### [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
 ### [_1.3. Segmentos objetivo_](#13-segmentos-objetivo)
-
 ## Capítulo 2
 ### [_2.1. Competidores_](#21-competidores)
   ####  [2.1.1. Anaálisis competitivo](#211-analisis-competitivo)
@@ -57,8 +56,6 @@
   #### [2.3.4. Empathy Mapping](#234-empathy-mapping)
   #### [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
 ### [_2.4. Ubiquitous Language_](#24-ubiquitous-language)
-
-
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
 
