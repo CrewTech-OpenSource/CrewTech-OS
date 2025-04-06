@@ -18,8 +18,12 @@
 
 <div align="center"> <h1>Abril, 2025</h1> </div>
 
+# REGISTRO DE VERSIONES DEL INFOERME
+
+# PROJECT REPORT COLLABORATION INSIGHTS
+
 # CONTENIDO 
-## Capítulo I: Introducción
+## [Capítulo I: Introducción](#capitulo-1)
 ### [1.1. Startup Profile](#startup-profile)
   #### [1.1.1. Descripción de la Startup](#descripción-de-la-startup)
   #### [1.1.2. Perfiles de integrantes del equipo](#perfiles-de-integrantes-del-equipo)
@@ -32,7 +36,7 @@
   ##### [1.2.2.4. Lean UX Canvas](#lean-ux-canvas)
 ### [1.3. Segmentos objetivos](#segmentos-objetivos)
 
-## Capítulo II: Requirements Elicitation & Analysis
+## [Capítulo II: Requirements Elicitation & Analysis](#capitulo-2)
 ### [2.1. Competidores](#competidores)
   #### [2.1.1. Análisis competitivo](#análisis-competitivo)
   #### [2.1.2. Estrategias y tácticas frente a competidores](#estrategias-y-tácticas-frente-a-competidores)
@@ -48,13 +52,13 @@
   #### [2.3.5. As-is Scenario Mapping](#as-is-scenario-mapping)
 ### [2.4. Ubiquitous Language](#ubiquitous-language)
 
-## Capítulo III: Requirements Specification
+## [Capítulo III: Requirements Specification](#capitulo-3)
 ### [3.1. To-Be Scenario Mapping](#to-be-scenario-mapping)
 ### [3.2. User Stories](#user-stories)
 ### [3.3. Impact Mapping](#impact-mapping)
 ### [3.4. Product Backlog](#product-backlog)
   
-## Capítulo IV: Product Design
+## [Capítulo IV: Product Design](#capitulo-4)
 ### [4.1. Style Guidelines](#style-guidelines)
   #### [4.1.1. General Style Guidelines](#general-style-guidelines)
   #### [4.1.2. Web Style Guidelines](#web-style-guidelines)
@@ -83,7 +87,7 @@
 ### [4.8. Database Design](#database-design)
   #### [4.8.1. Database Diagram](#database-diagram)
   
-## Capítulo V: Product Implementation, Validation & Deployment
+## [Capítulo V: Product Implementation, Validation & Deployment](#capitulo-5)
 
 ## Conclusiones
 
@@ -91,7 +95,9 @@
 
 ## Anexos
 
----
+# STUDENT OUTCOME
+
+# CAPÍTULO 1
 ## Startup Profile
 
 ### Descripción de la Startup
@@ -120,12 +126,12 @@ Nuestra misión es transformar la manera en que los conductores cuidan sus vehí
 ### Lean UX Process
 lorem
 
-#### Lean UX Problem Statements.
-1. A pesar de que los propietarios de vehículos son conscientes de la importancia del mantenimiento preventivo, muchos de ellos olvidan o descuidan realizar las acciones necesarias para evitar fallas en sus vehículos. Esto provoca un aumento en las reparaciones inesperadas y en los costos asociados, además de generar inconvenientes y preocupaciones para los propietarios de los vehículos.
+#### Lean UX Problem Statements
+- A pesar de que los propietarios de vehículos son conscientes de la importancia del mantenimiento preventivo, muchos de ellos olvidan o descuidan realizar las acciones necesarias para evitar fallas en sus vehículos. Esto provoca un aumento en las reparaciones inesperadas y en los costos asociados, además de generar inconvenientes y preocupaciones para los propietarios de los vehículos.
    - ***¿Cómo podemos ayudar a los propietarios de vehículos a llevar un control más eficiente del mantenimiento preventivo para evitar fallas inesperadas y reducir los costos de reparación?***
-
-3. Los vehículos modernos están equipados con tecnologías avanzadas, pero los propietarios a menudo carecen de una forma sencilla y accesible de monitorear el estado de su vehículo en tiempo real. Esto crea incertidumbre sobre el funcionamiento del vehículo y aumenta el riesgo de que se pasen por alto posibles fallas que podrían haberse pre*venido.
-   -  ***¿Cómo podemos brindar a los propietarios de vehículos información en tiempo real sobre el estado de su vehículo, permitiéndoles tomar decisiones informadas y oportunas sobre su mantenimiento?***
+  
+- Los vehículos modernos están equipados con tecnologías avanzadas, pero los propietarios a menudo carecen de una forma sencilla y accesible de monitorear el estado de su vehículo en tiempo real. Esto crea incertidumbre sobre el funcionamiento del vehículo y aumenta el riesgo de que se pasen por alto posibles fallas que podrían haberse pre*venido.
+    - ***¿Cómo podemos brindar a los propietarios de vehículos información en tiempo real sobre el estado de su vehículo, permitiéndoles tomar decisiones informadas y oportunas sobre su mantenimiento?***
 
 #### Lean UX Assumptions
 
