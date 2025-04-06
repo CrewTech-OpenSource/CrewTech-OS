@@ -59,7 +59,7 @@
 ### [_2.4. Ubiquitous Language_](#24-ubiquitous-language)
 
 
-## _1.1. Startup Profile_
+## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
 
 DriveCare es una aplicación innovadora diseñada para supervisar constantemente el estado de un vehículo, ayudando así a preservar y prolongar su vida útil. Muchas personas que utilizan su auto tanto de forma personal como profesional enfrentan un problema frecuente: desconocen las condiciones reales de su vehículo. Esto suele llevar a descuidos en el mantenimiento y, eventualmente, a reparaciones costosas cuando los problemas ya se han agravado. 
