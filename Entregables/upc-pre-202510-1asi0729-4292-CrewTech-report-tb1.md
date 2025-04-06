@@ -41,23 +41,7 @@
   ###### [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
   ###### [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
 ### [_1.3. Segmentos objetivo_](#13-segmentos-objetivo)
-## Capítulo 2
-### [_2.1. Competidores_](#21-competidores)
-  ####  [2.1.1. Anaálisis competitivo](#211-analisis-competitivo)
-  ####  [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tacticas-frente-a-competidores)
-### [_2.2. Entrevistas_](#22-entrevistas)
-  #### [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
-  #### [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
-  #### [2.2.3. Análisis de entrevistas](#223-analisis-de-entrevistas)
-### [_2.3. Solution Profile_](#23-solution-profile)
-  #### [2.3.1. User Personas](#231-user-personas)
-  #### [2.3.2. User Task Matrix](#232-user-task-matrix)
-  #### [2.3.3. User Journey Mapping](#233-user-journey-mapping)
-  #### [2.3.4. Empathy Mapping](#234-empathy-mapping)
-  #### [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
-### [_2.4. Ubiquitous Language_](#24-ubiquitous-language)
 
-## 2.1. Competidores
 
 
 ## 1.1. Startup Profile
