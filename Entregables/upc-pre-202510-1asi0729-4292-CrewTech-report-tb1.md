@@ -145,11 +145,9 @@ Nuestra misión es transformar la manera en que los conductores cuidan sus vehí
 lorem
 
 #### Lean UX Problem Statements
-- A pesar de que los propietarios de vehículos son conscientes de la importancia del mantenimiento preventivo, muchos de ellos olvidan o descuidan realizar las acciones necesarias para evitar fallas en sus vehículos. Esto provoca un aumento en las reparaciones inesperadas y en los costos asociados, además de generar inconvenientes y preocupaciones para los propietarios de los vehículos.
-   - ***¿Cómo podemos ayudar a los propietarios de vehículos a llevar un control más eficiente del mantenimiento preventivo para evitar fallas inesperadas y reducir los costos de reparación?***
-  
-- Los vehículos modernos están equipados con tecnologías avanzadas, pero los propietarios a menudo carecen de una forma sencilla y accesible de monitorear el estado de su vehículo en tiempo real. Esto crea incertidumbre sobre el funcionamiento del vehículo y aumenta el riesgo de que se pasen por alto posibles fallas que podrían haberse pre*venido.
-    - ***¿Cómo podemos brindar a los propietarios de vehículos información en tiempo real sobre el estado de su vehículo, permitiéndoles tomar decisiones informadas y oportunas sobre su mantenimiento?***
+Muchos conductores en el Perú enfrentan un desafío relacionado con el mantenimiento adecuado de sus vehículos debido a la falta de información en tiempo real sobre el estado técnico de sus autos y sus hábitos de conducción. Esto genera problemas como fallos mecánicos imprevistos, gastos innecesarios en reparaciones y una vida útil reducida de los vehículos. A pesar de que muchos conductores intentan mantener sus autos, la falta de herramientas accesibles y fáciles de usar para monitorear el estado del vehículo y realizar un mantenimiento preventivo adecuado afecta negativamente la experiencia de conducción y los costos a largo plazo.
+
+Ante esta situación, surge nuestra pregunta de negocio: ***¿Cómo podemos ayudar a los conductores a optimizar el mantenimiento de sus vehículos y mejorar sus hábitos de conducción mediante una herramienta tecnológica accesible, promoviendo una conducción más responsable, reduciendo costos y maximizando la durabilidad de los vehículos?***
 
 #### Lean UX Assumptions
 
