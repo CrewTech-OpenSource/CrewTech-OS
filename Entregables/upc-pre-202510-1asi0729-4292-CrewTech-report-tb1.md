@@ -24,13 +24,13 @@
   #### [1.1.1. Descripción de la Startup](#descripción-de-la-startup)
   #### [1.1.2. Perfiles de integrantes del equipo](#perfiles-de-integrantes-del-equipo)
 ### [1.2. Solution Profile](#solution-profile)
-  #### [1.2.1. Antecedentes y problemática](#antecedentes-y-problemática)
+  #### [1.2.1. Antecedentes y problemática](#antecedentes-y-problematica)
   #### [1.2.2. Lean UX Process](#lean-ux-process)
   ##### [1.2.2.1. Lean UX Problem Statements](#lean-ux-problem-statements)
   ##### [1.2.2.2. Lean UX Assumptions](#lean-ux-assumptions)
   ##### [1.2.2.3. Lean UX Hypothesis Statements](#lean-ux-hypothesis-statements)
   ##### [1.2.2.4. Lean UX Canvas](#lean-ux-canvas)
-### [1.3. Segmentos objetivo](#segmentos-objetivo)
+### [1.3. Segmentos objetivos](#segmentos-objetivos)
 
 ## Capítulo 2
 ### [2.1. Competidores](#competidores)
@@ -72,6 +72,8 @@ Con el objetivo de brindar una solución efectiva, surge DriveCare, una innovado
 Este servicio opera bajo un modelo de suscripción mensual. Al estar activo, el usuario tiene acceso completo a todas las funcionalidades de la app. En caso de cancelación o falta de pago, el acceso queda suspendido, garantizando así la continuidad del servicio solo para clientes activos.
 Nuestra misión es transformar la manera en que los conductores cuidan sus vehículos, ofreciendo una herramienta tecnológica que promueve una conducción responsable, reduce costos por reparaciones y maximiza el tiempo de vida del automóvil. Con DriveCare, conducir no solo será más seguro, sino también más inteligente.
 
+### Antecedentes y problemática
+
 ### Leam UX Process
 lorem
 
@@ -81,6 +83,14 @@ lorem
 
 3. Los vehículos modernos están equipados con tecnologías avanzadas, pero los propietarios a menudo carecen de una forma sencilla y accesible de monitorear el estado de su vehículo en tiempo real. Esto crea incertidumbre sobre el funcionamiento del vehículo y aumenta el riesgo de que se pasen por alto posibles fallas que podrían haberse pre*venido.
    -  ***¿Cómo podemos brindar a los propietarios de vehículos información en tiempo real sobre el estado de su vehículo, permitiéndoles tomar decisiones informadas y oportunas sobre su mantenimiento?***
+
+#### Lean UX Assumptions
+
+#### Lean UX Hypothesis Statements
+
+#### Lean UX Canvas
+
+## Segmentos objetivos
 
 ## Competidores
 ### Análisis competitivo
