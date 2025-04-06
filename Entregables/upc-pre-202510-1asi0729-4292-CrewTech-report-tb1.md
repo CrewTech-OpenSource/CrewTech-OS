@@ -44,7 +44,7 @@
 
 ## Capítulo 2
 ### [_2.1. Competidores_](#21-competidores)
-  ####  [2.1.1. Anaálisis competitivo](#211-analisis-competitivo)
+  ####  [2.1.1. Análisis competitivo](#211-análisis-competitivo)
   ####  [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tacticas-frente-a-competidores)
 ### [_2.2. Entrevistas_](#22-entrevistas)
   #### [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
@@ -96,4 +96,17 @@ Los vehículos modernos están equipados con tecnologías avanzadas, pero los pr
 
 ***¿Cómo podemos brindar a los propietarios de vehículos información en tiempo real sobre el estado de su vehículo, permitiéndoles tomar decisiones informadas y oportunas sobre su mantenimiento?***
 
-## 2.1. Competidores
+## _2.1. Competidores_
+### 2.1.1. Análisis competitivo
+### 2.1.2. Estrategias y tácticas frente a competidores
+## 2.2. Entrevistas
+### 2.2.1. Diseño de entrevistas
+### 2.2.2. Registro de entrevistas
+### 2.2.3. Análisis de entrevistas
+## _2.3. Solution Profile_
+### 2.3.1. User Personas
+### 2.3.2. User Task Matrix
+### 2.3.3. User Journey Mapping
+### 2.3.4. Empathy Mapping
+### 2.3.5. As-is Scenario Mapping
+## _2.4. Ubiquitous Language_
