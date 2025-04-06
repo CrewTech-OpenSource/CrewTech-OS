@@ -1,14 +1,6 @@
-<div align="center">
-  <h1>UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS</h1>
-</div>
-
-<div align="center">
-  <img width = "15%" src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png">
-</div>
-
-<div align="center">
-  <h2>INGIENERÍA DE SOFTWARE - 2025 - 10</h2>
-</div>
+<div align="center"><h1>UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS</h1></div>
+<div align="center"><img width = "15%" src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></div>
+<div align="center"> <h2>INGIENERÍA DE SOFTWARE - 2025 - 10</h2> </div>
 
 ### Desarrollo de Aplicaciones Open Source - 1ASI0729
 ### Sección: 4294
@@ -24,11 +16,9 @@
 | Navarro Chinga, Antonio Jhair  |   u202314101    |
 | Rios Piñan, Dayro Richard      |   u202315283    |
 
-<div align="center">
-    <h1>Abril, 2025</h1>
-</div>
+<div align="center"> <h1>Abril, 2025</h1> </div>
 
-# CONTENIDO
+# CONTENIDO 
 ## Capítulo 1
 ### [1.1. Startup Profile](#startup-profile)
   #### [1.1.1. Descripción de la Startup](#descripción-de-la-startup)
@@ -57,8 +47,8 @@
   #### [2.3.4. Empathy Mapping](#empathy-mapping)
   #### [2.3.5. As-is Scenario Mapping](#as-is-scenario-mapping)
 ### [2.4. Ubiquitous Language](#ubiquitous-language)
----
 
+---
 ## Startup Profile
 
 ### Descripción de la Startup
@@ -87,12 +77,10 @@ lorem
 
 #### Lean UX Problem Statements.
 1. A pesar de que los propietarios de vehículos son conscientes de la importancia del mantenimiento preventivo, muchos de ellos olvidan o descuidan realizar las acciones necesarias para evitar fallas en sus vehículos. Esto provoca un aumento en las reparaciones inesperadas y en los costos asociados, además de generar inconvenientes y preocupaciones para los propietarios de los vehículos.
+   - ***¿Cómo podemos ayudar a los propietarios de vehículos a llevar un control más eficiente del mantenimiento preventivo para evitar fallas inesperadas y reducir los costos de reparación?***
 
-***¿Cómo podemos ayudar a los propietarios de vehículos a llevar un control más eficiente del mantenimiento preventivo para evitar fallas inesperadas y reducir los costos de reparación?***
-
-2. Los vehículos modernos están equipados con tecnologías avanzadas, pero los propietarios a menudo carecen de una forma sencilla y accesible de monitorear el estado de su vehículo en tiempo real. Esto crea incertidumbre sobre el funcionamiento del vehículo y aumenta el riesgo de que se pasen por alto posibles fallas que podrían haberse pre*venido.
-
-***¿Cómo podemos brindar a los propietarios de vehículos información en tiempo real sobre el estado de su vehículo, permitiéndoles tomar decisiones informadas y oportunas sobre su mantenimiento?***
+3. Los vehículos modernos están equipados con tecnologías avanzadas, pero los propietarios a menudo carecen de una forma sencilla y accesible de monitorear el estado de su vehículo en tiempo real. Esto crea incertidumbre sobre el funcionamiento del vehículo y aumenta el riesgo de que se pasen por alto posibles fallas que podrían haberse pre*venido.
+   -  ***¿Cómo podemos brindar a los propietarios de vehículos información en tiempo real sobre el estado de su vehículo, permitiéndoles tomar decisiones informadas y oportunas sobre su mantenimiento?***
 
 ## Competidores
 ### Análisis competitivo
@@ -127,5 +115,5 @@ lorem
 ### As-is Scenario Mapping
 lorem
 
-## 2.4. Ubiquitous Language
+## Ubiquitous Language
 lorem
