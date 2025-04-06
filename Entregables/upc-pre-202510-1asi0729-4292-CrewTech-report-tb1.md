@@ -141,6 +141,7 @@ lorem
 
 ## Segmentos objetivos
 
+# CAPITULO 2
 ## Competidores
 ### Análisis competitivo
 lorem
@@ -177,7 +178,7 @@ lorem
 ## Ubiquitous Language
 lorem
 
-
+# CAPITULO 3
 ## To-Be Scenario Mapping
 Contenido aquí...
 
@@ -190,6 +191,7 @@ Contenido aquí...
 ## Product Backlog
 Contenido aquí...
 
+# CAPITULO 4
 ## Style Guidelines
 Contenido aquí...
 
@@ -270,3 +272,6 @@ Contenido aquí...
 
 ### Database Diagram
 Contenido aquí...
+
+# CAPITULO 5
+
