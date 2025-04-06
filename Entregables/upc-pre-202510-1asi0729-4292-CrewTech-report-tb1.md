@@ -60,6 +60,7 @@
 
 
 ## 1.1. Startup Profile
+lorem
 
 ### 1.1.1. Descripción de la Startup
 DriveCare es una aplicación innovadora diseñada para supervisar constantemente el estado de un vehículo, ayudando así a preservar y prolongar su vida útil. Muchas personas que utilizan su auto tanto de forma personal como profesional enfrentan un problema frecuente: desconocen las condiciones reales de su vehículo. Esto suele llevar a descuidos en el mantenimiento y, eventualmente, a reparaciones costosas cuando los problemas ya se han agravado. 
@@ -83,8 +84,10 @@ Este servicio opera bajo un modelo de suscripción mensual. Al estar activo, el 
 Nuestra misión es transformar la manera en que los conductores cuidan sus vehículos, ofreciendo una herramienta tecnológica que promueve una conducción responsable, reduce costos por reparaciones y maximiza el tiempo de vida del automóvil. Con DriveCare, conducir no solo será más seguro, sino también más inteligente.
 
 ### 1.2.2. Leam UX Process
+lorem
 
 #### 1.2.2.1. Lean UX Problem Statements.
+lorem
 
 ##### Problem Statements 1: 
 A pesar de que los propietarios de vehículos son conscientes de la importancia del mantenimiento preventivo, muchos de ellos olvidan o descuidan realizar las acciones necesarias para evitar fallas en sus vehículos. Esto provoca un aumento en las reparaciones inesperadas y en los costos asociados, además de generar inconvenientes y preocupaciones para los propietarios de los vehículos.
@@ -98,15 +101,36 @@ Los vehículos modernos están equipados con tecnologías avanzadas, pero los pr
 
 ## _2.1. Competidores_
 ### 2.1.1. Análisis competitivo
+lorem
+
 ### 2.1.2. Estrategias y tácticas frente a competidores
+lorem
+
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
+lorem
+
 ### 2.2.2. Registro de entrevistas
+lorem
+
 ### 2.2.3. Análisis de entrevistas
+lorem
+
 ## _2.3. Solution Profile_
 ### 2.3.1. User Personas
+lorem
+
 ### 2.3.2. User Task Matrix
+lorem
+
 ### 2.3.3. User Journey Mapping
+lorem
+
 ### 2.3.4. Empathy Mapping
+lorem
+
 ### 2.3.5. As-is Scenario Mapping
+lorem
+
 ## _2.4. Ubiquitous Language_
+lorem
