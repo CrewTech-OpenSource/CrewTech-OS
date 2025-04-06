@@ -108,8 +108,8 @@ conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el l
 
 | **Criterio específico** | **Acciones realizadas** | **Conclusiones** |
 |-------------------------|-------------------------|------------------|
-| **Comunica oralmente con efectividad a diferentes rangos de audiencia** | lorem lorem lorem | lorem lore lorem | **Comunica por escrito con efectividad a diferentes randos de audiencia** | lorem lorem lorem lorem | lorem lorem lorem lorem |
-
+| **Comunica oralmente con efectividad a diferentes rangos de audiencia** | lorem lorem lorem | lorem lore lorem | 
+| **Comunica por escrito con efectividad a diferentes randos de audiencia** | lorem lorem lorem lorem | lorem lorem lorem lorem |
 
 # CAPÍTULO 1
 ## Startup Profile
