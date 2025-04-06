@@ -43,20 +43,23 @@
 ### [_1.3. Segmentos objetivo_](#13-segmentos-objetivo)
 
 ## Capítulo 2
-### [_1.1. Competidores_](#21-competidores)
-  ####  [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
-  ####  [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
-### [_1.2. Solution Profile_](#12-solution-profile)
-  #### [1.2.1. Antecedentes y problemática](#121-antecedentes-y-problemática)
-  #### [1.2.2. Lean UX Process](#122-lean-ux-process)
-  ###### [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
-  ###### [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
-  ###### [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
-  ###### [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
-### [_1.3. Segmentos objetivo_](#13-segmentos-objetivo)
+### [_2.1. Competidores_](#21-competidores)
+  ####  [2.1.1. Anaálisis competitivo](#211-analisis-competitivo)
+  ####  [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tacticas-frente-a-competidores)
+### [_2.2. Entrevistas_](#22-entrevistas)
+  #### [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
+  #### [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
+  #### [2.2.3. Análisis de entrevistas](#223-analisis-de-entrevistas)
+### [_2.3. Solution Profile_](#23-solution-profile)
+  #### [2.3.1. User Personas](#231-user-personas)
+  #### [2.3.2. User Task Matrix](#232-user-task-matrix)
+  #### [2.3.3. User Journey Mapping](#233-user-journey-mapping)
+  #### [2.3.4. Empathy Mapping](#234-empathy-mapping)
+  #### [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
+### [_2.4. Ubiquitous Language_](#24-ubiquitous-language)
 
 
-## 1.1. Startup Profile
+## _1.1. Startup Profile_
 ### 1.1.1. Descripción de la Startup
 
 DriveCare es una aplicación innovadora diseñada para supervisar constantemente el estado de un vehículo, ayudando así a preservar y prolongar su vida útil. Muchas personas que utilizan su auto tanto de forma personal como profesional enfrentan un problema frecuente: desconocen las condiciones reales de su vehículo. Esto suele llevar a descuidos en el mantenimiento y, eventualmente, a reparaciones costosas cuando los problemas ya se han agravado. 
