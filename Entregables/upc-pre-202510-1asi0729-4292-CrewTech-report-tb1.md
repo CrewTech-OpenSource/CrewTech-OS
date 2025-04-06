@@ -58,7 +58,6 @@
   #### [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
 ### [_2.4. Ubiquitous Language_](#24-ubiquitous-language)
 
-## 2.1. Competidores
 
 ## 1.1. Startup Profile
 
@@ -97,3 +96,4 @@ Los vehículos modernos están equipados con tecnologías avanzadas, pero los pr
 
 ***¿Cómo podemos brindar a los propietarios de vehículos información en tiempo real sobre el estado de su vehículo, permitiéndoles tomar decisiones informadas y oportunas sobre su mantenimiento?***
 
+## 2.1. Competidores
