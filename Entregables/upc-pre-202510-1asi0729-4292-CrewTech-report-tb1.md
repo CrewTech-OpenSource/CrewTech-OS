@@ -97,7 +97,7 @@
 
 # STUDENT OUTCOME
 
-# CAPÍTULO 1
+# CAPITULO 1
 ## Startup Profile
 
 ### Descripción de la Startup
