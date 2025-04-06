@@ -30,7 +30,7 @@
 
 # CONTENIDO
 ## Capítulo 1
-### [_1.1. Startup Profile_](#1.1. Startup Profile)
+### [_1.1. Startup Profile_](#11-Startup-Profile)
   ####  [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
   ####  [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
 ### [_1.2. Solution Profile_](#12-solution-profile)
