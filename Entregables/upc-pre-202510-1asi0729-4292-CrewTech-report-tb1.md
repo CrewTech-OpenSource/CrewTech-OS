@@ -18,14 +18,14 @@
 
 <div align="center"> <h1>Abril, 2025</h1> </div>
 
-# REGISTRO DE VERSIONES DEL INFORME
+## REGISTRO DE VERSIONES DEL INFORME
 | Versión | Fecha | Autor | Descripción de modificación |
 |---------|-------|-------|-----------------------------|
 | TB1 | 00/00/0000 |Lorem lorem, lorem lorem | lorem lorem lorem lorem lorem lorem |
  
-# PROJECT REPORT COLLABORATION INSIGHTS
+## PROJECT REPORT COLLABORATION INSIGHTS
 
-# CONTENIDO 
+## CONTENIDO 
 ## [Capítulo I: Introducción](#capítulo-1)
 ### [1.1. Startup Profile](#startup-profile)
   #### [1.1.1. Descripción de la Startup](#descripción-de-la-startup)
@@ -99,6 +99,13 @@
 ## Anexos
 
 # STUDENT OUTCOME
+**ABET - EAC - Student Outcome 3**
+
+Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias.
+
+En el siguiente cuadro se describe las acciones realizadas y enunciados de
+conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logrodel ABET – EAC - Student Outcome 3.
+
 
 # CAPÍTULO 1
 ## Startup Profile
