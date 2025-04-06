@@ -119,6 +119,10 @@ DriveCare es una aplicación innovadora diseñada para supervisar constantemente
 Por ello, nuestro servicio ofrece la instalación de un sensor en el vehículo, el cual el cliente deberá pagar su uso de manera mensual, que estudia las estadísticas, tendencias y todo tipo de datos. A partir de lo mencionado, nuestra aplicación mostrará, por medio de la app, todo tipo de mala praxis por parte del conductor, correciones, entre otros. Asimismo, recién instalada la aplicación, la aplicación hara una serie de preguntas, para poder leer los datos y tener una mejora en sus predicciones o resultados.
 En resumen, a través del sensor, instalado en el carro, se leen los datos, que viajan hacia la aplicación, que se obtiene pagando una suscripción, la cual deja de funcionar en caso el cliente deja de pagar la suscripción.
 
+| **Misión** | **Visión** |
+|-----------|------------|
+| lorem | Lorem |
+
 ### Perfiles de integrantes del equipo
 |  |   Descripción   |
 |------------|------------|
