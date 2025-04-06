@@ -19,7 +19,7 @@
 <div align="center"> <h1>Abril, 2025</h1> </div>
 
 # CONTENIDO 
-## Capítulo 1
+## Capítulo I
 ### [1.1. Startup Profile](#startup-profile)
   #### [1.1.1. Descripción de la Startup](#descripción-de-la-startup)
   #### [1.1.2. Perfiles de integrantes del equipo](#perfiles-de-integrantes-del-equipo)
@@ -32,7 +32,7 @@
   ##### [1.2.2.4. Lean UX Canvas](#lean-ux-canvas)
 ### [1.3. Segmentos objetivos](#segmentos-objetivos)
 
-## Capítulo 2
+## Capítulo II
 ### [2.1. Competidores](#competidores)
   #### [2.1.1. Análisis competitivo](#análisis-competitivo)
   #### [2.1.2. Estrategias y tácticas frente a competidores](#estrategias-y-tácticas-frente-a-competidores)
@@ -47,6 +47,49 @@
   #### [2.3.4. Empathy Mapping](#empathy-mapping)
   #### [2.3.5. As-is Scenario Mapping](#as-is-scenario-mapping)
 ### [2.4. Ubiquitous Language](#ubiquitous-language)
+
+## Capítulo III: Requirements Specification
+  ### [3.1. To-Be Scenario Mapping](#to-be-scenario-mapping)
+  ### [3.2. User Stories](#user-stories)
+  ### [3.3. Impact Mapping](#impact-mapping)
+  ### [3.4. Product Backlog](#product-backlog)
+  
+## Capítulo IV: Product Design
+  ### [4.1. Style Guidelines](#style-guidelines)
+  #### [4.1.1. General Style Guidelines](#general-style-guidelines)
+  #### [4.1.2. Web Style Guidelines](#web-style-guidelines)
+  ### [4.2. Information Architecture](#information-architecture)
+  #### [4.2.1. Organization Systems](#organization-systems)
+  #### [4.2.2. Labeling Systems](#labeling-systems)
+  #### [4.2.3. SEO Tags and Meta Tags](#seo-tags-and-meta-tags)
+  #### [4.2.4. Searching Systems](#searching-systems)
+  #### [4.2.5. Navigation Systems](#navigation-systems)
+  ### [4.3. Landing Page UI Design](#landing-page-ui-design)
+  #### [4.3.1. Landing Page Wireframe](#landing-page-wireframe)
+  #### [4.3.2. Landing Page Mock-up](#landing-page-mock-up)
+  ### [4.4. Web Applications UX/UI Design](#web-applications-uxui-design)
+  #### [4.4.1. Web Applications Wireframes](#web-applications-wireframes)
+  #### [4.4.2. Web Applications Wireflow Diagrams](#web-applications-wireflow-diagrams)
+  #### [4.4.3. Web Applications Mock-ups](#web-applications-mock-ups)
+  #### [4.4.4. Web Applications User Flow Diagrams](#web-applications-user-flow-diagrams)
+  ### [4.5. Web Applications Prototyping](#web-applications-prototyping)
+  ### [4.6. Domain-Driven Software Architecture](#domain-driven-software-architecture)
+  #### [4.6.1. Software Architecture Context Diagram](#software-architecture-context-diagram)
+  #### [4.6.2. Software Architecture Container Diagrams](#software-architecture-container-diagrams)
+  #### [4.6.3. Software Architecture Components Diagrams](#software-architecture-components-diagrams)
+  ### [4.7. Software Object-Oriented Design](#software-object-oriented-design)
+  #### [4.7.1. Class Diagrams](#class-diagrams)
+  #### [4.7.2. Class Dictionary](#class-dictionary)
+  ### [4.8. Database Design](#database-design)
+  #### [4.8.1. Database Diagram](#database-diagram)
+  
+## Capítulo V: Product Implementation, Validation & Deployment
+
+## Conclusiones
+
+## Bibliografía
+
+## Anexos
 
 ---
 ## Startup Profile
@@ -127,3 +170,97 @@ lorem
 
 ## Ubiquitous Language
 lorem
+
+
+## To-Be Scenario Mapping
+Contenido aquí...
+
+## User Stories
+Contenido aquí...
+
+## Impact Mapping
+Contenido aquí...
+
+## Product Backlog
+Contenido aquí...
+
+## Style Guidelines
+Contenido aquí...
+
+### General Style Guidelines
+Contenido aquí...
+
+### Web Style Guidelines
+Contenido aquí...
+
+## Information Architecture
+Contenido aquí...
+
+### Organization Systems
+Contenido aquí...
+
+### Labeling Systems
+Contenido aquí...
+
+### SEO Tags and Meta Tags
+Contenido aquí...
+
+### Searching Systems
+Contenido aquí...
+
+### Navigation Systems
+Contenido aquí...
+
+## Landing Page UI Design
+Contenido aquí...
+
+### Landing Page Wireframe
+Contenido aquí...
+
+### Landing Page Mock-up
+Contenido aquí...
+
+## Web Applications UX/UI Design
+Contenido aquí...
+
+### Web Applications Wireframes
+Contenido aquí...
+
+### Web Applications Wireflow Diagrams
+Contenido aquí...
+
+### Web Applications Mock-ups
+Contenido aquí...
+
+### Web Applications User Flow Diagrams
+Contenido aquí...
+
+## Web Applications Prototyping
+Contenido aquí...
+
+## Domain-Driven Software Architecture
+Contenido aquí...
+
+### Software Architecture Context Diagram
+Contenido aquí...
+
+### Software Architecture Container Diagrams
+Contenido aquí...
+
+### Software Architecture Components Diagrams
+Contenido aquí...
+
+## Software Object-Oriented Design
+Contenido aquí...
+
+### Class Diagrams
+Contenido aquí...
+
+### Class Dictionary
+Contenido aquí...
+
+## Database Design
+Contenido aquí...
+
+### Database Diagram
+Contenido aquí...
