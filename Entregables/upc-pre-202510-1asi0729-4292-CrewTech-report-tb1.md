@@ -129,7 +129,7 @@ En resumen, a través del sensor, instalado en el carro, se leen los datos, que 
 |<img src="https://github.com/user-attachments/assets/1fd3f295-3f6b-4755-9b15-d71a228ac64e" alt="Dayro imagen" style="width: 300px; margin-right: 20px;"/>|Mi nombre es Dayro Ríos, tengo 18 años, estoy cursando el tercer ciclo de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Tengo conocimientos en los lenguajes de programación c++, python, html y css, además gestores de base de datos como mssql. Cuando trabajo en equipo soy comunicativo, responsable y trato de realizar el trabajo lo mejor posible|
 |<img src="https://github.com/user-attachments/assets/87875609-8329-4cc2-b8b1-bfc4e400763e" alt="Antonio imagen" style="width: 300px; margin-right: 20px;"/>| Mi nombre es Antonio Jhair Navarro Chinga tengo 19 años y soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Soy colaborativo, responsable y tengo conocimientos en programación estructurada, programación orientada a objetos y algoritmos. |
 |<img src="https://github.com/user-attachments/assets/ab04f900-0560-4f57-8aae-1390178ce9ff" alt="Vitaly imagen" style="width: 250px; margin-right: 20px;"/> | Mi nombre es Vitaly Baca Camargo, Tengo 19 años y actualmente estudio la carrera de ingeniería de software en la Universidad Peruana de Ciencias Aplicadas (UPC). Tengo conocimiento en SQL y C ++, programación orientada objetos y estructura de datos. Además de HTML y CSS. Me considero una persona responsable y comprometida en mis trabajos, por lo que siempre intento ayudar a mi grupo con cualquier duda.|
-| <img src="https://github.com/user-attachments/assets/97bad99c-cdc5-4efc-bbd7-6875d42cbf56" alt="Moises imagen" style="width: 250px; margin-right: 20px;"/> | Mi nombre es Moisés Espinoza Chávez, estoy estudiando la carrera de Ingeniería de Software y actualmente me encuentro cursando el quinto ciclo. Me gusta el deporte y mantenerme en constante aprendizaje, a menudo disfruto pasar tiempo con amigos, escuchar música o leer algo, considero que tengo habilidades para la adaptabilidad, así como la responsabilidad. |
+| <img src="https://github.com/user-attachments/assets/97bad99c-cdc5-4efc-bbd7-6875d42cbf56" alt="Moises imagen" style="width: 250px; margin-right: 20px;"/> |Mi nombre es Moisés Espinoza Chávez, estoy estudiando la carrera de Ingeniería de Software y actualmente me encuentro cursando el quinto ciclo.Me gusta el deporte y mantenerme en constante aprendizaje, a menudo disfruto pasar tiempo con amigos, escuchar música o leer algo, considero que tengo habilidades para la adaptabilidad, así como la responsabilidad. Me comprometo con mi grupo para dar lo mejor en este proyecto y hacerlo siempre a tiempo.|
 |<img src="https://github.com/user-attachments/assets/135bcaa9-9c65-4918-ac1f-1e78052c668b" alt="Sergio imagen" style="width: 250px; margin-right: 20px;"/> | Mi nombre es Sergio Gino Julca Minaya, con código u202318274. Actualmente soy estudiante del 5to ciclo de la carrera de Ingienería de Software, con conocimiento de html, css, desarrollo agile, método scrum, entre otros. Asimismo, me considero una persona constante, autodidacta, responsable y me gusta trabajar en equipo, de esta manera apoyaré a mi grupo en todo momento. |
 
 ## Solution Profile
@@ -154,6 +154,20 @@ lorem
 #### Lean UX Assumptions
 
 #### Lean UX Hypothesis Statements
+- _Creemos que los propietarios de vehículos están dispuestos a pagar una suscripción mensual para tener acceso a una aplicación que les permita monitorear y mejorar el estado de su vehículo._
+   - Sabremos que nuestra hipótesis es correcta cuando veamos un aumento significativo en la cantidad de usuarios que se suscriben a la aplicación y pagan la suscripción mensual.
+
+- _Creemos que existe un mercado creciente de propietarios de vehículos que buscan soluciones tecnológicas para mejorar la eficiencia y reducir los costos de mantenimiento de sus vehículos._
+   - Sabremos que nuestra hipótesis es correcta cuando recibamos comentarios positivos de los usuarios sobre la utilidad y eficacia de la aplicación.
+
+- _Creemos que la aplicación DriveCare puede proporcionar información y recomendaciones precisas para mejorar el estado de los vehículos y reducir los costos de mantenimiento._
+   - Sabremos que nuestra hipótesis es correcta cuando veamos una reducción significativa en los costos de mantenimiento y reparación de los vehículos de los usuarios que utilizan la aplicación.
+
+- _Creemos que la aplicación DriveCare puede proporcionar una experiencia de usuario personalizada y adaptada a las necesidades individuales de cada propietario de vehículo._
+   - Sabremos que nuestra hipótesis es correcta cuando recojamos comentarios  positivos de los usuarios sobre la personalización y la adaptabilidad de la aplicación.
+
+- _Creemos que la aplicación DriveCare puede ayudar a los propietarios de vehículos a tomar decisiones informadas sobre el mantenimiento y la reparación de sus vehículos._
+   - Sabremos que nuestra hipótesis es correcta cuando veamos un aumento en la cantidad de decisiones informadas tomadas por los propietarios de vehículos sobre el mantenimiento y la reparación de sus vehículos.
 
 #### Lean UX Canvas
 
