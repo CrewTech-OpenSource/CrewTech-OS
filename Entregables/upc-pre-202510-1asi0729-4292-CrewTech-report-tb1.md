@@ -150,6 +150,40 @@ Ante esta situación, surge nuestra pregunta de negocio:
 
 #### Lean UX Assumptions
 
++ Business Assumptions
+
+     - Se asume que los usuarios estarán dispuestos a pagar por una suscripción mensual para un servicio que les ofrezca monitoreo continuo y recomendaciones personalizadas.
+     - Se asume que el pago recurrente de los usuarios permitirá generar ingresos estables para el negocio y hacer rentable el servicio a largo plazo.
+     - Se asume que, dado el aumento de la adopción tecnológica, los conductores están dispuestos a integrar sensores y apps en sus vehículos para mejorar la experiencia de conducción y optimizar el mantenimiento.
+     - Se asume que los usuarios valoran la simplicidad y conveniencia en la integración de tecnología con sus vehículos.
+
++ Business Outcomes
+
+     - Los usuarios seguirán suscritos al servicio a largo plazo si perciben un valor claro en la mejora de la durabilidad de sus vehículos y la reducción de costos de reparación.
+     - Una vez validado el producto en un mercado objetivo inicial, se busca ampliar el alcance a más conductores en diversas regiones.  
+     - La suscripción mensual debería generar un flujo de ingresos constante, lo que permitirá expandir el negocio y financiar mejoras continuas en el producto.
+     - A medida que la aplicación recibe más datos de los usuarios, los algoritmos de inteligencia artificial mejoran. Esto permite que el servicio sea más eficiente, ya que las recomendaciones y alertas serán más precisas y útiles. Como resultado, se reducirán los costos de operación y mejorará la calidad del servicio para los usuarios.
+
++ User Assumptions
+
+     - Se asume que los conductores están motivados por la idea de prevenir problemas antes de que ocurran y optimizar el mantenimiento para evitar gastos sorpresivos.
+     - Se asume que los conductores están abiertos a cambiar su forma de conducir si se les brindan recomendaciones claras y personalizadas basadas en su comportamiento.
+     - Se asume que los usuarios preferirán una experiencia simplificada con un diseño de app intuitivo y recomendaciones fáciles de seguir, sin la necesidad de conocimientos mecánicos.
+
++ User Outcomes
+
+     - Los usuarios podrán anticipar problemas en sus vehículos antes de que se conviertan en fallos mayores, reduciendo así la cantidad de reparaciones costosas.
+     - Con un monitoreo adecuado y la implementación de las recomendaciones de mantenimiento preventivo, los usuarios lograrán que sus vehículos tengan una vida útil más larga.
+     - Los usuarios tendrán acceso a datos confiables sobre el estado de su automóvil, lo que les permitirá sentirse más seguros al conducir y menos preocupados por posibles fallos inesperados.
+
++ Features
+
+     - **Sensor de monitoreo de vehículos:** Un dispositivo instalado en el vehículo que recoja datos sobre el estado técnico del automóvil, comportamiento de conducción y hábitos de uso.
+     - **Aplicación móvil con dashboard de fácil acceso:** Una interfaz intuitiva que muestre en tiempo real el estado del vehículo, las alertas de mantenimiento y recomendaciones personalizadas para mejorar los hábitos de conducción.
+     - **Alertas de mantenimiento preventivo:** Notificaciones proactivas cuando se detectan comportamientos de conducción ineficientes o cuando se acerca el momento de realizar un mantenimiento preventivo.
+     - **Recomendaciones personalizadas basadas en IA:** Sugerencias inteligentes sobre cómo mejorar la conducción, realizar el mantenimiento o ajustar los hábitos para maximizar la vida útil del vehículo.
+     - **Informes detallados sobre el rendimiento del vehículo:** Resúmenes periódicos que proporcionen a los usuarios una visión completa de cómo están cuidando su vehículo y qué acciones se deben tomar a continuación.
+  
 #### Lean UX Hypothesis Statements
 - _Creemos que los propietarios de vehículos están dispuestos a pagar una suscripción mensual para tener acceso a una aplicación que les permita monitorear y mejorar el estado de su vehículo._
    - Sabremos que nuestra hipótesis es correcta cuando veamos un aumento significativo en la cantidad de usuarios que se suscriben a la aplicación y pagan la suscripción mensual.
