@@ -203,7 +203,37 @@ Ante esta situación, surge nuestra pregunta de negocio:
 #### Lean UX Canvas
 
 ## Segmentos objetivos
-1. Segmento 1: 
+**1. Propietarios de vehículos urbanos que desean prolongar la vida útil de su auto personal:** Personas que tienen uno o más vehículos y desean cuidarlos de forma inteligente, evitando gastos innecesarios a futuro y asegurando su buen funcionamiento diario.
+ - Edad: 25 a 55 años
+ - Ocupación: Profesionales, trabajadores dependientes e independientes, emprendedores.
+ - País: Perú.
+ - Dominio: Usuarios con nivel intermedio en el uso de tecnología y smartphones.
+ - Beneficios buscados:
+    - Alertas para evitar fallas costosas.
+    - Consejos personalizados para alargar la vida útil de su vehículo.
+    - Seguimiento constante del estado del vehículo desde el celular.
+
+**2. Conductores independientes que generan ingresos con su vehículo (Uber, InDriver, taxi, delivery):** Estos usuarios usan su vehículo como herramienta principal de trabajo. Buscan una solución confiable que los ayude a evitar fallas repentinas y a mejorar su conducción para trabajar más horas sin interrupciones.
+ - Edad: 20 a 50 años
+ - Ocupación: Conductores independientes o asociados a plataformas (Uber, InDriver, Cabify, apps de delivery).
+ - País: Perú.
+ - Dominio: Nivel intermedio o básico en tecnología, pero familiarizados con apps móviles.
+ - Beneficios buscados:
+    - Mantenimiento predictivo para reducir el tiempo sin trabajar.
+    - Diagnóstico inmediato de fallas.
+    - Recomendaciones para mejorar su estilo de conducción y ahorrar combustible.
+ 
+**3. Responsables de mantenimiento de empresas que gestionan flotas de vehículos:** Este segmento busca soluciones eficientes para monitorear múltiples vehículos al mismo tiempo, reducir gastos innecesarios y asegurar que su flota se mantenga activa y rentable con el menor costo posible.
+ - Edad: 30 a 60 años
+ - Ocupación: Jefes o encargados de logística, operaciones o transporte.
+ - Tipo de empresa: Distribución, transporte o mantenimiento técnico.
+ - País: Perú.
+ - Dominio: Nivel intermedio o básico en tecnología, pero familiarizados con apps móviles.
+ - Beneficios buscados:
+    - Monitorear el uso de cada vehículo de la flota en tiempo real.
+    - Prevenir fallas que generen retrasos operativos o pérdidas económicas.
+    - Corregir hábitos inadecuados de manejo en los conductores.
+  A
 # CAPÍTULO 2
 ## Competidores
 ### Análisis competitivo
