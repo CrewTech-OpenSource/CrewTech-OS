@@ -150,33 +150,33 @@ Ante esta situación, surge nuestra pregunta de negocio:
 
 #### Lean UX Assumptions
 
-+ Business Assumptions
+**+ Business Assumptions**
 
      - Se asume que los usuarios estarán dispuestos a pagar por una suscripción mensual para un servicio que les ofrezca monitoreo continuo y recomendaciones personalizadas.
      - Se asume que el pago recurrente de los usuarios permitirá generar ingresos estables para el negocio y hacer rentable el servicio a largo plazo.
      - Se asume que, dado el aumento de la adopción tecnológica, los conductores están dispuestos a integrar sensores y apps en sus vehículos para mejorar la experiencia de conducción y optimizar el mantenimiento.
      - Se asume que los usuarios valoran la simplicidad y conveniencia en la integración de tecnología con sus vehículos.
 
-+ Business Outcomes
+**+ Business Outcomes**
 
      - Los usuarios seguirán suscritos al servicio a largo plazo si perciben un valor claro en la mejora de la durabilidad de sus vehículos y la reducción de costos de reparación.
      - Una vez validado el producto en un mercado objetivo inicial, se busca ampliar el alcance a más conductores en diversas regiones.  
      - La suscripción mensual debería generar un flujo de ingresos constante, lo que permitirá expandir el negocio y financiar mejoras continuas en el producto.
      - A medida que la aplicación recibe más datos de los usuarios, los algoritmos de inteligencia artificial mejoran. Esto permite que el servicio sea más eficiente, ya que las recomendaciones y alertas serán más precisas y útiles. Como resultado, se reducirán los costos de operación y mejorará la calidad del servicio para los usuarios.
 
-+ User Assumptions
+**+ User Assumptions**
 
      - Se asume que los conductores están motivados por la idea de prevenir problemas antes de que ocurran y optimizar el mantenimiento para evitar gastos sorpresivos.
      - Se asume que los conductores están abiertos a cambiar su forma de conducir si se les brindan recomendaciones claras y personalizadas basadas en su comportamiento.
      - Se asume que los usuarios preferirán una experiencia simplificada con un diseño de app intuitivo y recomendaciones fáciles de seguir, sin la necesidad de conocimientos mecánicos.
 
-+ User Outcomes
+**+ User Outcomes**
 
      - Los usuarios podrán anticipar problemas en sus vehículos antes de que se conviertan en fallos mayores, reduciendo así la cantidad de reparaciones costosas.
      - Con un monitoreo adecuado y la implementación de las recomendaciones de mantenimiento preventivo, los usuarios lograrán que sus vehículos tengan una vida útil más larga.
      - Los usuarios tendrán acceso a datos confiables sobre el estado de su automóvil, lo que les permitirá sentirse más seguros al conducir y menos preocupados por posibles fallos inesperados.
 
-+ Features
+**+ Features**
 
      - **Sensor de monitoreo de vehículos:** Un dispositivo instalado en el vehículo que recoja datos sobre el estado técnico del automóvil, comportamiento de conducción y hábitos de uso.
      - **Aplicación móvil con dashboard de fácil acceso:** Una interfaz intuitiva que muestre en tiempo real el estado del vehículo, las alertas de mantenimiento y recomendaciones personalizadas para mejorar los hábitos de conducción.
@@ -212,6 +212,10 @@ Ante esta situación, surge nuestra pregunta de negocio:
     - Alertas para evitar fallas costosas.
     - Consejos personalizados para alargar la vida útil de su vehículo.
     - Seguimiento constante del estado del vehículo desde el celular.
+  >[!IMPORTANT]
+  >- Según la Asociación Automotriz del Perú (AAP), más del 85% del parque automotor del país tiene más de 10 años de antigüedad, lo cual eleva el riesgo de fallas mecánicas si no se aplica un mantenimiento adecuado. (https://www.linkedin.com/posts/asociacion-automotriz-del-peru_el-pa%C3%ADs-de-am%C3%A9rica-latina-que-posee-el-parque-activity-7226974095203053569-HECY/?utm_source=chatgpt%2Ecom&originalSubdomain=es)
+  >- En el Perú, el 11.64% de los hogares tenían un auto o camioneta al final de 2023, según la Asociación Automotriz del Perú (AAP). (https://andina.pe/agencia/noticia-el-1164-hogares-todo-peru-poseen-un-auto-o-camioneta-987911.aspx)
+  >- Vehix cubre esta necesidad con alertas y seguimiento inteligente desde el celular.
 
 **2. Conductores independientes que generan ingresos con su vehículo (Uber, InDriver, taxi, delivery):** Estos usuarios usan su vehículo como herramienta principal de trabajo. Buscan una solución confiable que los ayude a evitar fallas repentinas y a mejorar su conducción para trabajar más horas sin interrupciones.
  - Edad: 20 a 50 años
@@ -222,6 +226,12 @@ Ante esta situación, surge nuestra pregunta de negocio:
     - Mantenimiento predictivo para reducir el tiempo sin trabajar.
     - Diagnóstico inmediato de fallas.
     - Recomendaciones para mejorar su estilo de conducción y ahorrar combustible.
+  
+   >[!IMPORTANT]
+  >- Según la app Uber, existen más de 100,000 conductores activos en el Perú. A ello se suman miles de conductores de otras plataformas como InDriver, Cabify, Didi y aplicaciones de delivery. (https://gestion.pe/economia/empresas/uber-beat-cabify-cerca-de-100000-conductores-ofrecen-servicio-de-taxi-por-uber-beat-cabify-y-otras-en-peru-noticia)
+  >- De acuerdo con un estudio de la AAP (2022), los conductores de plataformas usan su vehículo un 40% más que un conductor promedio, lo que genera mayor desgaste y necesidad de mantenimiento frecuente. (https://aap.org.pe/estadisticas/informe-estadistico-automotor)
+  >- Vehix les ofrece diagnóstico inteligente y recomendaciones para reducir los costos operativos y mantener el auto siempre disponible para trabajar.
+
  
 **3. Responsables de mantenimiento de empresas que gestionan flotas de vehículos:** Este segmento busca soluciones eficientes para monitorear múltiples vehículos al mismo tiempo, reducir gastos innecesarios y asegurar que su flota se mantenga activa y rentable con el menor costo posible.
  - Edad: 30 a 60 años
@@ -233,7 +243,11 @@ Ante esta situación, surge nuestra pregunta de negocio:
     - Monitorear el uso de cada vehículo de la flota en tiempo real.
     - Prevenir fallas que generen retrasos operativos o pérdidas económicas.
     - Corregir hábitos inadecuados de manejo en los conductores.
-  A
+  
+   >[!IMPORTANT]
+  >- Cerca de la mitad de las empresas peruanas aumentarán su flota en los próximos 3 años (https://gestion.pe/economia/empresas/flotas-leasing-empresas-vehiculos-cerca-de-la-mitad-de-las-empresas-peruanas-aumentaran-su-flota-en-los-proximos-3-anos-noticia/)
+  >- Vehix puede ayudar a estas empresas a optimizar costos, reducir tiempos muertos por fallas y mejorar el control sobre el comportamiento de los conductores.
+
 # CAPÍTULO 2
 ## Competidores
 ### Análisis competitivo
