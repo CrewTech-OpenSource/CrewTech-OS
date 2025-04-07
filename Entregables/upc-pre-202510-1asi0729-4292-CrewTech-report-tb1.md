@@ -11,7 +11,7 @@
 | Estudiante |   Código   |
 |------------|------------|
 | Baca Camargo, Vitaly Arturo    |   u20231c426    |
-| Moises      |  Cell 5    |
+| Espinoza Chávez, Moisés Filemón|   u202221383    |
 | Julca Minaya, Sergio Gino      |   u202318274    |
 | Navarro Chinga, Antonio Jhair  |   u202314101    |
 | Rios Piñan, Dayro Richard      |   u202315283    |
@@ -19,9 +19,120 @@
 <div align="center"> <h1>Abril, 2025</h1> </div>
 
 ## REGISTRO DE VERSIONES DEL INFORME
-| Versión | Fecha | Autor | Descripción de modificación |
-|---------|-------|-------|-----------------------------|
-| TB1 | 00/00/0000 |Lorem lorem, lorem lorem | lorem lorem lorem lorem lorem lorem |
+<table>
+  <tr>
+    <td><strong>Version</strong></td>
+    <td><strong>Fecha</strong></td>
+    <td><strong>Autor</strong></td>
+    <td><strong>Descripción de modificacion</strong></td>
+  </tr>
+  <tr>
+    <td rowspan="3">TB1</td>
+    <td>07/04/2025</td>
+    <td rowspan="3">Baca Camargo, Vitaly Arturo</td>
+    <td>lorem lorem lorem</td>
+  </tr>
+ <tr>
+    <td>321</td>
+    <td>lo312rem</td>
+  </tr>
+  <tr>
+    <td>321</td>
+    <td>lo312rem</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><strong>Version</strong></td>
+    <td><strong>Fecha</strong></td>
+    <td><strong>Autor</strong></td>
+    <td><strong>Descripción de modificacion</strong></td>
+  </tr>
+  <tr>
+    <td rowspan="3">TB1</td>
+    <td>07/04/2025</td>
+    <td rowspan="3">Espinoza Chávez, Moisés Filemón</td>
+    <td>lorem lorem lorem</td>
+  </tr>
+ <tr>
+    <td>321</td>
+    <td>lo312rem</td>
+  </tr>
+  <tr>
+    <td>321</td>
+    <td>lo312rem</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><strong>Version</strong></td>
+    <td><strong>Fecha</strong></td>
+    <td><strong>Autor</strong></td>
+    <td><strong>Descripción de modificacion</strong></td>
+  </tr>
+  <tr>
+    <td rowspan="3">TB1</td>
+    <td>07/04/2025</td>
+    <td rowspan="3">Julca Minaya, Sergio Gino</td>
+    <td>lorem lorem lorem</td>
+  </tr>
+ <tr>
+    <td>321</td>
+    <td>lo312rem</td>
+  </tr>
+  <tr>
+    <td>321</td>
+    <td>lo312rem</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><strong>Version</strong></td>
+    <td><strong>Fecha</strong></td>
+    <td><strong>Autor</strong></td>
+    <td><strong>Descripción de modificacion</strong></td>
+  </tr>
+  <tr>
+    <td rowspan="3">TB1</td>
+    <td>07/04/2025</td>
+    <td rowspan="3">Navarro Chinga, Antonio Jhair</td>
+    <td>lorem lorem lorem</td>
+  </tr>
+ <tr>
+    <td>321</td>
+    <td>lo312rem</td>
+  </tr>
+  <tr>
+    <td>321</td>
+    <td>lo312rem</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><strong>Version</strong></td>
+    <td><strong>Fecha</strong></td>
+    <td><strong>Autor</strong></td>
+    <td><strong>Descripción de modificacion</strong></td>
+  </tr>
+  <tr>
+    <td rowspan="3">TB1</td>
+    <td>07/04/2025</td>
+    <td rowspan="3">Rios Piñan, Dayro Richard</td>
+    <td>lorem lorem lorem</td>
+  </tr>
+ <tr>
+    <td>321</td>
+    <td>lo312rem</td>
+  </tr>
+  <tr>
+    <td>321</td>
+    <td>lo312rem</td>
+  </tr>
+</table>
  
 ## PROJECT REPORT COLLABORATION INSIGHTS
 
