@@ -227,7 +227,7 @@ Ante esta situación, surge nuestra pregunta de negocio:
     - Diagnóstico inmediato de fallas.
     - Recomendaciones para mejorar su estilo de conducción y ahorrar combustible.
   
-   >[!IMPORTANT]
+  >[!IMPORTANT]
   >- Según la app Uber, existen más de 100,000 conductores activos en el Perú. A ello se suman miles de conductores de otras plataformas como InDriver, Cabify, Didi y aplicaciones de delivery. (https://gestion.pe/economia/empresas/uber-beat-cabify-cerca-de-100000-conductores-ofrecen-servicio-de-taxi-por-uber-beat-cabify-y-otras-en-peru-noticia)
   >- De acuerdo con un estudio de la AAP (2022), los conductores de plataformas usan su vehículo un 40% más que un conductor promedio, lo que genera mayor desgaste y necesidad de mantenimiento frecuente. (https://aap.org.pe/estadisticas/informe-estadistico-automotor)
   >- Vehix les ofrece diagnóstico inteligente y recomendaciones para reducir los costos operativos y mantener el auto siempre disponible para trabajar.
@@ -244,7 +244,7 @@ Ante esta situación, surge nuestra pregunta de negocio:
     - Prevenir fallas que generen retrasos operativos o pérdidas económicas.
     - Corregir hábitos inadecuados de manejo en los conductores.
   
-   >[!IMPORTANT]
+  >[!IMPORTANT]
   >- Cerca de la mitad de las empresas peruanas aumentarán su flota en los próximos 3 años (https://gestion.pe/economia/empresas/flotas-leasing-empresas-vehiculos-cerca-de-la-mitad-de-las-empresas-peruanas-aumentaran-su-flota-en-los-proximos-3-anos-noticia/)
   >- Vehix puede ayudar a estas empresas a optimizar costos, reducir tiempos muertos por fallas y mejorar el control sobre el comportamiento de los conductores.
 
