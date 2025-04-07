@@ -203,7 +203,7 @@ Ante esta situación, surge nuestra pregunta de negocio:
 #### Lean UX Canvas
 
 ## Segmentos objetivos
-
+1. Segmento 1: 
 # CAPÍTULO 2
 ## Competidores
 ### Análisis competitivo
