@@ -327,6 +327,8 @@ Ante esta situación, surge nuestra pregunta de negocio:
    - Sabremos que nuestra hipótesis es correcta cuando veamos un aumento en la cantidad de decisiones informadas tomadas por los propietarios de vehículos sobre el mantenimiento y la reparación de sus vehículos.
 
 #### Lean UX Canvas
+![image](https://github.com/user-attachments/assets/453b72ad-a6a5-44a6-811b-a02b2bb4bed7)
+
 
 ## Segmentos objetivos
 **1. Propietarios de vehículos urbanos que desean prolongar la vida útil de su auto personal:** Personas que tienen uno o más vehículos y desean cuidarlos de forma inteligente, evitando gastos innecesarios a futuro y asegurando su buen funcionamiento diario.
