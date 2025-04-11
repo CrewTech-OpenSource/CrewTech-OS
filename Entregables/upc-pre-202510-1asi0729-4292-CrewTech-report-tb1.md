@@ -444,6 +444,10 @@ Debe ser intuitivo, claro y rápido. Asimismo, la app debe ofrecer información 
 lorem
 
 ### Estrategias y tácticas frente a competidores
+
+**Análisis Foda**
+![FODA](https://github.com/user-attachments/assets/84840134-04b4-4c42-b3a0-64c9052e6438)
+
 Para posicionarse de manera efectiva en el mercado y destacar frente a competidores como FIXD, CarMD y Drivvo, DriveCare aplicará las siguientes estrategias y tácticas preliminares orientadas a afrontar las fortalezas de la competencia, actuar en función de las oportunidades, aprovechar sus debilidades y amenazas del entorno competitivo:
 #### Afrontando las fortalezas de nuestros competidores 
 + **Estrategia:**
