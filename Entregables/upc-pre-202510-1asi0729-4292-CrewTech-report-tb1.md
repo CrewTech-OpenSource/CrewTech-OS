@@ -331,7 +331,7 @@ Ante esta situación, surge nuestra pregunta de negocio:
 
 + Generaré ingresos a través de la app, por medio de las suscripciones mensuales que incluirá funcionalidades como informes detallados del vehículo, predicción de fallas basada en patrones. También se considerará a futuro la alianzas con talleres y servicios técnicos.
 
-+ Mi competencia principal serán otras apps de diagnóstico automotriz conectadas vía OBD-II, como Torque o Car Scanner, además de servicios técnicos tradicionales que no usan tecnología, y plataformas que ofrecen revisiones periódicas sin seguimiento digital.
++ Nuestra competencia principal son otras apps de diagnóstico automotriz conectadas vía OBD-II, como FIXD, CarMD y Drivvo, además de servicios técnicos tradicionales que no usan tecnología, y plataformas que ofrecen revisiones periódicas sin seguimiento digital.
 
 + Superaremos a la competencia ofreciendo una experiencia de usuario simple y conectada, con diseño amigable y asistencia, combinando monitoreo inteligente con funciones prácticas como historial y alertas predictivas.
 
@@ -921,14 +921,7 @@ lorem
 lorem
 
 ### User Journey Mapping
-**Segmento 1:** Propietarios de vehículos urbanos que desean prolongar la vida útil de su auto personal.
-![image](https://github.com/user-attachments/assets/5a284b53-14d8-4704-8706-15c8aecf4cd4)
-
-**Segmento 2:**  Conductores independientes que generan ingresos con su vehículo (Uber, InDriver, taxi, delivery).
-
-
-**Segmento 3:** Responsables de mantenimiento de empresas que gestionan flotas de vehículos
-
+lorem
 
 ### Empathy Mapping
 lorem
