@@ -386,7 +386,46 @@ lorem
 
 ## Entrevistas
 ### Diseño de entrevistas
-lorem
+Después de un análisis, se realizaron las siguientes preguntas para entrevistar a los siguientes segmentos objetivos.
+
+#### Segmento 1: Propietarios de vehículos urbanos (uso personal)
+¿Qué tipo de vehículo usas actualmente y con qué frecuencia lo conduces?
+
+¿Qué tan pendiente estás del mantenimiento preventivo de tu vehículo? ¿Llevas algún tipo de registro?
+
+¿Alguna vez has tenido que pagar una reparación costosa por un problema que pudo haberse evitado? ¿Qué sucedió?
+
+¿Qué haces actualmente para asegurarte de que tu auto esté en buen estado?
+
+¿Qué tan cómodo te sientes utilizando aplicaciones móviles para gestionar aspectos técnicos de tu vehículo?
+
+¿Te interesaría recibir alertas personalizadas sobre el estado de tu vehículo directamente en tu celular? ¿Por qué?
+
+¿Qué información te gustaría recibir para ayudarte a cuidar mejor tu auto?
+
+¿Cuánto estarías dispuesto a pagar mensualmente por una app que te ayude a evitar reparaciones costosas y a prolongar la vida útil de tu auto?
+
+¿Qué valor tendría para ti poder corregir malas prácticas de conducción con ayuda de una app?
+
+#### Segmento 2: Responsables de mantenimiento de flotas (uso empresarial)
+¿Cuántos vehículos gestionas actualmente y qué tipo de tareas realizan?
+
+¿Qué problemas enfrentas con más frecuencia al gestionar el mantenimiento de los vehículos?
+
+¿Tienes una estrategia o sistema actual para monitorear el estado de los vehículos en tiempo real? ¿Cuál?
+
+¿Qué tan seguido una falla en un vehículo genera retrasos o pérdidas económicas en tus operaciones?
+
+¿Cómo capacitas o controlas actualmente a los conductores para evitar malos hábitos de conducción?
+
+¿Te gustaría tener una plataforma que te alerte sobre posibles fallas o comportamientos inadecuados de los conductores antes de que se conviertan en problemas costosos?
+
+¿Qué tan familiarizado estás con el uso de apps móviles o herramientas digitales para este tipo de gestión?
+
+¿Qué tipo de reportes o métricas serían útiles para ti si usaras una app como DriveCare?
+
+¿Cuál sería el beneficio más importante que te motivaría a pagar por una suscripción mensual para este tipo de servicio?
+
 
 ### Registro de entrevistas
 lorem
