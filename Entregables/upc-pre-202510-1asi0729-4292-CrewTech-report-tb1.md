@@ -226,13 +226,12 @@ conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el l
 ## Startup Profile
 
 ### Descripción de la Startup
-DriveCare es una aplicación innovadora diseñada para supervisar constantemente el estado de un vehículo, ayudando así a preservar y prolongar su vida útil. Muchas personas que utilizan su auto tanto de forma personal como profesional enfrentan un problema frecuente: desconocen las condiciones reales de su vehículo. Esto suele llevar a descuidos en el mantenimiento y, eventualmente, a reparaciones costosas cuando los problemas ya se han agravado. 
-Por ello, nuestro servicio ofrece la instalación de un sensor en el vehículo, el cual el cliente deberá pagar su uso de manera mensual, que estudia las estadísticas, tendencias y todo tipo de datos. A partir de lo mencionado, nuestra aplicación mostrará, por medio de la app, todo tipo de mala praxis por parte del conductor, correciones, entre otros. Asimismo, recién instalada la aplicación, la aplicación hara una serie de preguntas, para poder leer los datos y tener una mejora en sus predicciones o resultados.
-En resumen, a través del sensor, instalado en el carro, se leen los datos, que viajan hacia la aplicación, que se obtiene pagando una suscripción, la cual deja de funcionar en caso el cliente deja de pagar la suscripción.
+Vehix es una aplicación innovadora diseñada para supervisar constantemente el estado de un vehículo, ayudando así a preservar y prolongar su vida útil. De modo que, muchos conductores enfrentan el problema frecuente del desconomiento de las condiciones reales de su vehículo. Esto suele llevar a descuidos en el mantenimiento y, eventualmente, a reparaciones costosas cuando los problemas ya se han agravado. 
+Vehix adopta un enfoque centrado en el conductor, buscando entender sus necesidades de mantenimiento y cuidado vehicular para ofrecer soluciones personalizadas que garanticen el óptimo rendimiento de sus vehículos. Su objetivo es transformar la relación entre los usuarios y sus automóviles, mediante el uso de tecnología inteligente y un compromiso constante con la excelencia funcional y técnica.
 
 | **Misión** | **Visión** |
 |-----------|------------|
-| lorem | Lorem |
+| Brindar a los conductores y empresas una solución inteligente y accesible para el monitoreo, diagnóstico y cuidado preventivo de sus vehículos, utilizando tecnología de sensores conectados y análisis de datos en tiempo real, con el fin de prolongar la vida útil de los automóviles y reducir los costos por fallas mecánicas. | Ser la plataforma líder en el Perú en soluciones tecnológicas para el mantenimiento predictivo vehicular, transformando la forma en que las personas cuidan sus vehículos y fomentando una cultura de conducción responsable, eficiente y sostenible. |
 
 ### Perfiles de integrantes del equipo
 |  |   Descripción   |
