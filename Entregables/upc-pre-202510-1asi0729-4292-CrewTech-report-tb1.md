@@ -436,7 +436,26 @@ Para posicionarse de manera efectiva en el mercado y destacar frente a competido
 
 ## Entrevistas
 ### Diseño de entrevistas
-lorem
+Después de un análisis, se realizaron las siguientes preguntas para entrevistar a los siguientes segmentos objetivos.
+
+#### Segmento 2: Conductores independientes que generan ingresos con su vehículo (Uber, InDriver, taxi, delivery):
+¿Cada cuánto tiempo realizas el mantenimiento de tu vehículo y cómo decides cuándo hacerlo?
+
+¿Qué tipo de problemas mecánicos has tenido recientemente y cómo afectaron tu trabajo o tus ingresos?
+
+¿Tienes alguna forma de saber el estado real de tu vehículo mientras trabajas? ¿Cómo lo haces?
+
+¿Qué tan importante consideras la forma en que manejas para evitar fallas en tu auto?
+
+¿Has utilizado antes alguna app o dispositivo que te brinde información sobre tu auto o tu conducción? ¿Cómo fue tu experiencia?
+
+¿Qué tipo de información o alertas crees que serían útiles para ayudarte a evitar problemas mecánicos mientras trabajas?
+
+¿Qué opinas de una app que, conectada a un sensor en tu auto, te diga cómo manejar mejor y cuándo hacer mantenimiento para evitar fallas?
+
+¿Qué características tendría que tener una app como esta para que realmente te ayude en tu día a día como conductor?
+
+¿Estarías dispuesto a pagar una suscripción mensual por un servicio que te permita ahorrar en reparaciones y cuidar mejor tu vehículo?
 
 ### Registro de entrevistas
 lorem
