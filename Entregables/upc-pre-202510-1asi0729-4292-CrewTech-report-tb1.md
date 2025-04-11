@@ -244,12 +244,34 @@ Vehix adopta un enfoque centrado en el conductor, buscando entender sus necesida
 
 ## Solution Profile
 Nuestro producto se centra en realizar una aplicación diseñada para poder conectar a las personas interesadas que buscan prevenir el deterioro de sus vehículos y optimizar su mantenimiento mediante un sistema de monitoreo avanzado.
+
+**Desafío**
+
 El desafío surge ya que muchos propietarios de vehículos enfrentan fallas mecánicas imprevistas, mantenimientos costosos y pérdida de rendimiento debido a la falta de información en tiempo real sobre el estado del automóvil y los hábitos de conducción. Esta problemática, común en usuarios con rutinas exigentes o poco conocimiento técnico, conlleva riesgos innecesarios, altos gastos y una reducción significativa en la durabilidad del vehículo. 
-Con el objetivo de brindar una solución efectiva, surge DriveCare, una innovadora aplicación que, en conjunto con un sensor instalado en el vehículo, analiza constantemente datos como el comportamiento del conductor, el estado técnico del auto y las tendencias de uso. Mediante inteligencia artificial, la plataforma identifica malas prácticas, recomienda acciones correctivas y anticipa posibles fallos, permitiendo una intervención temprana antes de que surjan problemas mayores.
+
+  **Objetivo**
+  
+Con el objetivo de brindar una solución efectiva, surge Vehix, una innovadora aplicación que, en conjunto con un sensor instalado en el vehículo, analiza constantemente datos como el comportamiento del conductor, el estado técnico del auto y las tendencias de uso. Mediante inteligencia artificial, la plataforma identifica malas prácticas, recomienda acciones correctivas y anticipa posibles fallos, permitiendo una intervención temprana antes de que surjan problemas mayores.
+
+**Monetización**
+
 Este servicio opera bajo un modelo de suscripción mensual. Al estar activo, el usuario tiene acceso completo a todas las funcionalidades de la app. En caso de cancelación o falta de pago, el acceso queda suspendido, garantizando así la continuidad del servicio solo para clientes activos.
-Nuestra misión es transformar la manera en que los conductores cuidan sus vehículos, ofreciendo una herramienta tecnológica que promueve una conducción responsable, reduce costos por reparaciones y maximiza el tiempo de vida del automóvil. Con DriveCare, conducir no solo será más seguro, sino también más inteligente.
+
 
 ### Antecedentes y problematica
+
+**Antecedentes**
+En la actualidad, los vehículos particulares y comerciales representan una parte esencial del transporte en el Perú. Según la Asociación Automotriz del Perú (AAP), en 2023 se reportaron más de 3.4 millones de vehículos circulando a nivel nacional, con una tendencia creciente en la compra de autos nuevos y usados. No obstante, con este incremento también ha surgido una preocupación creciente: el mantenimiento preventivo y la correcta utilización de los vehículos para evitar daños prematuros.
+
+(AAP 2023: https://aap.org.pe/estadisticas/informe-estadistico-automotor/iea-2023/)
+
+Según la Asociación de Exportadores (ADEX) informó que el 15% del presupuesto operativo de muchas empresas con flotas vehiculares se destina exclusivamente al mantenimiento y reparación. Además, el Instituto Nacional de Estadística e Informática (INEI) estima que existen más de 10,000 empresas formales en Perú que dependen de flotas vehiculares para sus operaciones diarias. Esto demuestra una necesidad latente de soluciones tecnológicas que faciliten el monitoreo y cuidado del estado mecánico de los vehículos.
+
+A pesar de los avances en tecnología automotriz, la mayoría de conductores aún no cuentan con una herramienta que les proporcione en tiempo real el estado de su auto, los hábitos de conducción inadecuados que podrían afectar su vehículo, o predicciones sobre fallas futuras basadas en patrones de uso. Esta falta de visibilidad, combinada con la falta de cultura preventiva, conlleva a reparaciones tardías y costosas.
+
+Vehix surge como una respuesta innovadora a este contexto, ofreciendo una solución tecnológica mediante la instalación de un sensor conectado por Bluetooth al celular del usuario. Esta herramienta permite recolectar y analizar los datos de distintos componentes del vehículo, ofreciendo diagnósticos, alertas de mantenimiento y recomendaciones personalizadas, todo desde una aplicación móvil.
+
+
 ### 1. What / ¿Qué?
 El problema se presenta ya que muchas personas que utilizan autos tanto de forma personal como profesional desconocen las condiciones de sus vehículos.
 
