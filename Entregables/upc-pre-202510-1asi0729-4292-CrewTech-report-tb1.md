@@ -382,11 +382,98 @@ Ante esta situación, surge nuestra pregunta de negocio:
 lorem
 
 ### Estrategias y tácticas frente a competidores
-lorem
+Para posicionarse de manera efectiva en el mercado y destacar frente a competidores como FIXD, CarMD y Drivvo, DriveCare aplicará las siguientes estrategias y tácticas preliminares orientadas a afrontar las fortalezas de la competencia, actuar en función de las oportunidades, aprovechar sus debilidades y amenazas del entorno competitivo:
+#### Afrontando las fortalezas de nuestros competidores 
++ **Estrategia:**
+  Aprovechar que muchas apps no tienen monitoreo en tiempo real, ni educación preventiva, para posicionarnos como un asistente integral y proactivo en el cuidado vehicular.
++ **Tácticas:**
+  + Desarrollar una interfaz clara, moderna y accesible para todas las plataformas.
+  + Incluir funciones preventivas y educativas que los competidores no ofrecen.
+  + Mantener la compatibilidad con una amplia gama de vehículos, incluidos autos usados.
+
+#### Afrontando las debilidades de nuestros competidores
++ **Estrategia:**
+  Ofrecer una solución que combine monitoreo en tiempo real con funciones educativas y predicción preventiva, destacando nuestro sensor inteligente y app ligera como ventaja competitiva.
++ **Tácticas:**
+  + Implementar funciones de aprendizaje automático para analizar hábitos de conducción.
+  + Desarrollar contenido educativo accesible (videos, consejos) dentro de la app.
+
+#### Afrontando las oportunidades de nuestros competidores
++ **Estrategia:**
+  Atraer usuarios potenciales que buscan más que un simple diagnóstico, mediante una propuesta de valor basada en educación, predicción y experiencia personalizada.
++ **Tácticas:**
+  + Establecer alianzas con talleres mecánicos, aseguradoras y concesionarios.
+  + Publicitar en redes sociales destacando las funciones únicas de DriveCare.
+
+#### Afrontando las amenazas de nuestros competidores
++ **Estrategia:**
+  Mantener la competitividad mediante innovación continua, soporte eficiente y escalabilidad internacional.
++ **Tácticas:**
+  + Lanzar actualizaciones mensuales con mejoras y nuevas funcionalidades.
+  + Asegurar compatibilidad con diferentes marcas y modelos de vehículos.
+  + Ofrecer soporte técnico en múltiples idiomas y zonas horarias.
 
 ## Entrevistas
 ### Diseño de entrevistas
-lorem
+Después de un análisis, se realizaron las siguientes preguntas para entrevistar a los siguientes segmentos objetivos.
+
+#### Segmento 1: Propietarios de vehículos urbanos (uso personal)
+¿Qué tipo de vehículo usas actualmente y con qué frecuencia lo conduces?
+
+¿Qué tan pendiente estás del mantenimiento preventivo de tu vehículo? ¿Llevas algún tipo de registro?
+
+¿Alguna vez has tenido que pagar una reparación costosa por un problema que pudo haberse evitado? ¿Qué sucedió?
+
+¿Qué haces actualmente para asegurarte de que tu auto esté en buen estado?
+
+¿Qué tan cómodo te sientes utilizando aplicaciones móviles para gestionar aspectos técnicos de tu vehículo?
+
+¿Te interesaría recibir alertas personalizadas sobre el estado de tu vehículo directamente en tu celular? ¿Por qué?
+
+¿Qué información te gustaría recibir para ayudarte a cuidar mejor tu auto?
+
+¿Cuánto estarías dispuesto a pagar mensualmente por una app que te ayude a evitar reparaciones costosas y a prolongar la vida útil de tu auto?
+
+¿Qué valor tendría para ti poder corregir malas prácticas de conducción con ayuda de una app?
+
+#### Segmento 2: Conductores independientes que generan ingresos con su vehículo (Uber, InDriver, taxi, delivery):
+¿Cada cuánto tiempo realizas el mantenimiento de tu vehículo y cómo decides cuándo hacerlo?
+
+¿Qué tipo de problemas mecánicos has tenido recientemente y cómo afectaron tu trabajo o tus ingresos?
+
+¿Tienes alguna forma de saber el estado real de tu vehículo mientras trabajas? ¿Cómo lo haces?
+
+¿Qué tan importante consideras la forma en que manejas para evitar fallas en tu auto?
+
+¿Has utilizado antes alguna app o dispositivo que te brinde información sobre tu auto o tu conducción? ¿Cómo fue tu experiencia?
+
+¿Qué tipo de información o alertas crees que serían útiles para ayudarte a evitar problemas mecánicos mientras trabajas?
+
+¿Qué opinas de una app que, conectada a un sensor en tu auto, te diga cómo manejar mejor y cuándo hacer mantenimiento para evitar fallas?
+
+¿Qué características tendría que tener una app como esta para que realmente te ayude en tu día a día como conductor?
+
+¿Estarías dispuesto a pagar una suscripción mensual por un servicio que te permita ahorrar en reparaciones y cuidar mejor tu vehículo?
+
+#### Segmento 3: Responsables de mantenimiento de flotas (uso empresarial)
+¿Cuántos vehículos gestionas actualmente y qué tipo de tareas realizan?
+
+¿Qué problemas enfrentas con más frecuencia al gestionar el mantenimiento de los vehículos?
+
+¿Tienes una estrategia o sistema actual para monitorear el estado de los vehículos en tiempo real? ¿Cuál?
+
+¿Qué tan seguido una falla en un vehículo genera retrasos o pérdidas económicas en tus operaciones?
+
+¿Cómo capacitas o controlas actualmente a los conductores para evitar malos hábitos de conducción?
+
+¿Te gustaría tener una plataforma que te alerte sobre posibles fallas o comportamientos inadecuados de los conductores antes de que se conviertan en problemas costosos?
+
+¿Qué tan familiarizado estás con el uso de apps móviles o herramientas digitales para este tipo de gestión?
+
+¿Qué tipo de reportes o métricas serían útiles para ti si usaras una app como DriveCare?
+
+¿Cuál sería el beneficio más importante que te motivaría a pagar por una suscripción mensual para este tipo de servicio?
+
 
 ### Registro de entrevistas
 lorem
