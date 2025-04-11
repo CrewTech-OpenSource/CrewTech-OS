@@ -921,7 +921,14 @@ lorem
 lorem
 
 ### User Journey Mapping
-lorem
+**Segmento 1:** Propietarios de vehículos urbanos que desean prolongar la vida útil de su auto personal.
+![image](https://github.com/user-attachments/assets/5a284b53-14d8-4704-8706-15c8aecf4cd4)
+
+**Segmento 2:**  Conductores independientes que generan ingresos con su vehículo (Uber, InDriver, taxi, delivery).
+
+
+**Segmento 3:** Responsables de mantenimiento de empresas que gestionan flotas de vehículos
+
 
 ### Empathy Mapping
 lorem
