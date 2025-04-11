@@ -298,7 +298,7 @@ Si bien no hay una cifra exacta de los problemas presentados por falta de manten
 Muchos conductores en el Perú enfrentan un desafío relacionado con el mantenimiento adecuado de sus vehículos debido a la falta de información en tiempo real sobre el estado técnico de sus autos y sus hábitos de conducción. Esto genera problemas como fallos mecánicos imprevistos, gastos innecesarios en reparaciones y una vida útil reducida de los vehículos. A pesar de que muchos conductores intentan mantener sus autos, la falta de herramientas accesibles y fáciles de usar para monitorear el estado del vehículo y realizar un mantenimiento preventivo adecuado afecta negativamente la experiencia de conducción y los costos a largo plazo.
 
 Ante esta situación, surge nuestra pregunta de negocio: 
-***¿Cómo podemos ayudar a los conductores a optimizar el mantenimiento de sus vehículos y mejorar sus hábitos de conducción mediante una herramienta tecnológica accesible, promoviendo una conducción más responsable, reduciendo costos y maximizando la durabilidad de los vehículos?***
+***¿Cómo podemos enfrentar la falta de mantenimiento preventivo, la escasa información técnica disponible para los conductores y el elevado costo asociado a reparaciones vehiculares, mediante una solución tecnológica accesible que permita monitorear en tiempo real el estado del vehículo desde el teléfono móvil?***
 
 #### Lean UX Assumptions
 
