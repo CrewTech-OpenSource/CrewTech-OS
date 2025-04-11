@@ -367,6 +367,27 @@ Ante esta situación, surge nuestra pregunta de negocio:
 - _Creemos que la aplicación Vehix puede ayudar a los propietarios de vehículos a tomar decisiones informadas sobre el mantenimiento y la reparación de sus vehículos._
    - Sabremos que nuestra hipótesis es correcta cuando veamos un aumento del 20% en la cantidad de decisiones informadas tomadas por los propietarios de vehículos sobre el mantenimiento y la reparación de sus vehículos.
 
+#### User Knowledge
+
+**a. ¿Quién es el usuario?**
+Conductores de vehículos particulares o profesionales que desean tener mayor control, seguridad y mantenimiento preventivo de su auto.
+
+**b. ¿Dónde encaja nuestro producto en su trabajo o vida?**
+En el uso cotidiano del vehículo, ayudando a monitorear su estado y funcionamiento en tiempo real mientras conducen o al estacionar.
+
+**c. ¿Qué problemas tiene nuestro producto y cómo se pueden resolver?**
+Puede enfrentar resistencia al uso de tecnología o falta de conectividad. De manera que se resuelve con una interfaz simple, conectividad Bluetooth estable y un adaptador de diagnóstico accesible.
+
+**d. ¿Cuándo y cómo es usado nuestro producto?**
+Es usado al encender y manejar el vehículo, mediante una app conectada por Bluetooth que recibe datos del adaptador de diagnóstico instalado en el vehículo.
+
+**e. ¿Qué características son importantes?**
+Alertas en tiempo real, historial de fallos, predicción de problemas mecánicos, mejora de buenas práticas de condudcción.
+
+**f. ¿Cómo debe verse nuestro producto y cómo debe comportarse?**
+Debe ser intuitivo, claro y rápido. Asimismo, la app debe ofrecer información útil de forma visual y enviar alertas automáticas sin requerir mucha interacción del usuario.
+
+
 #### Lean UX Canvas
 ![image](https://github.com/user-attachments/assets/453b72ad-a6a5-44a6-811b-a02b2bb4bed7)
 
