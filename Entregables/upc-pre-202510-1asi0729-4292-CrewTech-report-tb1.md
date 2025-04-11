@@ -295,7 +295,9 @@ Si bien no hay una cifra exacta de los problemas presentados por falta de manten
 
 ### Lean UX Process
 #### Lean UX Problem Statements
-Muchos conductores en el Perú enfrentan un desafío relacionado con el mantenimiento adecuado de sus vehículos debido a la falta de información en tiempo real sobre el estado técnico de sus autos y sus hábitos de conducción. Esto genera problemas como fallos mecánicos imprevistos, gastos innecesarios en reparaciones y una vida útil reducida de los vehículos. A pesar de que muchos conductores intentan mantener sus autos, la falta de herramientas accesibles y fáciles de usar para monitorear el estado del vehículo y realizar un mantenimiento preventivo adecuado afecta negativamente la experiencia de conducción y los costos a largo plazo.
+Muchos conductores en el Perú enfrentan un desafío relacionado con el mantenimiento adecuado de sus vehículos debido a la falta de información en tiempo real sobre el estado técnico de sus autos y sus hábitos de conducción. Esto genera problemas como fallos mecánicos imprevistos, altos costos de reparaciones y una vida útil reducida de los vehículos. 
+
+A pesar de que muchos conductores intentan mantener sus autos, la falta de herramientas accesibles y fáciles de usar para monitorear el estado del vehículo y realizar un mantenimiento preventivo adecuado afecta negativamente la experiencia de conducción y los costos a largo plazo.
 
 Ante esta situación, surge nuestra pregunta de negocio: 
 ***¿Cómo podemos enfrentar la falta de mantenimiento preventivo, la escasa información técnica disponible para los conductores y el elevado costo asociado a reparaciones vehiculares, mediante una solución tecnológica accesible que permita monitorear en tiempo real el estado del vehículo desde el teléfono móvil?***
@@ -315,9 +317,27 @@ Ante esta situación, surge nuestra pregunta de negocio:
 + A medida que la aplicación recibe más datos de los usuarios, los algoritmos de inteligencia artificial mejoran. Esto permite que el servicio sea más eficiente, ya que las recomendaciones y alertas serán más precisas y útiles. Como resultado, se reducirán los costos de operación y mejorará la calidad del servicio para los usuarios.
 
 **User Assumptions**
-+ Se asume que los conductores están motivados por la idea de prevenir problemas antes de que ocurran y optimizar el mantenimiento para evitar gastos sorpresivos.
-+ Se asume que los conductores están abiertos a cambiar su forma de conducir si se les brindan recomendaciones claras y personalizadas basadas en su comportamiento.
-+ Se asume que los usuarios preferirán una experiencia simplificada con un diseño de app intuitivo y recomendaciones fáciles de seguir, sin la necesidad de conocimientos mecánicos.
++ Creo que mis clientes necesitan una solución práctica y accesible para monitorear el estado de sus vehículos en tiempo real, ya que muchos conductores desconocen cuándo deben realizar mantenimiento preventivo o detectar fallas antes de que se conviertan en problemas costosos o peligrosos.
+  
++ Estas necesidades se pueden resolver mediante una aplicación conectada por Bluetooth a un escáner OBD-II (como el ELM327), que permita recibir datos del vehículo directamente en el celular, visualizar alertas, obtener recomendaciones y llevar un historial de mantenimiento y comportamiento del auto.
+
++ Mis clientes iniciales incluirán conductores de vehículos particulares (de uso diario o familiar), jóvenes adultos con interés en tecnología automotriz, padres de familia que priorizan la seguridad vehicular y pequeños negocios de transporte que buscan reducir costos de mantenimiento correctivo.
+
++ El valor #1 que un cliente quiere de mi servicio es la seguridad y tranquilidad de saber que su vehículo está funcionando correctamente y que será alertado de cualquier posible problema antes de que ocurra una falla mayor.
+
++ Los usuarios también podrían obtener beneficios adicionales como: historial técnico del auto, recordatorios inteligentes de mantenimiento, patrones de conducción registrados, conexión con técnicos de confianza, y posibles descuentos o recomendaciones de servicios automotrices aliados.
+
++ Voy a adquirir a la mayoría de mis usuarios mediante estrategias digitales, como campañas en redes sociales, contenido en YouTube/TikTok sobre mantenimiento de autos, alianzas con tiendas de autopartes y talleres, y presencia en ferias automotrices o de tecnología.
+
++ Generaré ingresos a través de la app, por medio de las suscripciones mensuales que incluirá funcionalidades como informes detallados del vehículo, predicción de fallas basada en patrones. También se considerará a futuro la alianzas con talleres y servicios técnicos.
+
++ Mi competencia principal serán otras apps de diagnóstico automotriz conectadas vía OBD-II, como Torque o Car Scanner, además de servicios técnicos tradicionales que no usan tecnología, y plataformas que ofrecen revisiones periódicas sin seguimiento digital.
+
++ Superaremos a la competencia ofreciendo una experiencia de usuario simple y conectada, con diseño amigable y asistencia, combinando monitoreo inteligente con funciones prácticas como historial y alertas predictivas.
+
++ El riesgo más grande para el producto es la resistencia de los usuarios a usar dispositivos adicionales (como el ELM327) o la poca familiaridad con el uso de herramientas tecnológicas en vehículos.
+
++ Resolveremos este riesgo mediante alianzas con tiendas de autopartes que incluyan el dispositivo con descuento o de regalo, educación simple desde la app sobre cómo usarlo, y funciones que motiven su uso mostrando de forma clara el ahorro, la seguridad y los beneficios de tener el vehículo siempre monitoreado.
 
 **User Outcomes**
 + Los usuarios podrán anticipar problemas en sus vehículos antes de que se conviertan en fallos mayores, reduciendo así la cantidad de reparaciones costosas.
@@ -328,24 +348,24 @@ Ante esta situación, surge nuestra pregunta de negocio:
 + **Apdatador diagnóstico para vehículos:** Un adapatador diagnóstico con chip ELM327 instalado en el vehículo que exporta datos a tu celular sobre el estado técnico del automóvil, comportamiento de conducción y hábitos de uso.
 + **Aplicación móvil con dashboard de fácil acceso:** Una interfaz intuitiva que muestre en tiempo real el estado del vehículo, las alertas de mantenimiento y recomendaciones personalizadas para mejorar los hábitos de conducción.
 + **Alertas de mantenimiento preventivo:** Notificaciones proactivas cuando se detectan comportamientos de conducción ineficientes o cuando se acerca el momento de realizar un mantenimiento preventivo.
-+ **Recomendaciones personalizadas basadas en IA:** Sugerencias inteligentes sobre cómo mejorar la conducción, realizar el mantenimiento o ajustar los hábitos para maximizar la vida útil del vehículo.
++ **Asistente de conducción inteligente:** Sugerencias inteligentes sobre cómo mejorar la conducción, realizar el mantenimiento o ajustar los hábitos para maximizar la vida útil del vehículo.
 + **Informes detallados sobre el rendimiento del vehículo:** Resúmenes periódicos que proporcionen a los usuarios una visión completa de cómo están cuidando su vehículo y qué acciones se deben tomar a continuación.
   
 #### Lean UX Hypothesis Statements
 - _Creemos que los propietarios de vehículos están dispuestos a pagar una suscripción mensual para tener acceso a una aplicación que les permita monitorear y mejorar el estado de su vehículo._
-   - Sabremos que nuestra hipótesis es correcta cuando veamos un aumento significativo en la cantidad de usuarios que se suscriben a la aplicación y pagan la suscripción mensual.
+   - Sabremos que nuestra hipótesis es correcta cuando veamos un aumento significativo del 25% en la cantidad de usuarios que se suscriben a la aplicación y pagan la suscripción mensual.
 
 - _Creemos que existe un mercado creciente de propietarios de vehículos que buscan soluciones tecnológicas para mejorar la eficiencia y reducir los costos de mantenimiento de sus vehículos._
-   - Sabremos que nuestra hipótesis es correcta cuando recibamos comentarios positivos de los usuarios sobre la utilidad y eficacia de la aplicación.
+   - Sabremos que nuestra hipótesis es correcta cuando recibamos un aumento del 40% de comentarios positivos de los usuarios sobre la utilidad y eficacia de la aplicación.
 
-- _Creemos que la aplicación DriveCare puede proporcionar información y recomendaciones precisas para mejorar el estado de los vehículos y reducir los costos de mantenimiento._
-   - Sabremos que nuestra hipótesis es correcta cuando veamos una reducción significativa en los costos de mantenimiento y reparación de los vehículos de los usuarios que utilizan la aplicación.
+- _Creemos que la aplicación Vehix puede proporcionar información y recomendaciones precisas para mejorar el estado de los vehículos y reducir los costos de mantenimiento._
+   - Sabremos que nuestra hipótesis es correcta cuando veamos una reducción del 15% a más en los costos de mantenimiento y reparación de los vehículos de los usuarios a través de encuestas por medio de la app.
 
-- _Creemos que la aplicación DriveCare puede proporcionar una experiencia de usuario personalizada y adaptada a las necesidades individuales de cada propietario de vehículo._
-   - Sabremos que nuestra hipótesis es correcta cuando recojamos comentarios  positivos de los usuarios sobre la personalización y la adaptabilidad de la aplicación.
+- _Creemos que la aplicación Vehix puede proporcionar una experiencia de usuario personalizada y adaptada a las necesidades individuales de cada propietario de vehículo._
+   - Sabremos que nuestra hipótesis es correcta cuando veamos un aumento del 25% de comentarios positivos de los usuarios sobre la personalización y la adaptabilidad de la aplicación.
 
-- _Creemos que la aplicación DriveCare puede ayudar a los propietarios de vehículos a tomar decisiones informadas sobre el mantenimiento y la reparación de sus vehículos._
-   - Sabremos que nuestra hipótesis es correcta cuando veamos un aumento en la cantidad de decisiones informadas tomadas por los propietarios de vehículos sobre el mantenimiento y la reparación de sus vehículos.
+- _Creemos que la aplicación Vehix puede ayudar a los propietarios de vehículos a tomar decisiones informadas sobre el mantenimiento y la reparación de sus vehículos._
+   - Sabremos que nuestra hipótesis es correcta cuando veamos un aumento del 20% en la cantidad de decisiones informadas tomadas por los propietarios de vehículos sobre el mantenimiento y la reparación de sus vehículos.
 
 #### Lean UX Canvas
 ![image](https://github.com/user-attachments/assets/453b72ad-a6a5-44a6-811b-a02b2bb4bed7)
