@@ -231,7 +231,7 @@ Vehix adopta un enfoque centrado en el conductor, buscando entender sus necesida
 
 | **Misión** | **Visión** |
 |-----------|------------|
-| Brindar a los conductores y empresas una solución inteligente y accesible para el monitoreo, diagnóstico y cuidado preventivo de sus vehículos, utilizando tecnología de sensores conectados y análisis de datos en tiempo real, con el fin de prolongar la vida útil de los automóviles y reducir los costos por fallas mecánicas. | Ser la plataforma líder en el Perú en soluciones tecnológicas para el mantenimiento predictivo vehicular, transformando la forma en que las personas cuidan sus vehículos y fomentando una cultura de conducción responsable, eficiente y sostenible. |
+| Brindar a los conductores y empresas una solución inteligente y accesible para el monitoreo, diagnóstico y cuidado preventivo de sus vehículos, utilizando adapatadores de diganóstico conectados y análisis de datos en tiempo real, con el fin de prolongar la vida útil de los automóviles y reducir los costos por fallas mecánicas. | Ser la plataforma líder en el Perú en soluciones tecnológicas para el mantenimiento predictivo vehicular, transformando la forma en que las personas cuidan sus vehículos y fomentando una cultura de conducción responsable, eficiente y sostenible. |
 
 ### Perfiles de integrantes del equipo
 |  |   Descripción   |
@@ -251,7 +251,7 @@ El desafío surge ya que muchos propietarios de vehículos enfrentan fallas mec�
 
   **Objetivo**
   
-Con el objetivo de brindar una solución efectiva, surge Vehix, una innovadora aplicación que, en conjunto con un sensor instalado en el vehículo, analiza constantemente datos como el comportamiento del conductor, el estado técnico del auto y las tendencias de uso. Mediante inteligencia artificial, la plataforma identifica malas prácticas, recomienda acciones correctivas y anticipa posibles fallos, permitiendo una intervención temprana antes de que surjan problemas mayores.
+Con el objetivo de brindar una solución efectiva, surge Vehix, una innovadora aplicación que, en conjunto con un adaptador diagnóstico instalado en el vehículo, analiza constantemente datos como el comportamiento del conductor, el estado técnico del auto y las tendencias de uso. Mediante inteligencia artificial, la plataforma identifica malas prácticas, recomienda acciones correctivas y anticipa posibles fallos, permitiendo una intervención temprana antes de que surjan problemas mayores.
 
 **Monetización**
 
@@ -265,11 +265,11 @@ En la actualidad, los vehículos particulares y comerciales representan una part
 
 (AAP 2023: https://aap.org.pe/estadisticas/informe-estadistico-automotor/iea-2023/)
 
-Según la Asociación de Exportadores (ADEX) informó que el 15% del presupuesto operativo de muchas empresas con flotas vehiculares se destina exclusivamente al mantenimiento y reparación. Además, el Instituto Nacional de Estadística e Informática (INEI) estima que existen más de 10,000 empresas formales en Perú que dependen de flotas vehiculares para sus operaciones diarias. Esto demuestra una necesidad latente de soluciones tecnológicas que faciliten el monitoreo y cuidado del estado mecánico de los vehículos.
+Según la Asociación de Exportadores (ADEX) informó que el 15% del presupuesto operativo de muchas empresas con flotas vehiculares se destina exclusivamente al mantenimiento y reparación. Además, el Instituto Nacional de Estadística e Informática (INEI) estima que existen más de 10,000 empresas formales en Perú que dependen de flotas vehiculares para sus operaciones diarias. Esto demuestra una necesidad de soluciones tecnológicas que faciliten el monitoreo y cuidado del estado mecánico de los vehículos.
 
 A pesar de los avances en tecnología automotriz, la mayoría de conductores aún no cuentan con una herramienta que les proporcione en tiempo real el estado de su auto, los hábitos de conducción inadecuados que podrían afectar su vehículo, o predicciones sobre fallas futuras basadas en patrones de uso. Esta falta de visibilidad, combinada con la falta de cultura preventiva, conlleva a reparaciones tardías y costosas.
 
-Vehix surge como una respuesta innovadora a este contexto, ofreciendo una solución tecnológica mediante la instalación de un sensor conectado por Bluetooth al celular del usuario. Esta herramienta permite recolectar y analizar los datos de distintos componentes del vehículo, ofreciendo diagnósticos, alertas de mantenimiento y recomendaciones personalizadas, todo desde una aplicación móvil.
+Vehix surge como una respuesta innovadora a este contexto, ofreciendo una solución tecnológica mediante la instalación de un adaptador diagnóstico instalado en el vehiculo conectado por Bluetooth al celular del usuario. Esta herramienta permite recolectar y analizar los datos de distintos componentes del vehículo, ofreciendo diagnósticos, alertas de mantenimiento y recomendaciones personalizadas, todo desde una aplicación móvil.
 
 
 ### 1. What / ¿Qué?
@@ -305,7 +305,7 @@ Ante esta situación, surge nuestra pregunta de negocio:
 **Business Assumptions**
 + Se asume que los usuarios estarán dispuestos a pagar por una suscripción mensual para un servicio que les ofrezca monitoreo continuo y recomendaciones personalizadas.
 + Se asume que el pago recurrente de los usuarios permitirá generar ingresos estables para el negocio y hacer rentable el servicio a largo plazo.
-+ Se asume que, dado el aumento de la adopción tecnológica, los conductores están dispuestos a integrar sensores y apps en sus vehículos para mejorar la experiencia de conducción y optimizar el mantenimiento.
++ Se asume que, dado el aumento de la adopción tecnológica, los conductores están dispuestos a integrar un adaptador de diagnóstico (ELM327) y apps en sus vehículos para mejorar la experiencia de conducción y optimizar el mantenimiento.
 + Se asume que los usuarios valoran la simplicidad y conveniencia en la integración de tecnología con sus vehículos.
 
 **Business Outcomes**
@@ -325,7 +325,7 @@ Ante esta situación, surge nuestra pregunta de negocio:
 + Los usuarios tendrán acceso a datos confiables sobre el estado de su automóvil, lo que les permitirá sentirse más seguros al conducir y menos preocupados por posibles fallos inesperados.
 
 **Features**
-+ **Sensor de monitoreo de vehículos:** Un dispositivo instalado en el vehículo que recoja datos sobre el estado técnico del automóvil, comportamiento de conducción y hábitos de uso.
++ **Apdatador diagnóstico para vehículos:** Un adapatador diagnóstico con chip ELM327 instalado en el vehículo que exporta datos a tu celular sobre el estado técnico del automóvil, comportamiento de conducción y hábitos de uso.
 + **Aplicación móvil con dashboard de fácil acceso:** Una interfaz intuitiva que muestre en tiempo real el estado del vehículo, las alertas de mantenimiento y recomendaciones personalizadas para mejorar los hábitos de conducción.
 + **Alertas de mantenimiento preventivo:** Notificaciones proactivas cuando se detectan comportamientos de conducción ineficientes o cuando se acerca el momento de realizar un mantenimiento preventivo.
 + **Recomendaciones personalizadas basadas en IA:** Sugerencias inteligentes sobre cómo mejorar la conducción, realizar el mantenimiento o ajustar los hábitos para maximizar la vida útil del vehículo.
@@ -414,7 +414,7 @@ Para posicionarse de manera efectiva en el mercado y destacar frente a competido
 
 #### Afrontando las debilidades de nuestros competidores
 + **Estrategia:**
-  Ofrecer una solución que combine monitoreo en tiempo real con funciones educativas y predicción preventiva, destacando nuestro sensor inteligente y app ligera como ventaja competitiva.
+  Ofrecer una solución que combine monitoreo en tiempo real con funciones educativas y predicción preventiva, destacando nuestro adaptatador diagnóstico y app ligera como ventaja competitiva.
 + **Tácticas:**
   + Implementar funciones de aprendizaje automático para analizar hábitos de conducción.
   + Desarrollar contenido educativo accesible (videos, consejos) dentro de la app.
@@ -451,7 +451,7 @@ Después de un análisis, se realizaron las siguientes preguntas para entrevista
 
 ¿Qué tipo de información o alertas crees que serían útiles para ayudarte a evitar problemas mecánicos mientras trabajas?
 
-¿Qué opinas de una app que, conectada a un sensor en tu auto, te diga cómo manejar mejor y cuándo hacer mantenimiento para evitar fallas?
+¿Qué opinas de una app que, conectada a un adaptador diagnóstico en tu auto, te diga cómo manejar mejor y cuándo hacer mantenimiento para evitar fallas?
 
 ¿Qué características tendría que tener una app como esta para que realmente te ayude en tu día a día como conductor?
 
