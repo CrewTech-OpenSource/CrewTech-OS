@@ -7,7 +7,7 @@
 ### Profesor: Angel Augusto Velasquez Nuñez
 ### "Informe de Trabajo Final"
 ### Startup: CrewTech
-### Nombre del producto: DriveCare
+### Nombre del producto: Vehix
 | Estudiante |   Código   |
 |------------|------------|
 | Baca Camargo, Vitaly Arturo    |   u20231c426    |
@@ -445,11 +445,11 @@ Debe ser intuitivo, claro y rápido. Asimismo, la app debe ofrecer información 
   <thead>
             <tr>
                 <th colspan="2">¿Por qué llevar a cabo este análisis?</th>
-                <th colspan="4">Realizar este análisis competitivo es fundamental para el desarrollo exitoso de DriveCare, ya que nos permite entender el entorno en el que queremos posicionarnos. Al estudiar a competidores como FIXD, CarMD y Drivvo, identificamos qué necesidades del usuario ya están siendo cubiertas y, más importante aún, cuáles siguen desatendidas. Este análisis revela que, a diferencia de otros productos, DriveCare no solo detecta fallas, sino que previene problemas antes de que ocurran, educa al conductor y mejora sus hábitos a través de inteligencia artificial. Conocer las fortalezas y debilidades de los competidores nos permite refinar nuestra propuesta de valor, ajustar nuestras estrategias de precios y marketing, y diseñar un producto que realmente se destaque por su tecnología, simplicidad y enfoque preventivo.</th>
+                <th colspan="4">Realizar este análisis competitivo es fundamental para el desarrollo exitoso de Vehix, ya que nos permite entender el entorno en el que queremos posicionarnos. Al estudiar a competidores como FIXD, CarMD y Drivvo, identificamos qué necesidades del usuario ya están siendo cubiertas y, más importante aún, cuáles siguen desatendidas. Este análisis revela que, a diferencia de otros productos, Vehix no solo detecta fallas, sino que previene problemas antes de que ocurran, educa al conductor y mejora sus hábitos a través de inteligencia artificial. Conocer las fortalezas y debilidades de los competidores nos permite refinar nuestra propuesta de valor, ajustar nuestras estrategias de precios y marketing, y diseñar un producto que realmente se destaque por su tecnología, simplicidad y enfoque preventivo.</th>
             </tr>
             <tr>
                 <th colspan="2">(En la cabecera colocar por cada competidor nombre y logo)</th>
-                <th>DriveCare</th>
+                <th>Vehix</th>
                 <th>FIXD</th>
                 <th>CarMD</th>
                 <th>Drivvo </th>
@@ -460,9 +460,9 @@ Debe ser intuitivo, claro y rápido. Asimismo, la app debe ofrecer información 
                 <th rowspan="2">Perfil</th>
                 <td>Overview</td>
                 <td class="Overview">
-                    DriveCare es una aplicación innovadora que busca transformar la manera en que los conductores cuidan sus vehículos. <br>
+                    Vehix es una aplicación innovadora que busca transformar la manera en que los conductores cuidan sus vehículos. <br>
                     Combina un sensor instalado en el auto con una app inteligente que analiza datos en tiempo real sobre el estado técnico del vehículo, el comportamiento del conductor y los patrones de uso. <br>
-                    A través de inteligencia artificial, DriveCare ofrece recomendaciones personalizadas para mejorar los hábitos de conducción, prevenir fallas mecánicas y optimizar el mantenimiento. <br>
+                    A través de inteligencia artificial, Vehix ofrece recomendaciones personalizadas para mejorar los hábitos de conducción, prevenir fallas mecánicas y optimizar el mantenimiento. <br>
                     Su enfoque está en la prevención y la educación del usuario: no solo detecta problemas, sino que ayuda a evitarlos mediante alertas proactivas y consejos claros. <br>
                     Funciona bajo un modelo de suscripción mensual que da acceso completo a todas sus funciones mientras esté activa. <br>
                     Está pensado para personas con poco conocimiento técnico, que valoran la simplicidad, la seguridad y el ahorro a largo plazo en el cuidado de su auto.
@@ -478,7 +478,7 @@ Debe ser intuitivo, claro y rápido. Asimismo, la app debe ofrecer información 
                     Utiliza un lector OBD-II que se conecta al auto para detectar códigos de error relacionados con el motor. <br>
                     Luego, los datos se pueden consultar en línea o mediante una app, donde CarMD ofrece explicaciones del problema, posibles soluciones y estimaciones de costos de reparación según talleres en EE. UU. <br>
                     Su enfoque principal está en el diagnóstico y comparación de precios de reparación, no en el monitoreo continuo ni en la mejora de hábitos de conducción. 
-                    Tampoco emplea inteligencia artificial ni análisis predictivo como DriveCare. <br>
+                    Tampoco emplea inteligencia artificial ni análisis predictivo como Vehix. <br>
                     Es útil para saber qué significa una luz de “check engine” y cuánto podría costar repararla, pero no ofrece una experiencia integral ni recomendaciones personalizadas para evitar fallas futuras.
                 </td>
                 <td class="Overview">Drivvo es una aplicación móvil orientada al control financiero y de mantenimiento 
@@ -854,7 +854,7 @@ Debe ser intuitivo, claro y rápido. Asimismo, la app debe ofrecer información 
 **Análisis Foda**
 ![foda](/Assets/img/foda.png)
 
-Para posicionarse de manera efectiva en el mercado y destacar frente a competidores como FIXD, CarMD y Drivvo, DriveCare aplicará las siguientes estrategias y tácticas preliminares orientadas a afrontar las fortalezas de la competencia, actuar en función de las oportunidades, aprovechar sus debilidades y amenazas del entorno competitivo:
+Para posicionarse de manera efectiva en el mercado y destacar frente a competidores como FIXD, CarMD y Drivvo, Vehix aplicará las siguientes estrategias y tácticas preliminares orientadas a afrontar las fortalezas de la competencia, actuar en función de las oportunidades, aprovechar sus debilidades y amenazas del entorno competitivo:
 #### Afrontando las fortalezas de nuestros competidores 
 + **Estrategia:**
   Aprovechar que muchas apps no tienen monitoreo en tiempo real, ni educación preventiva, para posicionarnos como un asistente integral y proactivo en el cuidado vehicular.
@@ -875,7 +875,7 @@ Para posicionarse de manera efectiva en el mercado y destacar frente a competido
   Atraer usuarios potenciales que buscan más que un simple diagnóstico, mediante una propuesta de valor basada en educación, predicción y experiencia personalizada.
 + **Tácticas:**
   + Establecer alianzas con talleres mecánicos, aseguradoras y concesionarios.
-  + Publicitar en redes sociales destacando las funciones únicas de DriveCare.
+  + Publicitar en redes sociales destacando las funciones únicas de Vehix.
 
 #### Afrontando las amenazas de nuestros competidores
 + **Estrategia:**
