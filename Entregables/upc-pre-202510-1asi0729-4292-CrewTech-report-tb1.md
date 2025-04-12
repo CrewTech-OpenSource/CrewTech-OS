@@ -946,7 +946,38 @@ Después de un análisis, se realizaron las siguientes preguntas para entrevista
 ¿Cuál sería el beneficio más importante que te motivaría a pagar por una suscripción mensual para este tipo de servicio?
 
 ### Registro de entrevistas
-lorem
+#### Segmento 1: Propietarios de vehículos urbanos (uso personal)
+
+[video]
+
+Datos demográficos:
+- Nombre: Darlyn Rios Piñan
+- Edad: 29
+- Ocupación: Ingeniera de Sistemas
+- Lugar de residencia: Villa el Salvador
+
+Darlyn utiliza su auto diariamente para desplazarse y hacer diligencias, pero no lleva un control preciso del mantenimiento, reaccionando solo cuando nota fallas evidentes. Ha tenido experiencias negativas por no anticiparse a problemas, como una reparación costosa del motor. Se muestra interesado en una solución que le brinde alertas y consejos prácticos desde el celular, y está dispuesto a pagar una suscripción mensual razonable si eso le ayuda a evitar gastos imprevistos y cuidar mejor su vehículo.
+
+[Video]
+- Nombre: Rocio Piñan Saavedra
+- Edad: 49
+- Ocupación: Trabajadora independiente
+- Lugar de residencia: Villa el Salvador
+
+
+Rocío emplea su auto principalmente para ir al trabajo y actividades personales. Aunque realiza mantenimientos periódicos, lo hace sin un sistema de seguimiento claro, lo que ya le ha causado reparaciones costosas. No tiene experiencia usando apps relacionadas a vehículos, pero se siente cómoda con la tecnología móvil y muestra interés en una aplicación que le dé tranquilidad, alertas preventivas y consejos sobre su forma de conducir. Está abierta a pagar por el servicio, siempre que sea accesible y útil para su día a día.
+
+
+### Segmento 3: Responsables de mantenimiento de flotas (uso empresarial)
+
+
+[Video]
+- Nombre: Luis Villalba Cerna
+- Edad: 30
+- Ocupación: Jefe de Logística
+- Lugar de residencia: Salamanca
+
+Luis Villalba, jefe de logística en Lima, gestiona 6 camionetas para transporte en obras y enfrenta problemas frecuentes por falta de control en el mantenimiento y el comportamiento de los conductores. Usa hojas de cálculo y WhatsApp, lo que genera fallas no reportadas a tiempo, retrasos y pérdidas económicas. No cuenta con monitoreo en tiempo real ni capacitación formal, pero está abierto a usar herramientas digitales si son intuitivas. Valora alertas preventivas, reportes de consumo y hábitos de conducción, y estaría dispuesto a pagar por una solución como Vehix que le ayude a reducir tiempos muertos y costos.
 
 ### Análisis de entrevistas
 lorem
