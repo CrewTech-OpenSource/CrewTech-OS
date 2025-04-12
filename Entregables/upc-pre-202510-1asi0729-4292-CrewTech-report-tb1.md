@@ -350,6 +350,15 @@ Ante esta situación, surge nuestra pregunta de negocio:
 + **Alertas de mantenimiento preventivo:** Notificaciones proactivas cuando se detectan comportamientos de conducción ineficientes o cuando se acerca el momento de realizar un mantenimiento preventivo.
 + **Asistente de conducción inteligente:** Sugerencias inteligentes sobre cómo mejorar la conducción, realizar el mantenimiento o ajustar los hábitos para maximizar la vida útil del vehículo.
 + **Informes detallados sobre el rendimiento del vehículo:** Resúmenes periódicos que proporcionen a los usuarios una visión completa de cómo están cuidando su vehículo y qué acciones se deben tomar a continuación.
+
+**User Benefits**
++ Monitoreo inteligente y continuo del estado técnico del vehículo.
++ Detección temprana de fallos y alertas preventivas para evitar averías.
++ Mayor control sobre el estado del vehículo y los hábitos de conducción.
++ Recomendaciones personalizadas para el mantenimiento preventivo.
++ Ahorro en gastos de reparación gracias a intervenciones anticipadas.
++ Acceso constante a diagnósticos, alertas y reportes desde el celular.
++ Facilidad de uso sin necesidad de conocimientos mecánicos.
   
 #### Lean UX Hypothesis Statements
 - _Creemos que los propietarios de vehículos están dispuestos a pagar una suscripción mensual para tener acceso a una aplicación que les permita monitorear y mejorar el estado de su vehículo._
