@@ -543,37 +543,37 @@ Debe ser intuitivo, claro y rápido. Asimismo, la app debe ofrecer información 
                 <td>Estrategias de marketing</td>
                 <td>
                     <div>
-                        <ul><li> 📱  Enfocarse en redes sociales y contenido educativo (hábitos de conducción, tips de mantenimiento).</li></ul>
-                        <ul><li> 🎯 Campañas dirigidas a usuarios con poco conocimiento técnico. </li></ul>
-                        <ul><li> 🤖 Diferenciarse por el uso de IA y prevención, no solo diagnóstico.</li></ul>
-                        <ul><li> 🎥 Uso de videos explicativos y testimonios reales sobre ahorro y prevención.</li></ul>
-                        <ul><li> 📦 Ofrecer pruebas gratuitas o descuentos por suscripción para captar usuarios.</li></ul>
-                        <ul><li> 🌐 Posicionamiento como herramienta de seguridad y ahorro a largo plazo.</li></ul>
+                        <ul><li> Enfocarse en redes sociales y contenido educativo (hábitos de conducción, tips de mantenimiento).</li></ul>
+                        <ul><li> Campañas dirigidas a usuarios con poco conocimiento técnico. </li></ul>
+                        <ul><li> Diferenciarse por el uso de IA y prevención, no solo diagnóstico.</li></ul>
+                        <ul><li> Uso de videos explicativos y testimonios reales sobre ahorro y prevención.</li></ul>
+                        <ul><li> Ofrecer pruebas gratuitas o descuentos por suscripción para captar usuarios.</li></ul>
+                        <ul><li> Posicionamiento como herramienta de seguridad y ahorro a largo plazo.</li></ul>
                     </div>
                 </td>
                 <td>
                     <div>
-                        <ul><li> 📦 Venta directa en línea con fuerte presencia en Amazon y sitio web.</li></ul>
-                        <ul><li> 🎥 Anuncios en redes sociale como Instagram, Facebook, Youtube, Twiter y Tik Tok.</li></ul>
-                        <ul><li> ⭐ Reseñas y testimonios de usuarios como prueba social </li></ul>
-                        <ul><li> 💳 Enfoque en eliminar la incertidumbre de la luz de “check engine”</li></ul>
+                        <ul><li> Venta directa en línea con fuerte presencia en Amazon y sitio web.</li></ul>
+                        <ul><li> Anuncios en redes sociale como Instagram, Facebook, Youtube, Twiter y Tik Tok.</li></ul>
+                        <ul><li> Reseñas y testimonios de usuarios como prueba social </li></ul>
+                        <ul><li> Enfoque en eliminar la incertidumbre de la luz de “check engine”</li></ul>
                     </div>
                 </td>
                 <td>
                     <div>
-                        <ul><li> 🔍 Marketing centrado en confianza y comparación de precios de reparación. </li></ul>
-                        <ul><li> 💻 Venta en tiendas en línea (Amazon, Walmart) y en su sitio web. </li></ul>
-                        <ul><li> 🧾 Enfoque en compradores de autos usados (revisar antes de comprar). </li></ul>
-                        <ul><li> 👨‍🔧 Posicionamiento como herramienta para decisiones informadas antes de ir al mecánico.</li> </ul>
+                        <ul><li> Marketing centrado en confianza y comparación de precios de reparación. </li></ul>
+                        <ul><li> Venta en tiendas en línea (Amazon, Walmart) y en su sitio web. </li></ul>
+                        <ul><li> Enfoque en compradores de autos usados (revisar antes de comprar). </li></ul>
+                        <ul><li> Posicionamiento como herramienta para decisiones informadas antes de ir al mecánico.</li> </ul>
                     </div>
                 </td>
                 <td>
                     <div>
-                        <ul><li> 📲 Posicionamiento en tiendas de apps (Google Play, App Store) como app de control de gastos. </li></ul>
-                        <ul><li> 🆓 Versión gratuita con opción premium. </li></ul>
-                        <ul><li> 📊 Marketing dirigido a usuarios organizados y detallistas. </li></ul>
-                        <ul><li> 💬 Enfoque en testimonios y recomendaciones. </li></ul>
-                        <ul><li> 📈 Apela al control personal y ahorro a través de datos propios. </li></ul>
+                        <ul><li> Posicionamiento en tiendas de apps (Google Play, App Store) como app de control de gastos. </li></ul>
+                        <ul><li> Versión gratuita con opción premium. </li></ul>
+                        <ul><li> Marketing dirigido a usuarios organizados y detallistas. </li></ul>
+                        <ul><li> Enfoque en testimonios y recomendaciones. </li></ul>
+                        <ul><li> Apela al control personal y ahorro a través de datos propios. </li></ul>
                     </div>
                 </td>
             </tr>
@@ -695,30 +695,30 @@ Debe ser intuitivo, claro y rápido. Asimismo, la app debe ofrecer información 
                 <td>Canales de <br> distribución <br> (Web y/o Móvil)</td>
                 <td>
                     <div>
-                        <ul><li> 🌐 Web: Página oficial para información, registro y soporte. </li></ul>
-                        <ul><li> 📱 Móvil: Aplicación descargable (iOS y Android) para usar todas las funciones.</li></ul>
-                        <ul><li> 🛒 Venta del sensor: a través de sitio web y plataformas como Amazon o tiendas asociadas.</li></ul>
+                        <ul><li> Web: Página oficial para información, registro y soporte. </li></ul>
+                        <ul><li> Móvil: Aplicación descargable (iOS y Android) para usar todas las funciones.</li></ul>
+                        <ul><li> Venta del sensor: a través de sitio web y plataformas como Amazon o tiendas asociadas.</li></ul>
                     </div>
                 </td>
                 <td>
                     <div>
-                        <ul><li> 🌐 Web: Sitio oficial para comprar el sensor, ver tutoriales y administrar la cuenta.</li></ul>
-                        <ul><li> 📱 Móvil: App para Android e iOS donde se usan las funciones principales.</li></ul>
-                        <ul><li> 🛒 Distribución: Venta en línea (FIXD.com, Amazon) </li></ul>
+                        <ul><li> Web: Sitio oficial para comprar el sensor, ver tutoriales y administrar la cuenta.</li></ul>
+                        <ul><li> Móvil: App para Android e iOS donde se usan las funciones principales.</li></ul>
+                        <ul><li> Distribución: Venta en línea (FIXD.com, Amazon) </li></ul>
                     </div>
                 </td>
                 <td>
                     <div>
-                        <ul><li> 🌐 Web: Plataforma para cargar datos del lector, recibir informes y ver historial.</li></ul>
-                        <ul><li> 📱 Móvil: No tiene app oficial dedicada, funciona principalmente desde la web.</li></ul>
-                        <ul><li> 🛒 Distribución: Compra directa en línea (Amazon, Walmart, sitio propio).</li></ul>
+                        <ul><li> Web: Plataforma para cargar datos del lector, recibir informes y ver historial.</li></ul>
+                        <ul><li> Móvil: No tiene app oficial dedicada, funciona principalmente desde la web.</li></ul>
+                        <ul><li> Distribución: Compra directa en línea (Amazon, Walmart, sitio propio).</li></ul>
                     </div>
                 </td>
                 <td>
                     <div>
-                        <ul><li>  🌐 Web: Solo para soporte e información básica.</li></ul>
-                        <ul><li>  📱 Móvil: Aplicación principal en Android e iOS (es su canal clave).</li></ul>
-                        <ul><li>  🛒 Distribución: App Stores (Google Play, App Store).</li></ul>
+                        <ul><li>  Web: Solo para soporte e información básica.</li></ul>
+                        <ul><li>  Móvil: Aplicación principal en Android e iOS (es su canal clave).</li></ul>
+                        <ul><li>  Distribución: App Stores (Google Play, App Store).</li></ul>
                     </div>
                 </td>
             </tr>
@@ -921,7 +921,15 @@ lorem
 lorem
 
 ### User Journey Mapping
-lorem
+**Segmento 1:** Propietarios de vehículos urbanos que desean prolongar la vida útil de su auto personal.
+![image](https://github.com/user-attachments/assets/5a284b53-14d8-4704-8706-15c8aecf4cd4)
+
+**Segmento 2:**  Conductores independientes que generan ingresos con su vehículo (Uber, InDriver, taxi, delivery).
+![image](https://github.com/user-attachments/assets/0f7d15de-9820-48e4-8af4-1971b1f11a01)
+
+
+**Segmento 3:** Responsables de mantenimiento de empresas que gestionan flotas de vehículos
+![image](https://github.com/user-attachments/assets/6dde60d8-e3aa-4c38-b6a7-f29ffbb846dd)
 
 ### Empathy Mapping
 lorem
