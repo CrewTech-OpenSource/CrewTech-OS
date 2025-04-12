@@ -947,15 +947,16 @@ lorem
 
 ### As-is Scenario Mapping
 **Segmento 1:** Propietarios de vehículos urbanos que desean prolongar la vida útil de su auto personal.
-![image](https://github.com/user-attachments/assets/64db486d-dca0-46e7-9dcf-bd591ca7ed39)
+![AS-IS-S1](https://github.com/user-attachments/assets/c58f591d-ca29-49b1-a592-5495dad8a9e7)
 
 
 **Segmento 2:**  Conductores independientes que generan ingresos con su vehículo (Uber, InDriver, taxi, delivery).
-![image](https://github.com/user-attachments/assets/a55279d5-fe09-4041-a523-6257e7e56649)
+![AS-IS-S2](https://github.com/user-attachments/assets/1e5feed4-484d-4048-9903-03944cea525e)
 
 
 **Segmento 3:** Responsables de mantenimiento de empresas que gestionan flotas de vehículos.
-![image](https://github.com/user-attachments/assets/44436911-8314-4db8-a7dc-76f0e1761f8f)
+![AS-IS-S3](https://github.com/user-attachments/assets/52d844d1-99df-4d29-92cf-f71aacf80f9e)
+
 
 ## Ubiquitous Language
 lorem
