@@ -928,14 +928,30 @@ lorem
 ![image](https://github.com/user-attachments/assets/0f7d15de-9820-48e4-8af4-1971b1f11a01)
 
 
-**Segmento 3:** Responsables de mantenimiento de empresas que gestionan flotas de vehículos
+**Segmento 3:** Responsables de mantenimiento de empresas que gestionan flotas de vehículos.
 ![image](https://github.com/user-attachments/assets/6dde60d8-e3aa-4c38-b6a7-f29ffbb846dd)
 
 ### Empathy Mapping
-lorem
+**Segmento 1:** Propietarios de vehículos urbanos que desean prolongar la vida útil de su auto personal.
+
+
+**Segmento 2:**  Conductores independientes que generan ingresos con su vehículo (Uber, InDriver, taxi, delivery).
+
+
+**Segmento 3:** Responsables de mantenimiento de empresas que gestionan flotas de vehículos.
+
 
 ### As-is Scenario Mapping
-lorem
+**Segmento 1:** Propietarios de vehículos urbanos que desean prolongar la vida útil de su auto personal.
+![image](https://github.com/user-attachments/assets/64db486d-dca0-46e7-9dcf-bd591ca7ed39)
+
+
+**Segmento 2:**  Conductores independientes que generan ingresos con su vehículo (Uber, InDriver, taxi, delivery).
+![image](https://github.com/user-attachments/assets/a55279d5-fe09-4041-a523-6257e7e56649)
+
+
+**Segmento 3:** Responsables de mantenimiento de empresas que gestionan flotas de vehículos.
+![image](https://github.com/user-attachments/assets/44436911-8314-4db8-a7dc-76f0e1761f8f)
 
 ## Ubiquitous Language
 lorem
