@@ -433,7 +433,7 @@ Debe ser intuitivo, claro y rápido. Asimismo, la app debe ofrecer información 
 
  
 **3. Responsables de mantenimiento de empresas que gestionan flotas de vehículos:** Este segmento busca soluciones eficientes para monitorear múltiples vehículos al mismo tiempo, reducir gastos innecesarios y asegurar que su flota se mantenga activa y rentable con el menor costo posible.
- - Edad: 30 a 60 años
+ - Edad: 25 a 60 años
  - Ocupación: Jefes o encargados de logística, operaciones o transporte.
  - Tipo de empresa: Distribución, transporte o mantenimiento técnico.
  - País: Perú.
