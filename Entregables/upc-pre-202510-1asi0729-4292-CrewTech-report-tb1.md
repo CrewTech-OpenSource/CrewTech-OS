@@ -933,12 +933,15 @@ lorem
 
 ### Empathy Mapping
 **Segmento 1:** Propietarios de vehículos urbanos que desean prolongar la vida útil de su auto personal.
+![Segmento 1](https://github.com/user-attachments/assets/2fd9cc80-5f2e-49fc-ae91-a7373042ace2)
 
 
 **Segmento 2:**  Conductores independientes que generan ingresos con su vehículo (Uber, InDriver, taxi, delivery).
+![2](https://github.com/user-attachments/assets/fd26d981-2192-46be-b3ef-ac5b3b0ddaac)
 
 
 **Segmento 3:** Responsables de mantenimiento de empresas que gestionan flotas de vehículos.
+![3](https://github.com/user-attachments/assets/805200bf-c581-446d-b3f1-576a40891697)
 
 
 ### As-is Scenario Mapping
