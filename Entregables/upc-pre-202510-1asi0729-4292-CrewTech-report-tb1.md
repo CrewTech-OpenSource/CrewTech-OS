@@ -1043,7 +1043,64 @@ lorem
 Contenido aquí...
 
 ## User Stories
-Contenido aquí...
+<table>
+	<tbody>
+		<tr>
+			<td><strong>Epic ID</strong></td>
+			<td><strong>Título</strong></td>
+			<td><strong>Descripción</strong></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+	</tbody>
+</table>
+
+
+<table>
+	<tbody>
+		<tr>
+			<td><strong>Story ID</strong></td>
+			<td><strong>Título</strong></td>
+			<td><strong>Descripción</strong></td>
+			<td><strong>Criterios de aceptación</strong></td>
+      <td><strong>Relacionado con (EPIC ID)</strong></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+      <td></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+      <td></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+      <td></td>
+		</tr>
+	</tbody>
+</table>
 
 ## Impact Mapping
 Contenido aquí...
