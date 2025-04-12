@@ -925,9 +925,11 @@ lorem
 ![image](https://github.com/user-attachments/assets/5a284b53-14d8-4704-8706-15c8aecf4cd4)
 
 **Segmento 2:**  Conductores independientes que generan ingresos con su vehículo (Uber, InDriver, taxi, delivery).
+![image](https://github.com/user-attachments/assets/0f7d15de-9820-48e4-8af4-1971b1f11a01)
 
 
 **Segmento 3:** Responsables de mantenimiento de empresas que gestionan flotas de vehículos
+![image](https://github.com/user-attachments/assets/6dde60d8-e3aa-4c38-b6a7-f29ffbb846dd)
 
 
 ### Empathy Mapping
