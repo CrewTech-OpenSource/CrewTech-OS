@@ -331,7 +331,7 @@ Ante esta situación, surge nuestra pregunta de negocio:
 
 + Generaré ingresos a través de la app, por medio de las suscripciones mensuales que incluirá funcionalidades como informes detallados del vehículo, predicción de fallas basada en patrones. También se considerará a futuro la alianzas con talleres y servicios técnicos.
 
-+ Mi competencia principal serán otras apps de diagnóstico automotriz conectadas vía OBD-II, como Torque o Car Scanner, además de servicios técnicos tradicionales que no usan tecnología, y plataformas que ofrecen revisiones periódicas sin seguimiento digital.
++ Nuestra competencia principal son otras apps de diagnóstico automotriz conectadas vía OBD-II, como FIXD, CarMD y Drivvo, además de servicios técnicos tradicionales que no usan tecnología, y plataformas que ofrecen revisiones periódicas sin seguimiento digital.
 
 + Superaremos a la competencia ofreciendo una experiencia de usuario simple y conectada, con diseño amigable y asistencia, combinando monitoreo inteligente con funciones prácticas como historial y alertas predictivas.
 
@@ -930,7 +930,6 @@ lorem
 
 **Segmento 3:** Responsables de mantenimiento de empresas que gestionan flotas de vehículos
 ![image](https://github.com/user-attachments/assets/6dde60d8-e3aa-4c38-b6a7-f29ffbb846dd)
-
 
 ### Empathy Mapping
 lorem
