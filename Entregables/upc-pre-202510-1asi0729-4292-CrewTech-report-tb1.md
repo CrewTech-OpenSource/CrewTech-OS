@@ -463,8 +463,8 @@ Debe ser intuitivo, claro y rápido. Asimismo, la app debe ofrecer información 
    	- Aumentar la confianza del cliente y optimizar el tiempo de revisión.
   
   >[!IMPORTANT]
-  >- Cerca de la mitad de las empresas peruanas aumentarán su flota en los próximos 3 años (https://gestion.pe/economia/empresas/flotas-leasing-empresas-vehiculos-cerca-de-la-mitad-de-las-empresas-peruanas-aumentaran-su-flota-en-los-proximos-3-anos-noticia/)
-  >- Vehix puede ayudar a los mecánico de estas empresas a optimizar costos, reducir tiempos muertos por fallas y mejorar el control sobre el comportamiento de los conductores.
+  >- Cerca de la mitad de las empresas peruanas aumentarán su flota en los próximos 3 añoS. [https://gpautomocion.com/a-que-retos-se-enfrenta-el-taller-mecanico-en-2023/](https://gpautomocion.com/a-que-retos-se-enfrenta-el-taller-mecanico-en-2023/)
+  >- Vehix puede ayudar a los mecánico optimizar costos, reducir tiempos muertos por fallas y mejorar la precisión el diagnóstico y la comunicacion con el cliente.
 
 # CAPÍTULO 2
 ## Competidores
