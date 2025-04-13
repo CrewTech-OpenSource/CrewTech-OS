@@ -226,7 +226,7 @@ conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el l
 ## Startup Profile
 
 ### Descripción de la Startup
-Vehix es una aplicación innovadora diseñada para supervisar constantemente el estado de un vehículo, ayudando así a preservar y prolongar su vida útil. De modo que, muchos conductores enfrentan el problema frecuente del desconomiento de las condiciones reales de su vehículo. Esto suele llevar a descuidos en el mantenimiento y, eventualmente, a reparaciones costosas cuando los problemas ya se han agravado. **Por otro lado, (comunicación-diagnosticos-datos técnicos)**
+Vehix es una aplicación innovadora diseñada para supervisar constantemente el estado de un vehículo, ayudando así a preservar y prolongar su vida útil. De modo que, muchos conductores enfrentan el problema frecuente del desconomiento de las condiciones reales de su vehículo. Esto suele llevar a descuidos en el mantenimiento y, eventualmente, a reparaciones costosas cuando los problemas ya se han agravado. Por otro lado, Vehix facilita una comunicación clara y eficiente entre el conductor y el mecánico, traduciendo los datos técnicos del vehículo en información comprensible. Esto permite que ambos puedan entender con precisión el origen de las fallas, evitando malos entendidos y agilizando el proceso de diagnóstico y reparación.
 
 
 Vehix adopta un enfoque centrado en el conductor, buscando entender sus necesidades de mantenimiento y cuidado vehicular para ofrecer soluciones personalizadas que garanticen el óptimo rendimiento de sus vehículos. Su objetivo es transformar la relación entre los usuarios y sus automóviles, mediante el uso de tecnología inteligente y un compromiso constante con la excelencia funcional y técnica.
