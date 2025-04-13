@@ -1004,7 +1004,13 @@ lorem
 
 
 ### User Task Matrix
-lorem
+![1](https://github.com/user-attachments/assets/841f68f8-b7d2-47e9-a6ed-7ac1aa7756e8)
+
+![2](https://github.com/user-attachments/assets/68672099-b9b7-470b-8ac5-46f7662fb6a5)
+
+![3](https://github.com/user-attachments/assets/7e7ae4e8-aa91-4269-9de1-4f81ecbf10f9)
+
+
 
 ### User Journey Mapping
 **Segmento 1:** Propietarios de vehículos urbanos que desean prolongar la vida útil de su auto personal.
