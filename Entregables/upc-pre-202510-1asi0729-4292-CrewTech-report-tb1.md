@@ -229,7 +229,7 @@ conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el l
 Vehix es una aplicación innovadora diseñada para supervisar constantemente el estado de un vehículo, ayudando así a preservar y prolongar su vida útil. De modo que, muchos conductores enfrentan el problema frecuente del desconomiento de las condiciones reales de su vehículo. Esto suele llevar a descuidos en el mantenimiento y, eventualmente, a reparaciones costosas cuando los problemas ya se han agravado. **Por otro lado, (comunicación-diagnosticos-datos técnicos)**
 
 
-Vehix adopta un enfoque centrado en el conductor, buscando entender sus necesidades de mantenimiento y cuidado vehicular para ofrecer soluciones personalizadas que garanticen el óptimo rendimiento de sus vehículos. Su objetivo es transformar la relación entre los usuarios y sus automóviles, mediante el uso de tecnología inteligente y un compromiso constante con la excelencia funcional y técnica. **(mantenimiento-mecanicos)**
+Vehix adopta un enfoque centrado en el conductor, buscando entender sus necesidades de mantenimiento y cuidado vehicular para ofrecer soluciones personalizadas que garanticen el óptimo rendimiento de sus vehículos. Su objetivo es transformar la relación entre los usuarios y sus automóviles, mediante el uso de tecnología inteligente y un compromiso constante con la excelencia funcional y técnica.
 
 | **Misión** | **Visión** |
 |------------|------------|
@@ -280,7 +280,10 @@ Vehix surge como una respuesta innovadora a este contexto, ofreciendo una soluci
 El problema se presenta ya que muchas personas que utilizan autos tanto de forma personal como profesional desconocen las condiciones de sus vehículos.
 
 ### 2. When / ¿Cuándo?
-El problema aparece cuando el mantenimiento no se realiza en el tiempo recomendado por el fabricante, o se ignoran señales del deterioro del vehículo debido a una falta de monitoreo constante dado esto, “La no realización del mantenimiento preventivo en el momento oportuno, como al llegar a los 5,000 o 10,000 km, genera daños que se hubieran podido evitar” (Cutipa et al., 2018, p. 2).
+
+Sucede cuando no se realiza el mantenimiento en los plazos recomendados (por ejemplo, cada 5,000 o 10,000 km) o cuando se ignoran señales tempranas de deterioro por falta de sistemas de monitoreo. También ocurre cuando los mecánicos no cuentan con información técnica actualizada o herramientas modernas para hacer un diagnóstico oportuno.
+
+> ***“La no realización del mantenimiento preventivo en el momento oportuno, como al llegar a los 5,000 o 10,000 km, genera daños que se hubieran podido evitar” (Cutipa et al., 2018, p. 2).***
 
 ### 3. Where / ¿Dónde?
 El problema se evidencia en cualquier lugar donde se utilice el vehículo, especialmente durante su uso en carretera o ciudad. También ocurre en el sistema de mantenimiento tradicional, donde muchos talleres carecen de técnicas modernas para un diagnóstico adecuado. Los servicios automotrices muestran una escasa o inexistente implementación de métodos de mantenimiento predictivo y que no se emplean otras técnicas como análisis más profundos como el análisis de aceite, de gases, de vibraciones o la termografía. (Zambrano; Pérez 2021, p. 96).
