@@ -955,24 +955,24 @@ Después de un análisis, se realizaron las siguientes preguntas para entrevista
 
 ¿Estarías dispuesto a pagar una suscripción mensual por un servicio que te permita ahorrar en reparaciones y cuidar mejor tu vehículo?
 
-#### Segmento 3: Responsables de mantenimiento de flotas (uso empresarial)
-¿Cuántos vehículos gestionas actualmente y qué tipo de tareas realizan?
+#### Segmento 3: Mecánicos o técnicos automotrices que desean mejorar sus diagnósticos y comunicación con los clientes
+¿Con qué frecuencia los clientes llegan a tu taller sin tener claro qué le ocurre a su vehículo?
 
-¿Qué problemas enfrentas con más frecuencia al gestionar el mantenimiento de los vehículos?
+¿Qué tan útil sería para ti contar con diagnósticos previos generados por una app antes de revisar un auto?
 
-¿Tienes una estrategia o sistema actual para monitorear el estado de los vehículos en tiempo real? ¿Cuál?
+¿Sueles perder tiempo en identificar fallas que podrían haberse detectado con anticipación? ¿Cómo afecta esto tu trabajo?
 
-¿Qué tan seguido una falla en un vehículo genera retrasos o pérdidas económicas en tus operaciones?
+¿Qué opinas sobre tener un panel exclusivo donde puedas ver el historial técnico del vehículo que llega a tu taller?
 
-¿Cómo capacitas o controlas actualmente a los conductores para evitar malos hábitos de conducción?
+¿Estarías interesado en aparecer en un mapa digital dentro de una app que recomiende talleres cercanos a los conductores?
 
-¿Te gustaría tener una plataforma que te alerte sobre posibles fallas o comportamientos inadecuados de los conductores antes de que se conviertan en problemas costosos?
+¿Qué valor tendría para ti poder ofrecer diagnósticos más rápidos y precisos gracias a datos enviados por sensores del auto?
 
-¿Qué tan familiarizado estás con el uso de apps móviles o herramientas digitales para este tipo de gestión?
+¿Qué beneficios crees que traería esta tecnología tanto para ti como para tus clientes?
 
-¿Qué tipo de reportes o métricas serían útiles para ti si usaras una app como DriveCare?
+¿Estarías dispuesto a pagar una suscripción mensual por acceder a estas herramientas avanzadas y visibilidad en la plataforma?
 
-¿Cuál sería el beneficio más importante que te motivaría a pagar por una suscripción mensual para este tipo de servicio?
+¿Qué tipo de información técnica te sería más útil recibir desde la app para mejorar tu trabajo diario?
 
 ### Registro de entrevistas
 #### Segmento 1: Propietarios de vehículos urbanos (uso personal)
