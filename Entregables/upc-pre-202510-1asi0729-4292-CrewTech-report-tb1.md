@@ -226,12 +226,14 @@ conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el l
 ## Startup Profile
 
 ### Descripción de la Startup
-Vehix es una aplicación innovadora diseñada para supervisar constantemente el estado de un vehículo, ayudando así a preservar y prolongar su vida útil. De modo que, muchos conductores enfrentan el problema frecuente del desconomiento de las condiciones reales de su vehículo. Esto suele llevar a descuidos en el mantenimiento y, eventualmente, a reparaciones costosas cuando los problemas ya se han agravado. 
-Vehix adopta un enfoque centrado en el conductor, buscando entender sus necesidades de mantenimiento y cuidado vehicular para ofrecer soluciones personalizadas que garanticen el óptimo rendimiento de sus vehículos. Su objetivo es transformar la relación entre los usuarios y sus automóviles, mediante el uso de tecnología inteligente y un compromiso constante con la excelencia funcional y técnica.
+Vehix es una aplicación innovadora diseñada para supervisar constantemente el estado de un vehículo, ayudando así a preservar y prolongar su vida útil. De modo que, muchos conductores enfrentan el problema frecuente del desconomiento de las condiciones reales de su vehículo. Esto suele llevar a descuidos en el mantenimiento y, eventualmente, a reparaciones costosas cuando los problemas ya se han agravado. **Por otro lado, (comunicación-diagnosticos-datos técnicos)**
+
+
+Vehix adopta un enfoque centrado en el conductor, buscando entender sus necesidades de mantenimiento y cuidado vehicular para ofrecer soluciones personalizadas que garanticen el óptimo rendimiento de sus vehículos. Su objetivo es transformar la relación entre los usuarios y sus automóviles, mediante el uso de tecnología inteligente y un compromiso constante con la excelencia funcional y técnica. **(mantenimiento-mecanicos)**
 
 | **Misión** | **Visión** |
-|-----------|------------|
-| Brindar a los conductores y empresas una solución inteligente y accesible para el monitoreo, diagnóstico y cuidado preventivo de sus vehículos, utilizando adapatadores de diganóstico conectados y análisis de datos en tiempo real, con el fin de prolongar la vida útil de los automóviles y reducir los costos por fallas mecánicas. | Ser la plataforma líder en el Perú en soluciones tecnológicas para el mantenimiento predictivo vehicular, transformando la forma en que las personas cuidan sus vehículos y fomentando una cultura de conducción responsable, eficiente y sostenible. |
+|------------|------------|
+| Brindar a los conductores y mecánicos una solución inteligente y accesible para el monitoreo, diagnóstico y cuidado preventivo de sus vehículos, utilizando adapatadores de diganóstico conectados y análisis de datos en tiempo real, con el fin de prolongar la vida útil de los automóviles y reducir los costos por fallas mecánicas. | Convertirno en una plataforma líder en el Perú para el mantenimiento predictivo vehicular, destacándose por nuestra capcidad de brindar un cuidado vehicular a través de nuestra aplicación. |
 
 ### Perfiles de integrantes del equipo
 |  |   Descripción   |
@@ -243,15 +245,17 @@ Vehix adopta un enfoque centrado en el conductor, buscando entender sus necesida
 |<img src="https://github.com/user-attachments/assets/135bcaa9-9c65-4918-ac1f-1e78052c668b" alt="Sergio imagen" style="width: 250px; margin-right: 20px;"/> | Mi nombre es Sergio Gino Julca Minaya, con código u202318274. Actualmente soy estudiante del 5to ciclo de la carrera de Ingienería de Software, con conocimiento de html, css, desarrollo agile, método scrum, entre otros. Asimismo, me considero una persona constante, autodidacta, responsable y me gusta trabajar en equipo, de esta manera apoyaré a mi grupo en todo momento. |
 
 ## Solution Profile
-Nuestro producto se centra en realizar una aplicación diseñada para poder conectar a las personas interesadas que buscan prevenir el deterioro de sus vehículos y optimizar su mantenimiento mediante un sistema de monitoreo avanzado.
+Nuestro producto se centra en realizar una aplicación diseñada para poder ayudar a las personas interesadas en prevenir, mantener y optimizar el mantenimiento vehicular mediante un sistema de monitoreo en tiempo real.
 
 **Desafío**
 
-El desafío surge ya que muchos propietarios de vehículos enfrentan fallas mecánicas imprevistas, mantenimientos costosos y pérdida de rendimiento debido a la falta de información en tiempo real sobre el estado del automóvil y los hábitos de conducción. Esta problemática, común en usuarios con rutinas exigentes o poco conocimiento técnico, conlleva riesgos innecesarios, altos gastos y una reducción significativa en la durabilidad del vehículo. 
+Muchos propietarios enfrentan mantenimientos costosos y fallas inesperadas por falta de información técnica y prevención. Además, los mecánicos suelen lidiar con diagnósticos poco precisos y una comunicación deficiente con el cliente, dificultando reparaciones eficientes y certeras.
+
+Esta problemática, común en usuarios con rutinas exigentes o poco conocimiento técnico, conlleva a riesgos innecesarios, altos gastos y una reducción significativa en la durabilidad del vehículo. 
 
   **Objetivo**
   
-Con el objetivo de brindar una solución efectiva, surge Vehix, una innovadora aplicación que, en conjunto con un adaptador diagnóstico instalado en el vehículo, analiza constantemente datos como el comportamiento del conductor, el estado técnico del auto y las tendencias de uso. Mediante inteligencia artificial, la plataforma identifica malas prácticas, recomienda acciones correctivas y anticipa posibles fallos, permitiendo una intervención temprana antes de que surjan problemas mayores.
+Vehix ofrece una solución integral, el cual monitorea en tiempo real el estado del vehículo, detecta malas prácticas del conductor, anticipa fallos mediante inteligencia artificial y recomienda acciones correctivas. Asimismo, para los mecánicos, brinda una interfaz especializada con datos técnicos avanzados, facilitando diagnósticos precisos y una mejor comunicación con el cliente.
 
 **Monetización**
 
