@@ -309,7 +309,7 @@ El costo por no realizar mantenimiento predictivo puede ser alto: por ejemplo, u
 “Muchos conductores no realizan el mantenimiento periódico, lo que les genera mayores gastos y desperfectos que ponen en riesgo no solo al vehículo, sino también la vida del conductor.”
 — Cutipa et al., 2018, p. 2
 
-Frente a esto, Vehix ofrece un modelo de suscripción mensual accesible, con planes desde S/. 20.00 mensuales. Además, el adaptador inteligente que se conecta al vehículo tiene un costo estimado de S/. 20.00 como único pago. Esta inversión permite al usuario monitorear su vehículo en tiempo real, prevenir daños costosos, y extender la vida útil del auto, generando un importante ahorro a largo plazo.
+Frente a esto, Vehix ofrece un modelo de suscripción mensual accesible, con planes desde S/. 20.00 mensuales. Además, el adaptador inteligente que se conecta al vehículo tiene un costo estimado de S/. 20.00. Esta inversión permite al usuario monitorear su vehículo en tiempo real, prevenir daños costosos, y extender la vida útil del auto, generando un importante ahorro a largo plazo.
 
 ### Lean UX Process
 #### Lean UX Problem Statements
