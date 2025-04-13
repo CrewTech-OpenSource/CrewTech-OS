@@ -449,7 +449,6 @@ Debe ser intuitivo, claro y rápido. Asimismo, la app debe ofrecer información 
   >- De acuerdo con un estudio de la AAP (2022), los conductores de plataformas usan su vehículo un 40% más que un conductor promedio, lo que genera mayor desgaste y necesidad de mantenimiento frecuente. (https://aap.org.pe/estadisticas/informe-estadistico-automotor)
   >- Vehix les ofrece diagnóstico inteligente y recomendaciones para reducir los costos operativos y mantener el auto siempre disponible para trabajar.
 
- 
 **3. Mecánicos o técnicos automotrices que desean mejorar sus diagnósticos y comunicación con los clientes:** Este segmento enfrenta dificultades al realizar diagnósticos precisos debido a la falta de datos en tiempo real del vehículo. Además, necesitan mejorar la confianza y claridad al explicar problemas técnicos a los propietarios.
  - Edad: 25 a 60 años
  - Ocupación: Mecánicos independientes o técnicos en talleres automotrices.
@@ -463,7 +462,8 @@ Debe ser intuitivo, claro y rápido. Asimismo, la app debe ofrecer información 
    	- Aumentar la confianza del cliente y optimizar el tiempo de revisión.
   
   >[!IMPORTANT]
-  >- Cerca de la mitad de las empresas peruanas aumentarán su flota en los próximos 3 añoS. [https://gpautomocion.com/a-que-retos-se-enfrenta-el-taller-mecanico-en-2023/](https://gpautomocion.com/a-que-retos-se-enfrenta-el-taller-mecanico-en-2023/)
+  >- La automatización de procesos se está convirtiendo en una tendencia creciente en el taller mecánico, que busca mejorar su eficiencia y reducir los errores humanos mediante el uso de tecnologías innovadoras.. [https://gpautomocion.com/a-que-retos-se-enfrenta-el-taller-mecanico-en-2023/](https://gpautomocion.com/a-que-retos-se-enfrenta-el-taller-mecanico-en-2023/)
+   >- Los vehículos modernos tienen sistemas cada vez más complejos y sofisticados, lo que requiere que los mecánicos estén actualizados y capacitados para trabajar con esta tecnología. Además, la reparación de estos sistemas puede requerir herramientas y equipos especializados. [https://gpautomocion.com/a-que-retos-se-enfrenta-el-taller-mecanico-en-2023/](https://gpautomocion.com/a-que-retos-se-enfrenta-el-taller-mecanico-en-2023/)
   >- Vehix puede ayudar a los mecánico optimizar costos, reducir tiempos muertos por fallas y mejorar la precisión el diagnóstico y la comunicacion con el cliente.
 
 # CAPÍTULO 2
