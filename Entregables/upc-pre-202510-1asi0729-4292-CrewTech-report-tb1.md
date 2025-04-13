@@ -267,7 +267,6 @@ Este servicio opera bajo un modelo de suscripción mensual. Al estar activo, el 
 **Antecedentes**
 En la actualidad, los vehículos particulares y comerciales representan una parte esencial del transporte en el Perú. Según la Asociación Automotriz del Perú (AAP), en 2023 se reportaron más de 3.4 millones de vehículos circulando a nivel nacional, con una tendencia creciente en la compra de autos nuevos y usados. No obstante, con este incremento también ha surgido una preocupación creciente: el mantenimiento preventivo y la correcta utilización de los vehículos para evitar daños prematuros.
 
-(AAP 2023: https://aap.org.pe/estadisticas/informe-estadistico-automotor/iea-2023/)
 
 Según la Asociación de Exportadores (ADEX) informó que el 15% del presupuesto operativo de muchas empresas con flotas vehiculares se destina exclusivamente al mantenimiento y reparación. Además, el Instituto Nacional de Estadística e Informática (INEI) estima que existen más de 10,000 empresas formales en Perú que dependen de flotas vehiculares para sus operaciones diarias. Esto demuestra una necesidad de soluciones tecnológicas que faciliten el monitoreo y cuidado del estado mecánico de los vehículos.
 
@@ -430,8 +429,8 @@ Debe ser intuitivo, claro y rápido. Asimismo, la app debe ofrecer información 
     - Consejos personalizados para alargar la vida útil de su vehículo.
     - Seguimiento constante del estado del vehículo desde el celular.
   >[!IMPORTANT]
-  >- Según la Asociación Automotriz del Perú (AAP), más del 85% del parque automotor del país tiene más de 10 años de antigüedad, lo cual eleva el riesgo de fallas mecánicas si no se aplica un mantenimiento adecuado. (https://www.linkedin.com/posts/asociacion-automotriz-del-peru_el-pa%C3%ADs-de-am%C3%A9rica-latina-que-posee-el-parque-activity-7226974095203053569-HECY/?utm_source=chatgpt%2Ecom&originalSubdomain=es)
-  >- En el Perú, el 11.64% de los hogares tenían un auto o camioneta al final de 2023, según la Asociación Automotriz del Perú (AAP). (https://andina.pe/agencia/noticia-el-1164-hogares-todo-peru-poseen-un-auto-o-camioneta-987911.aspx)
+  >- Según la Asociación Automotriz del Perú (AAP), más del 85% del parque automotor del país tiene más de 10 años de antigüedad, lo cual eleva el riesgo de fallas mecánicas si no se aplica un mantenimiento adecuado. 
+  >- En el Perú, el 11.64% de los hogares tenían un auto o camioneta al final de 2023, según la Asociación Automotriz del Perú (AAP). 
   >- Vehix cubre esta necesidad con alertas y seguimiento inteligente desde el celular.
 
 **2. Conductores independientes que generan ingresos con su vehículo (Uber, InDriver, taxi, delivery):** Estos usuarios usan su vehículo como herramienta principal de trabajo. Buscan una solución confiable que los ayude a evitar fallas repentinas y a mejorar su conducción para trabajar más horas sin interrupciones.
@@ -445,8 +444,8 @@ Debe ser intuitivo, claro y rápido. Asimismo, la app debe ofrecer información 
     - Recomendaciones para mejorar su estilo de conducción y ahorrar combustible.
   
   >[!IMPORTANT]
-  >- Según la app Uber, existen más de 100,000 conductores activos en el Perú. A ello se suman miles de conductores de otras plataformas como InDriver, Cabify, Didi y aplicaciones de delivery. (https://gestion.pe/economia/empresas/uber-beat-cabify-cerca-de-100000-conductores-ofrecen-servicio-de-taxi-por-uber-beat-cabify-y-otras-en-peru-noticia)
-  >- De acuerdo con un estudio de la AAP (2022), los conductores de plataformas usan su vehículo un 40% más que un conductor promedio, lo que genera mayor desgaste y necesidad de mantenimiento frecuente. (https://aap.org.pe/estadisticas/informe-estadistico-automotor)
+  >- Según la app Uber, existen más de 100,000 conductores activos en el Perú. A ello se suman miles de conductores de otras plataformas como InDriver, Cabify, Didi y aplicaciones de delivery. 
+  >- De acuerdo con un estudio de la AAP (2022), los conductores de plataformas usan su vehículo un 40% más que un conductor promedio, lo que genera mayor desgaste y necesidad de mantenimiento frecuente. 
   >- Vehix les ofrece diagnóstico inteligente y recomendaciones para reducir los costos operativos y mantener el auto siempre disponible para trabajar.
 
 **3. Mecánicos o técnicos automotrices que desean mejorar sus diagnósticos y comunicación con los clientes:** Este segmento enfrenta dificultades al realizar diagnósticos precisos debido a la falta de datos en tiempo real del vehículo. Además, necesitan mejorar la confianza y claridad al explicar problemas técnicos a los propietarios.
@@ -462,8 +461,8 @@ Debe ser intuitivo, claro y rápido. Asimismo, la app debe ofrecer información 
    	- Aumentar la confianza del cliente y optimizar el tiempo de revisión.
   
   >[!IMPORTANT]
-  >- La automatización de procesos se está convirtiendo en una tendencia creciente en el taller mecánico, que busca mejorar su eficiencia y reducir los errores humanos mediante el uso de tecnologías innovadoras.. [https://gpautomocion.com/a-que-retos-se-enfrenta-el-taller-mecanico-en-2023/](https://gpautomocion.com/a-que-retos-se-enfrenta-el-taller-mecanico-en-2023/)
-   >- Los vehículos modernos tienen sistemas cada vez más complejos y sofisticados, lo que requiere que los mecánicos estén actualizados y capacitados para trabajar con esta tecnología. Además, la reparación de estos sistemas puede requerir herramientas y equipos especializados. [https://gpautomocion.com/a-que-retos-se-enfrenta-el-taller-mecanico-en-2023/](https://gpautomocion.com/a-que-retos-se-enfrenta-el-taller-mecanico-en-2023/)
+  >- La automatización de procesos se está convirtiendo en una tendencia creciente en el taller mecánico, que busca mejorar su eficiencia y reducir los errores humanos mediante el uso de tecnologías innovadoras.
+   >- Los vehículos modernos tienen sistemas cada vez más complejos y sofisticados, lo que requiere que los mecánicos estén actualizados y capacitados para trabajar con esta tecnología. Además, la reparación de estos sistemas puede requerir herramientas y equipos especializados.
   >- Vehix puede ayudar a los mecánico optimizar costos, reducir tiempos muertos por fallas y mejorar la precisión el diagnóstico y la comunicacion con el cliente.
 
 # CAPÍTULO 2
@@ -1229,7 +1228,7 @@ Contenido aquí...
 # BIBLIOGRAFÍA
 Agencia Andina. (2024, 2 de enero). El 11.64% de hogares en todo el Perú poseen un auto o camioneta. Andina. [https://andina.pe/agencia/noticia-el-1164-hogares-todo-peru-poseen-un-auto-o-camioneta-987911.aspx](https://andina.pe/agencia/noticia-el-1164-hogares-todo-peru-poseen-un-auto-o-camioneta-987911.aspx)
 
-Asociación Automotriz del Perú. (2022). Informe estadístico automotor. [https://aap.org.pe/estadisticas/informe-estadistico-automotor](https://aap.org.pe/estadisticas/informe-estadistico-automotor)
+Asociación Automotriz del Perú. (2023). Informe estadístico automotor. [https://aap.org.pe/estadisticas/informe-estadistico-automotor/iea-2023/](https://aap.org.pe/estadisticas/informe-estadistico-automotor/iea-2023/)
 
 Asociación Automotriz del Perú. (2024, 10 de abril). El país de América Latina que posee el parque automotor más envejecido [Publicación en LinkedIn]. LinkedIn. [https://www.linkedin.com/posts/asociacion-automotriz-del-peru_el-pa%C3%ADs-de-am%C3%A9rica-latina-que-posee-el-parque-activity-7226974095203053569-HECY/](https://www.linkedin.com/posts/asociacion-automotriz-del-peru_el-pa%C3%ADs-de-am%C3%A9rica-latina-que-posee-el-parque-activity-7226974095203053569-HECY/)
 
