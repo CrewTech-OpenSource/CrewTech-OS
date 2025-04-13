@@ -286,28 +286,39 @@ Sucede cuando no se realiza el mantenimiento en los plazos recomendados (por eje
 > ***“La no realización del mantenimiento preventivo en el momento oportuno, como al llegar a los 5,000 o 10,000 km, genera daños que se hubieran podido evitar” (Cutipa et al., 2018, p. 2).***
 
 ### 3. Where / ¿Dónde?
-El problema se evidencia en cualquier lugar donde se utilice el vehículo, especialmente durante su uso en carretera o ciudad. También ocurre en el sistema de mantenimiento tradicional, donde muchos talleres carecen de técnicas modernas para un diagnóstico adecuado. Los servicios automotrices muestran una escasa o inexistente implementación de métodos de mantenimiento predictivo y que no se emplean otras técnicas como análisis más profundos como el análisis de aceite, de gases, de vibraciones o la termografía. (Zambrano; Pérez 2021, p. 96).
+El problema se evidencia en cualquier lugar donde se utilice el vehículo, especialmente durante su uso en carretera o ciudad. También ocurre en el sistema de mantenimiento tradicional, donde muchos talleres carecen de técnicas modernas para un diagnóstico adecuado. 
+> ***Los servicios automotrices muestran una escasa o inexistente implementación de métodos de mantenimiento predictivo y que no se emplean otras técnicas como análisis más profundos como el análisis de aceite, de gases, de vibraciones o la termografía. (Zambrano; Pérez 2021, p. 96).***
 
 ###  4. Who / ¿Quién?
-Afecta principalmente a los conductores particulares y profesionales que, por desconocimiento o falta de tiempo, no realizan el mantenimiento de forma adecuada. También hay una gran cantidad de talleres con personal empírico. Además, el 80% de los ecuatorianos realizan el mantenimiento con mecánicos de confianza sin un enfoque técnico preestablecido y solo el 20 % realiza mantenimiento con las concesionarias. (Zambrano; Pérez 2021, p. 100).
+Afecta principalmente a tres actores:
+- Conductores particulares que, por falta de tiempo o conocimiento, postergan mantenimientos.
+- Conductores profesionales que dependen de su vehículo para trabajar y sufren pérdidas económicas por fallas inesperadas.
+- Mecánicos tradicionales, quienes muchas veces trabajan de forma empírica, sin apoyo tecnológico ni acceso a datos técnicos en tiempo real, dificultando diagnósticos certeros.
+Asimismo, el 80% de los peruanos realizan el mantenimiento con mecánicos de confianza sin un enfoque técnico preestablecido y solo el 20 % realiza mantenimiento con las concesionarias. (Zambrano; Pérez 2021, p. 100).
 
 ### 5. Why / ¿Por qué?
-Por falta de tiempo, desconocimiento técnico, o escasez de infraestructura adecuada, los usuarios no realizan mantenimiento predictivo. Además, los sistemas actuales no informan en tiempo real sobre el estado del vehículo. Una de las principales causas del problema es la falta de tiempo de los conductores para realizar el mantenimiento. Además, resalta que “muchos conductores no realizan el mantenimiento periódico de su auto, lo que les genera mayores gastos y desperfectos que ponen en riesgo no solo al vehículo, sino también la vida del conductor”. (Cutipa et al., 2018, p. 2).
+Ocurre por falta de educación técnica en los usuarios, ausencia de monitoreo digital, desorganización en los cronogramas de mantenimiento y escasa adopción tecnológica en talleres. Además, los sistemas actuales no informan en tiempo real sobre el estado del vehículo. Asimismo, se resalta que:
+> ***“Muchos conductores no realizan el mantenimiento periódico de su auto, lo que les genera mayores gastos y desperfectos que ponen en riesgo no solo al vehículo, sino también la vida del conductor”. (Cutipa et al., 2018, p. 2).***
 
 ### 6. How / ¿Cómo?
 Se diferencia del estado ideal porque no se realiza un monitoreo continuo y preciso. En el estado óptimo, el mantenimiento debería ser predictivo, usando datos para prevenir fallas antes de que ocurran. Además, el mantenimiento predictivo brinda la capacidad de anticipar cuándo podría presentarse una falla en los vehículos, y conocer este período previo a la avería es esencial para establecer el momento más adecuado para realizar el mantenimiento. (Sosa; Herrera, 2017, p. 580).
 
 ### 7. How Much / ¿Cuánto?
-Si bien no hay una cifra exacta de los problemas presentados por falta de mantenimiento en un día, se recomienda un mantenimiento preventivo luego de un recorrido de los 5,000 y 7,500 kilómetros o dentro de un tiempo estimado el cual es de 6 a 12 meses. Tras realizar este procedimiento y respetar el tiempo estimado se debe realizar cada 10,000 kilómetros, el cual el procedimiento sería el cambio de aceite, filtros, bujías y fajas. Además, de la revisión de luces, batería, mangueras, limpia brisas, entre otros.  (Cutipa et al., 2018, p. 13). El precio de cada mantenimiento varía respecto a los kilometrajes, para el primer servicio el cual es de 5,000 kilómetros, se requiere de Aceite de motor, Filtro de aceite y Filtro de aire el cual el costo daría un total de 199.15 soles, para el servicio de los 10,000 kilómetros se requiere Aceite de motor, Filtro de aceite, Filtro de aire y Bujías el cual el precio estimado sería de 245.76 soles. (Cutipa et al., 2018, p. 77).
+El costo por no realizar mantenimiento predictivo puede ser alto: por ejemplo, un servicio preventivo básico cada 5,000 km puede costar desde 230 soles, y uno más completo a los 10,000 km puede llegar a 400 soles. No respetar estos intervalos puede generar averías que superan los 1,000 soles en reparaciones imprevistas.
+
+“Muchos conductores no realizan el mantenimiento periódico, lo que les genera mayores gastos y desperfectos que ponen en riesgo no solo al vehículo, sino también la vida del conductor.”
+— Cutipa et al., 2018, p. 2
+
+Frente a esto, Vehix ofrece un modelo de suscripción mensual accesible, con planes desde S/. 20.00 mensuales. Además, el adaptador inteligente que se conecta al vehículo tiene un costo estimado de S/. 20.00 como único pago. Esta inversión permite al usuario monitorear su vehículo en tiempo real, prevenir daños costosos, y extender la vida útil del auto, generando un importante ahorro a largo plazo.
 
 ### Lean UX Process
 #### Lean UX Problem Statements
-Muchos conductores en el Perú enfrentan un desafío relacionado con el mantenimiento adecuado de sus vehículos debido a la falta de información en tiempo real sobre el estado técnico de sus autos y sus hábitos de conducción. Esto genera problemas como fallos mecánicos imprevistos, altos costos de reparaciones y una vida útil reducida de los vehículos. 
+Muchos conductores en el Perú enfrentan un desafío relacionado con el mantenimiento adecuado de sus vehículos debido a la falta de información en tiempo real sobre el estado técnico de sus autos, y el poco conocimiento técnico. Esto genera problemas como fallos mecánicos imprevistos, altos costos de reparaciones y una vida útil reducida de los vehículos. 
 
 A pesar de que muchos conductores intentan mantener sus autos, la falta de herramientas accesibles y fáciles de usar para monitorear el estado del vehículo y realizar un mantenimiento preventivo adecuado afecta negativamente la experiencia de conducción y los costos a largo plazo.
 
 Ante esta situación, surge nuestra pregunta de negocio: 
-***¿Cómo podemos enfrentar la falta de mantenimiento preventivo, la escasa información técnica disponible para los conductores y el elevado costo asociado a reparaciones vehiculares, mediante una solución tecnológica accesible que permita monitorear en tiempo real el estado del vehículo desde el teléfono móvil?***
+***¿Cómo podemos enfrentar la falta de mantenimiento preventivo, la escasa información técnica disponible para los conductores y técnico, y el elevado costo asociado a reparaciones vehiculares, mediante una solución tecnológica accesible que permita monitorear en tiempo real el estado del vehículo?***
 
 #### Lean UX Assumptions
 
