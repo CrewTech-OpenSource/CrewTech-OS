@@ -997,7 +997,7 @@ Darlyn utiliza su auto diariamente para desplazarse y hacer diligencias, pero no
 Rocío emplea su auto principalmente para ir al trabajo y actividades personales. Aunque realiza mantenimientos periódicos, lo hace sin un sistema de seguimiento claro, lo que ya le ha causado reparaciones costosas. No tiene experiencia usando apps relacionadas a vehículos, pero se siente cómoda con la tecnología móvil y muestra interés en una aplicación que le dé tranquilidad, alertas preventivas y consejos sobre su forma de conducir. Está abierta a pagar por el servicio, siempre que sea accesible y útil para su día a día.
 
 
-### Segmento 3: Responsables de mantenimiento de flotas (uso empresarial)
+### Segmento 3: Mecánicos o técnicos automotrices
 
 
 [Video]
