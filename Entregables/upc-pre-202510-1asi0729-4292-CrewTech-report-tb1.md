@@ -335,15 +335,15 @@ Ante esta situación, surge nuestra pregunta de negocio:
 + A medida que la aplicación recibe más datos de los usuarios, los algoritmos de inteligencia artificial mejoran. Esto permite que el servicio sea más eficiente, ya que las recomendaciones y alertas serán más precisas y útiles. Como resultado, se reducirán los costos de operación y mejorará la calidad del servicio para los usuarios.
 
 **User Assumptions**
-+ Creo que mis clientes necesitan una solución práctica y accesible para monitorear el estado de sus vehículos en tiempo real, ya que muchos conductores desconocen cuándo deben realizar mantenimiento preventivo o detectar fallas antes de que se conviertan en problemas costosos o peligrosos.
++ Creo que mis clientes necesitan una solución práctica y accesible para monitorear el estado de sus vehículos en tiempo real, y mejorar la los diagnósticos y comunicación mecánico-conductor, ya que muchos de estos desconocen cuándo deben realizar mantenimiento preventivo o detectar fallas antes de que se conviertan en problemas costosos o peligrosos.
   
 + Estas necesidades se pueden resolver mediante una aplicación conectada por Bluetooth a un escáner OBD-II (como el ELM327), que permita recibir datos del vehículo directamente en el celular, visualizar alertas, obtener recomendaciones y llevar un historial de mantenimiento y comportamiento del auto.
 
-+ Mis clientes iniciales incluirán conductores de vehículos particulares (de uso diario o familiar), jóvenes adultos con interés en tecnología automotriz, padres de familia que priorizan la seguridad vehicular y pequeños negocios de transporte que buscan reducir costos de mantenimiento correctivo.
++ Mis clientes iniciales incluirán conductores de vehículos particulares (de uso diario o familiar), jóvenes adultos con interés en tecnología automotriz, padres de familia que priorizan la seguridad vehicular y mecánico que buscan mejorar sus diagnóstico y fortalecer la confianza con sus clientes.
 
 + El valor #1 que un cliente quiere de mi servicio es la seguridad y tranquilidad de saber que su vehículo está funcionando correctamente y que será alertado de cualquier posible problema antes de que ocurra una falla mayor.
 
-+ Los usuarios también podrían obtener beneficios adicionales como: historial técnico del auto, recordatorios inteligentes de mantenimiento, patrones de conducción registrados, conexión con técnicos de confianza, y posibles descuentos o recomendaciones de servicios automotrices aliados.
++ Los usuarios también podrían obtener beneficios adicionales como: historial técnico del auto, recordatorios inteligentes de mantenimiento, patrones de conducción registrados, conexión con técnicos de confianza, y posibles recomendaciones de servicios automotrices aliados.
 
 + Voy a adquirir a la mayoría de mis usuarios mediante estrategias digitales, como campañas en redes sociales, contenido en YouTube/TikTok sobre mantenimiento de autos, alianzas con tiendas de autopartes y talleres, y presencia en ferias automotrices o de tecnología.
 
@@ -351,7 +351,7 @@ Ante esta situación, surge nuestra pregunta de negocio:
 
 + Nuestra competencia principal son otras apps de diagnóstico automotriz conectadas vía OBD-II, como FIXD, CarMD y Drivvo, además de servicios técnicos tradicionales que no usan tecnología, y plataformas que ofrecen revisiones periódicas sin seguimiento digital.
 
-+ Superaremos a la competencia ofreciendo una experiencia de usuario simple y conectada, con diseño amigable y asistencia, combinando monitoreo inteligente con funciones prácticas como historial y alertas predictivas.
++ Superaremos a la competencia ofreciendo una experiencia de usuario simple y conectada, con diseño amigable y asistencia, combinando monitoreo inteligente con funciones prácticas como historial y alertas predictivas y en tiempo real.
 
 + El riesgo más grande para el producto es la resistencia de los usuarios a usar dispositivos adicionales (como el ELM327) o la poca familiaridad con el uso de herramientas tecnológicas en vehículos.
 
@@ -397,10 +397,10 @@ Ante esta situación, surge nuestra pregunta de negocio:
 #### User Knowledge
 
 **a. ¿Quién es el usuario?**
-Conductores de vehículos particulares o profesionales que desean tener mayor control, seguridad y mantenimiento preventivo de su auto.
+Conductores de vehículos particulares o profesionales y mecánicos que desean tener mayor control, seguridad y mantenimiento preventivo de su auto.
 
 **b. ¿Dónde encaja nuestro producto en su trabajo o vida?**
-En el uso cotidiano del vehículo, ayudando a monitorear su estado y funcionamiento en tiempo real mientras conducen o al estacionar.
+En el uso cotidiano del vehículo, ayudando a monitorear su estado y funcionamiento en tiempo real mientras conducen, en el caso de los conductores. Asimismo, estará presente en el trabajo de los mecánicos para una mejor comunicacion cliente-mecánico y la mejora en la presición de los diagnósticos.
 
 **c. ¿Qué problemas tiene nuestro producto y cómo se pueden resolver?**
 Puede enfrentar resistencia al uso de tecnología o falta de conectividad. De manera que se resuelve con una interfaz simple, conectividad Bluetooth estable y un adaptador de diagnóstico accesible.
@@ -409,7 +409,7 @@ Puede enfrentar resistencia al uso de tecnología o falta de conectividad. De ma
 Es usado al encender y manejar el vehículo, mediante una app conectada por Bluetooth que recibe datos del adaptador de diagnóstico instalado en el vehículo.
 
 **e. ¿Qué características son importantes?**
-Alertas en tiempo real, historial de fallos, predicción de problemas mecánicos, mejora de buenas práticas de condudcción.
+Alertas en tiempo real, historial de fallos, predicción de problemas mecánicos y datos ténicos.
 
 **f. ¿Cómo debe verse nuestro producto y cómo debe comportarse?**
 Debe ser intuitivo, claro y rápido. Asimismo, la app debe ofrecer información útil de forma visual y enviar alertas automáticas sin requerir mucha interacción del usuario.
@@ -450,20 +450,21 @@ Debe ser intuitivo, claro y rápido. Asimismo, la app debe ofrecer información 
   >- Vehix les ofrece diagnóstico inteligente y recomendaciones para reducir los costos operativos y mantener el auto siempre disponible para trabajar.
 
  
-**3. Responsables de mantenimiento de empresas que gestionan flotas de vehículos:** Este segmento busca soluciones eficientes para monitorear múltiples vehículos al mismo tiempo, reducir gastos innecesarios y asegurar que su flota se mantenga activa y rentable con el menor costo posible.
+**3. Mecánicos o técnicos automotrices que desean mejorar sus diagnósticos y comunicación con los clientes:** Este segmento enfrenta dificultades al realizar diagnósticos precisos debido a la falta de datos en tiempo real del vehículo. Además, necesitan mejorar la confianza y claridad al explicar problemas técnicos a los propietarios.
  - Edad: 25 a 60 años
- - Ocupación: Jefes o encargados de logística, operaciones o transporte.
- - Tipo de empresa: Distribución, transporte o mantenimiento técnico.
+ - Ocupación: Mecánicos independientes o técnicos en talleres automotrices.
+ - Tipo de entorno: Talleres mecánicos pequeños, medianos o de confianza, fuera de concesionarias.
  - País: Perú.
- - Dominio: Nivel intermedio o básico en tecnología, pero familiarizados con apps móviles.
+ - Dominio: Nivel avanzado o experto en mecánica automotriz, pero con un nivel básico o intermedio en tecnología; familiarizados con el uso de apps móviles, pero no necesariamente con herramientas digitales especializadas.
  - Beneficios buscados:
-    - Monitorear el uso de cada vehículo de la flota en tiempo real.
-    - Prevenir fallas que generen retrasos operativos o pérdidas económicas.
-    - Corregir hábitos inadecuados de manejo en los conductores.
+   	- Acceder a datos técnicos y códigos de falla del vehículo de forma inmediata.
+   	- Mejorar la precisión del diagnóstico sin depender únicamente de la experiencia empírica.
+   	- Tener una base técnica clara para explicar al cliente las reparaciones necesarias.
+   	- Aumentar la confianza del cliente y optimizar el tiempo de revisión.
   
   >[!IMPORTANT]
   >- Cerca de la mitad de las empresas peruanas aumentarán su flota en los próximos 3 años (https://gestion.pe/economia/empresas/flotas-leasing-empresas-vehiculos-cerca-de-la-mitad-de-las-empresas-peruanas-aumentaran-su-flota-en-los-proximos-3-anos-noticia/)
-  >- Vehix puede ayudar a estas empresas a optimizar costos, reducir tiempos muertos por fallas y mejorar el control sobre el comportamiento de los conductores.
+  >- Vehix puede ayudar a los mecánico de estas empresas a optimizar costos, reducir tiempos muertos por fallas y mejorar el control sobre el comportamiento de los conductores.
 
 # CAPÍTULO 2
 ## Competidores
