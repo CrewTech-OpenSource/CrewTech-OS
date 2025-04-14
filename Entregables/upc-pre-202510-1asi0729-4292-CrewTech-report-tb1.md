@@ -1057,15 +1057,15 @@ lorem
 
 ### As-is Scenario Mapping
 **Segmento 1:** Propietarios de vehículos urbanos que desean prolongar la vida útil de su auto personal.
-![As Is Segmento 1](/Assets/img/chapter-II/as-is-scenario-segmento-1.png)
+![As Is Segmento 1](/Assets/img/chapter-II/as-is-scenario-segmento-1.jpg)
 
 
 **Segmento 2:**  Conductores independientes que generan ingresos con su vehículo (Uber, InDriver, taxi, delivery).
-![As Is Segmento 2](/Assets/img/chapter-II/as-is-scenario-segmento-2.png)
+![As Is Segmento 2](/Assets/img/chapter-II/as-is-scenario-segmento-2.jpg)
 
 
 **Segmento 3:** Responsables de mantenimiento de empresas que gestionan flotas de vehículos.
-![As Is Segmento 3](/Assets/img/chapter-II/as-is-scenario-segmento-3.png)
+![As Is Segmento 3](/Assets/img/chapter-II/as-is-scenario-segmento-3.jpg)
 
 
 ## Ubiquitous Language
