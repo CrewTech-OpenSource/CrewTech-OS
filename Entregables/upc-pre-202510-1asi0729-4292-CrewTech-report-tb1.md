@@ -880,7 +880,7 @@ Debe ser intuitivo, claro y rápido. Asimismo, la app debe ofrecer información 
 ### Estrategias y tácticas frente a competidores
 
 **Análisis Foda**
-![foda](/Assets/img/foda.png)
+![foda](/Assets/img/chapter-I/foda.png)
 
 Para posicionarse de manera efectiva en el mercado y destacar frente a competidores como FIXD, CarMD y Drivvo, Vehix aplicará las siguientes estrategias y tácticas preliminares orientadas a afrontar las fortalezas de la competencia, actuar en función de las oportunidades, aprovechar sus debilidades y amenazas del entorno competitivo:
 
@@ -1033,39 +1033,39 @@ lorem
 
 ### User Journey Mapping
 **Segmento 1:** Propietarios de vehículos urbanos que desean prolongar la vida útil de su auto personal.
-![image](https://github.com/user-attachments/assets/5a284b53-14d8-4704-8706-15c8aecf4cd4)
+![User Journey Mapping Segmento 1](/Assets/img/chapter-II/journey-map-segmento-1.png)
 
 **Segmento 2:**  Conductores independientes que generan ingresos con su vehículo (Uber, InDriver, taxi, delivery).
-![image](https://github.com/user-attachments/assets/0f7d15de-9820-48e4-8af4-1971b1f11a01)
+![User Journey Mapping Segmento 2](/Assets/img/chapter-II/journey-map-segmento-2.png)
 
 
 **Segmento 3:** Responsables de mantenimiento de empresas que gestionan flotas de vehículos.
-![image](https://github.com/user-attachments/assets/6dde60d8-e3aa-4c38-b6a7-f29ffbb846dd)
+![User Journey Mapping Segmento 3](/Assets/img/chapter-II/journey-map-segmento-3.png)
 
 ### Empathy Mapping
 **Segmento 1:** Propietarios de vehículos urbanos que desean prolongar la vida útil de su auto personal.
-![Segmento 1](https://github.com/user-attachments/assets/685e0738-2d70-42a4-9117-1a7e7b1af3df)
+![Empathy Mapping Segmento 1](/Assets/img/chapter-II/empathy-map-segmento-1.png)
 
 
 **Segmento 2:**  Conductores independientes que generan ingresos con su vehículo (Uber, InDriver, taxi, delivery).
-![2](https://github.com/user-attachments/assets/8b2f3747-19c8-4d84-b43f-aef979413716)
+![Empathy Mapping Segmento 2](/Assets/img/chapter-II/empathy-map-segmento-2.png)
 
 
 **Segmento 3:** Responsables de mantenimiento de empresas que gestionan flotas de vehículos.
-![3](https://github.com/user-attachments/assets/94c379a9-aa9e-4d08-80f9-08ac25670d7d)
+![Empathy Mapping Segmento 3](/Assets/img/chapter-II/empathy-map-segmento-3.png)
 
 
 ### As-is Scenario Mapping
 **Segmento 1:** Propietarios de vehículos urbanos que desean prolongar la vida útil de su auto personal.
-![AS-IS-S1](https://github.com/user-attachments/assets/c58f591d-ca29-49b1-a592-5495dad8a9e7)
+![As Is Segmento 1](/Assets/img/chapter-II/as-is-scenario-segmento-1.png)
 
 
 **Segmento 2:**  Conductores independientes que generan ingresos con su vehículo (Uber, InDriver, taxi, delivery).
-![AS-IS-S2](https://github.com/user-attachments/assets/1e5feed4-484d-4048-9903-03944cea525e)
+![As Is Segmento 2](/Assets/img/chapter-II/as-is-scenario-segmento-2.png)
 
 
 **Segmento 3:** Responsables de mantenimiento de empresas que gestionan flotas de vehículos.
-![AS-IS-S3](https://github.com/user-attachments/assets/52d844d1-99df-4d29-92cf-f71aacf80f9e)
+![As Is Segmento 3](/Assets/img/chapter-II/as-is-scenario-segmento-3.png)
 
 
 ## Ubiquitous Language
